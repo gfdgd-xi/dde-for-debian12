@@ -1,0 +1,21 @@
+Package: libdlmaria2
+Architecture: amd64
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 124
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 4.1.1), aria2, curl
+Conflicts: org.deepin.downloader (<= 5.3.15)
+Replaces: org.deepin.downloader (<= 5.3.15)
+Filename: ./l/libdlmaria2/libdlmaria2_5.3.70_amd64.deb
+Size: 42124
+MD5sum: bd5875d2046451edcf140ae919c1d285
+SHA1: eb8e6f8e8eba1420544a9055226f2acbd47d2f4e
+SHA256: 1676bd004a1a58d4bf450ff4d17e877f70a87c97b626c7149ebe810ad42bb51c
+SHA512: 71c95fb14184e2df5a6087d0e3286021735ddbc0ace3d81558825ca3155c51f09fe2afc829f2718e24c27df540fb69eb9d18b9e0b751389d315294219613679c
+Homepage: https://www.deepin.org/
+Description: download manager dlmaria2 lib.
+ downloader for deepin desktop environment.
+

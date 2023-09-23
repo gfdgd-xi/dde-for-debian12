@@ -1,0 +1,24 @@
+Package: libddcutil3
+Architecture: amd64
+Version: 0.9.9-2
+Priority: optional
+Section: libs
+Source: ddcutil
+Maintainer: Sanford Rockowitz <rockowitz@minsoft.com>
+Installed-Size: 517
+Depends: libc6 (>= 2.33), libglib2.0-0 (>= 2.39.4), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.22), libx11-6, libxrandr2 (>= 2:1.2.99.2), pci.ids, usb.ids, usbutils
+Filename: ./l/libddcutil3/libddcutil3_0.9.9-2_amd64.deb
+Size: 178868
+MD5sum: 1cd82c8cd422e2bb120374ed5bcb2e46
+SHA1: b2f22ee15fb3eec7d265eeb3c68e68ff46b53d98
+SHA256: 8d6e3b31b866a7325d18a942fdf3c901303a7522b6ce1d3938b919776586932a
+SHA512: dca793847c7f0d2a06b9a74eca7de78ea3e3ceaf95cd1b2abaae0e37197d0633c8c43a8ab134302fd7bb85068e87d367ea4e142eba2c12ca3f89006eae22dc33
+Homepage: http://www.ddcutil.com
+Description: Query and change monitor settings - shared library
+ This is the shared library version of ddcutil.
+ .
+ ddcutil communicates with monitors implementing MCCS (Monitor Control Command
+ Set). Normally, communication is performed using the DDC/CI protocol on the
+ I2C bus.  Alternatively, communication can be performed over USB as per the
+ USB Monitor Control Class Specification.
+

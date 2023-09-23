@@ -1,0 +1,22 @@
+Package: deepin-deb-installer
+Architecture: amd64
+Version: 6.0.10
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2679
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqapt3 (>= 3.0.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11), libqapt3-runtime
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-deb-installer/deepin-deb-installer_6.0.10_amd64.deb
+Size: 1036104
+MD5sum: 962dba9ddb106fca0bbc1174be23b3b3
+SHA1: 013ec2761c0faf6271a98103a19118d77e744e03
+SHA256: d547aa8a76ab91891f3c867b49c2aa9cf3e2201a32139ea060b2acd036295b9d
+SHA512: 7f3c923cf4bba6015973476aa70b78d7719fb95988aee88f214e66ac004afe283cc6a147599b0cbcaa94362b29fdfdd27e3b0d707bb26713e9c330db47c2619a
+Homepage: https://www.deepin.com/
+Description: Package Installer helps users install and remove local packages.
+ Package Installer is an easy-to-use .deb package management tool
+ with a simple interface for users to quickly install customized applications
+ not included in App Store supporting bulk installation, version identification
+ and auto completion.
+

@@ -1,0 +1,19 @@
+Package: linglong-installer
+Architecture: amd64
+Version: 1.3.3.6-1
+Priority: optional
+Section: admin
+Source: linglong-store
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 60
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1), linglong-bin
+Filename: ./l/linglong-installer/linglong-installer_1.3.3.6-1_amd64.deb
+Size: 14212
+MD5sum: 298e078d7b9357e3e31e1e7fa8185798
+SHA1: cd546fd347ce4ccb24e333166be9ac68e91c85d0
+SHA256: c2c0a2ad4f083b55dc22060577b7ee12684692a4ddd692cb8953036c6abc0daa
+SHA512: 5b1395125f6350e14ae55a32b512c08407c92c7251c2a4e8e495c8a157d2e365878b2cac4b5b31409b8db1e182e60472b46c4a28e9036f79b01dfaa8e59b1a97
+Homepage: https://www.deepin.org
+Description: Deepin sandbox with OCI standard.
+ Deepin sandbox...
+

@@ -1,0 +1,19 @@
+Package: libgenudfimage
+Architecture: amd64
+Version: 1.0.7
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: genudfimage
+Maintainer: Zhang Sheng <zhangsheng@uniontech.com>
+Installed-Size: 97
+Filename: ./l/libgenudfimage/libgenudfimage_1.0.7_amd64.deb
+Size: 34828
+MD5sum: b31ea88aec77d21ae3860b131675f85f
+SHA1: 338147873f63df3266277182f2b17a55592191ff
+SHA256: 9d6c64b11d2de3d790c2e5260ceeea77c9db7b3d69bf1f27c50bc01d216f924d
+SHA512: 52feb9e05d6190157e475b881889c6cbc55bd0d0c1cf4d51fbfae5627d7a910e62cce59036f421db1b1b7600680314b6a6a6a05ffb39ac4983a86bdf0a29f942
+Homepage: https://gerrit.uniontech.com/admin/repos/libgenudfimage
+Description: generate a UDF image
+ generate a UDF image as a low level library
+

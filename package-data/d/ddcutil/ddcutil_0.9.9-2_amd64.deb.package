@@ -1,0 +1,23 @@
+Package: ddcutil
+Architecture: amd64
+Version: 0.9.9-2
+Priority: optional
+Section: utils
+Maintainer: Sanford Rockowitz <rockowitz@minsoft.com>
+Installed-Size: 614
+Depends: libc6 (>= 2.34), libdrm2 (>= 2.4.66), libglib2.0-0 (>= 2.39.4), libudev1 (>= 183), libx11-6, libxrandr2 (>= 2:1.2.99.2), pci.ids, usb.ids, usbutils, i2c-tools
+Filename: ./d/ddcutil/ddcutil_0.9.9-2_amd64.deb
+Size: 217288
+MD5sum: af3e597da8e15aafd17001b737ea7ec7
+SHA1: 2bb7ff11f9b10a041a51179bd2c495a4b1a3be8b
+SHA256: 3f532202ffa0f876023c0fbc68320f389844569a8b626700ce5118b74c687ef1
+SHA512: 20443e17aa0896cd2d8213e7dc04e08e2b8cfed8c5e12a1199fff28a8f93f034d02ced55e03693da78008a455ff7694c2a2aefbcc093cbe01cf3556063f77ce0
+Homepage: http://www.ddcutil.com
+Description: Query and change monitor settings - command line application
+ This is the command line version of ddcutil.
+ .
+ ddcutil communicates with monitors implementing MCCS (Monitor Control Command
+ Set). Normally, communication is performed using the DDC/CI protocol on the
+ I2C bus.  Alternatively, communication can be performed over USB as per the
+ USB Monitor Control Class Specification.
+

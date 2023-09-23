@@ -1,0 +1,19 @@
+Package: deepin-forum
+Architecture: all
+Version: 0.1-1
+Multi-Arch: foreign
+Priority: optional
+Section: net
+Maintainer: Heng Liu <liuhnga@uniontech.com>
+Installed-Size: 37
+Depends: xdg-utils
+Filename: ./d/deepin-forum/deepin-forum_0.1-1_all.deb
+Size: 6936
+MD5sum: 8c33762ae078ed64ee263999ff967d0e
+SHA1: 4064cd41b24cadf5cc3c864eef30ceec69ef6fba
+SHA256: a2392e999772fcea37c713cc476ea23b9e4914fd97ffac8a26f1da8b0d96f563
+SHA512: f5fda42eff19ab61357934d56ce1b72a858be2cc15d4d9c6816dc66a574c5843cd9abff9c4630e7880ed1352fdab918619852b575a63bf2a627425defd95c36b
+Homepage: https://www.deepin.org/
+Description: A scripts to deepin forum
+ A shortcut to deepin forum
+

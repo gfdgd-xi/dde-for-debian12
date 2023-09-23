@@ -1,0 +1,18 @@
+Package: deepin-home-appstore-daemon
+Architecture: arm64
+Version: 8.0.0.0002-1
+Priority: optional
+Section: admin
+Maintainer: LiangWeiDong <liangweidong@uniontech.com>
+Installed-Size: 1643
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libstdc++6 (>= 5.2), linglong-bin, libdtkwidget5, libqt5widgets5, libdframeworkdbus2, libqt5sql5-sqlite, libqt5xml5, openssl
+Filename: ./d/deepin-home-appstore-daemon/deepin-home-appstore-daemon_8.0.0.0002-1_arm64.deb
+Size: 459812
+MD5sum: ae9e546747aaa218921b84d0a003c267
+SHA1: 29d74dfa1fecb4ffd49ac6455227150a71bae272
+SHA256: d6ada1742a458d6b637af1320b37e53fc9392f150cc9bca48b1fda8c1303e387
+SHA512: 81e96ba49c002128b462fa22b1bbd5cb209bd853b68ef16cf7f156cd563e9ce776c4d685c37efd3597bc0261d2013f38023fd9ea0f6c0a5085c918c069030907
+Homepage: https://www.deepin.com
+Description: Deepin Appstore Daemon Home
+ Deepin Home App Store Daemon.
+

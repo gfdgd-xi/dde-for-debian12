@@ -1,0 +1,18 @@
+Package: deepin-desktop-theme
+Architecture: amd64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: deepin-theme-bloom, deepin-theme-vintage, deepin-theme-organic-glass, deepin-theme-hazy-color, deepin-theme-flow, deepin-theme-square, deepin-theme-macaron
+Filename: ./d/deepin-desktop-theme/deepin-desktop-theme_1.0.8_amd64.deb
+Size: 2480
+MD5sum: eda7277a045df52344559a688c01ea9e
+SHA1: b7fba5523c5e16735b0f8852ce2e49d33ba04290
+SHA256: 5395b6c24922096e1584b701205dbf064fe76e86cf8cd77ca156ff20024dded0
+SHA512: 6620f738a380c0470896be7bd3ff437cfdf8360dd6bb6d5278d3f4c8c3a43c64d287c588a6b1719998987616927fe5d6312a91bacc00ab6dac8a38e4bf94bf21
+Homepage: http://www.deepin.org
+Description: deepin desktop theme
+ This package is DeepinDesktopTheme
+

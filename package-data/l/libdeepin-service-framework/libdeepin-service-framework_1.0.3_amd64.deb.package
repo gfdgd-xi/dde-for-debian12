@@ -1,0 +1,18 @@
+Package: libdeepin-service-framework
+Architecture: amd64
+Version: 1.0.3
+Priority: optional
+Section: admin
+Source: deepin-service-manager
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 242
+Depends: libc6 (>= 2.2.5), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 5.2), libsystemd0 (>= 243)
+Filename: ./l/libdeepin-service-framework/libdeepin-service-framework_1.0.3_amd64.deb
+Size: 53880
+MD5sum: 979d2349909841438ecca104dd467648
+SHA1: 9c3d98275c144898f131f6aba5f7ab2c9ab6c3f2
+SHA256: 0a0833ce689f63d361c977b41020b5e1a76bd150f67f4257eaf33045500c4ff7
+SHA512: 6aa83436e6458ea81c9dfd03bf9c8aa5baedf7e0412df1a0ec207d229e87dba66ca498e1888d1beede06dd79c370d911aa47486c6f88fce8ee3ab375c367ed07
+Homepage: https://github.com/linuxdeepin
+Description: deepin desktop-environment - service frame
+

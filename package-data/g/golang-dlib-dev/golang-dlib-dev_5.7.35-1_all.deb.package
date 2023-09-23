@@ -1,0 +1,21 @@
+Package: golang-dlib-dev
+Architecture: all
+Version: 5.7.35-1
+Priority: extra
+Section: devel
+Source: go-dlib
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1821
+Provides: go-dlib
+Depends: golang-github-linuxdeepin-go-x11-client-dev, golang-github-cryptix-wav-dev, golang-github-fsnotify-fsnotify-dev, golang-github-mozillazg-go-pinyin-dev, golang-golang-x-image-dev, golang-gir-gobject-2.0-dev (>> 1.2.0+), golang-gir-gio-2.0-dev (>> 1.2.0+), golang-gir-glib-2.0-dev (>> 1.2.0+), golang-dbus-dev, libpulse-dev, libgtk-3-dev, libasound2-dev, libpam0g-dev, golang-golang-x-net-dev
+Filename: ./g/golang-dlib-dev/golang-dlib-dev_5.7.35-1_all.deb
+Size: 342044
+MD5sum: 9159528f1c34b419ccd78c04a9492b60
+SHA1: 32a987fb8e5ae888b93a6b0f31634a5618673da2
+SHA256: 9998c1d24e7acc057c75e8755890fd2a9b7e56840f041ef1c2d9debf8a4bef83
+SHA512: 42d5da2cb22ff12e82ef4d1d4b9037e1e7484613f25df35f3635c87d86d9041321fb7a864b120723a430014805cc2ab3f45bc9886a893fc8dffe784544e62b40
+Homepage: http://www.deepin.org
+Description: Go bindings for Deepin Desktop Environment development
+ DLib is a set of Go bindings/libraries for DDE development.
+ Containing dbus (forking from guelfey), glib, gdkpixbuf, pulse and more.
+

@@ -1,0 +1,19 @@
+Package: lastore-daemon-dev
+Architecture: all
+Version: 6.2.3
+Priority: optional
+Section: admin
+Source: lastore-daemon
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 35
+Depends: lastore-daemon (>= 6.2.3), lastore-daemon (<< 6.2.3.1~)
+Filename: ./l/lastore-daemon-dev/lastore-daemon-dev_6.2.3_all.deb
+Size: 6520
+MD5sum: ff08ec518aafc83e1d088a312bf794c4
+SHA1: 15ae3770d68d44698b2fcdd4807b12198058bd9e
+SHA256: 1d9fa371955ae9ac153ea0517777927caac0a4994e35625d914362e9413c38c6
+SHA512: 17ddbcd3ab1e81473326b2ebfada01f4888ec22572370546c8c9f11532464921a2d7c7b1a8c240ea033e68bc8e83aae6bb12be6adca170414724915021cfe1f3
+Homepage: http://github.com/linuxdeepin/lastore-daemon
+Description: daemon of lastore - development files.
+ daemon of lastore - support dbus interface - development files.
+

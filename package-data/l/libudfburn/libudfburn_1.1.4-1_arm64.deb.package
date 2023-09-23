@@ -1,0 +1,19 @@
+Package: libudfburn
+Architecture: arm64
+Version: 1.1.4-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Maintainer: Xu Shitong <xushitong@uniontech.com>
+Installed-Size: 53
+Depends: libgenudfimage (>= 1.0.1), libc6 (>= 2.33)
+Filename: ./l/libudfburn/libudfburn_1.1.4-1_arm64.deb
+Size: 14068
+MD5sum: c09c53ee906b007c7c7867950d4ba276
+SHA1: 78bd5443a75781d31ef1241326efb28b497fc340
+SHA256: 4b51b2b6d10475605f0b140136c8a0513ec215de3baeaa703dec507f23ebc221
+SHA512: 1c6d0b893a02a9d47d5a4e04b73fda1b274203fe872805ef4a4864d991db76ee016e18a8d99d4cf2019926222bc0cf08a35456861e027fd0e327fc4f1d35db70
+Homepage: <insert the upstream URL, if relevant>
+Description: a lib for burn images
+ a simple image burner;
+

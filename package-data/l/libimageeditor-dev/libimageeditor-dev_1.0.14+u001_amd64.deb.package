@@ -1,0 +1,22 @@
+Package: libimageeditor-dev
+Architecture: amd64
+Version: 1.0.14+u001
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 31
+Depends: libimageeditor (= 1.0.14+u001)
+Recommends: libqt5libqgtk2, kimageformat-plugins, deepin-ocr
+Conflicts: libimage-viewer-dev
+Replaces: libimage-viewer-dev
+Filename: ./l/libimageeditor-dev/libimageeditor-dev_1.0.14+u001_amd64.deb
+Size: 6312
+MD5sum: 4f64f14ed3acce3ef714f0975a7bcd39
+SHA1: f461c3eaeb3c1465ce6629d558190a9719fdacbe
+SHA256: 99bc92674340ebce9034f73cb70280db4ec04ce73a204156be7179b44637fb86
+SHA512: a67d1976012e21b0ecc3e90043043467480923667eb6c102b2e34aa79ed9adbdf7c3c375782d3873925cf51c1e8af4d33f06e0f7755017951fc9d58238e8ce06
+Homepage: http://www.deepin.org
+Description: Image Viewer library development headers.
+ Deepin Image Viewer library development headers.
+

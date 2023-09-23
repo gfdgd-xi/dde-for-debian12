@@ -1,0 +1,27 @@
+Package: liberofs-dev
+Architecture: amd64
+Version: 1.5.2-1
+Priority: optional
+Section: admin
+Source: erofs-utils
+Maintainer: Gao Xiang <xiang@kernel.org>
+Installed-Size: 252
+Filename: ./l/liberofs-dev/liberofs-dev_1.5.2-1_amd64.deb
+Size: 65096
+MD5sum: 0f5fae7144edb35bce03b6ae89dd1680
+SHA1: ad62399afaae38f2d9321bda68448d293d6de163
+SHA256: 0157390fcea28628691ee40e73ed9f0224de5a0058e0cca514781c7c9ebeb732
+SHA512: d8c1fc759f96cb76619043e01431d2dc26fb2566447bf8b289a998cad7c0cd8b93f1a64a8178f0f6345dd99d51a2e579d7896c7b82c3b3fedb54010d5aa81635
+Homepage: http://git.kernel.org/pub/scm/linux/kernel/git/xiang/erofs-utils.git
+Description: Utilities for EROFS File System
+ EROFS (Enhanced Read-Only File System) is a lightweight
+ read-only file system with modern designs (eg. page-sized
+ blocks, inline xattrs/data, etc.) for scenarios which need
+ high-performance read-only requirements, e.g. Android OS
+ for smartphones and LIVECDs.
+ .
+ It also provides fixed-sized output compression support,
+ which improves storage density, keeps relatively higher
+ compression ratios, which is more useful to achieve high
+ performance for embedded devices with limited memory.
+

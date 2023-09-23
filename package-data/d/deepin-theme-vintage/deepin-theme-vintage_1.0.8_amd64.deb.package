@@ -1,0 +1,19 @@
+Package: deepin-theme-vintage
+Architecture: amd64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 270
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-vintage/deepin-theme-vintage_1.0.8_amd64.deb
+Size: 266724
+MD5sum: 85939659f1fe9bf664e3a88194e04bb0
+SHA1: db4fe444f407a866a6fe473d22bbcd20805fa6e4
+SHA256: 980b314b5d12ebaff1e614b1d66a56bba6d749b7208b128fe4fd45f61b4b40b9
+SHA512: 0c0570576b2a8d190979cf51254fc344a425dce507c9051e9a88de06c70b9fc1e5d465f37545925e9de5db1f980ff0ef1af34f20973f9ba479dd64f6f158a969
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - Vintage theme
+ deepin theme Vintage icon.
+

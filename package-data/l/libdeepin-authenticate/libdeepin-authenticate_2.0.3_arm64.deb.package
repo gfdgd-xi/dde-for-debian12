@@ -1,0 +1,19 @@
+Package: libdeepin-authenticate
+Architecture: arm64
+Version: 1:2.0.3
+Priority: optional
+Section: devel
+Source: deepin-authenticate
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 137
+Depends: libc6 (>= 2.34), libglib2.0-0 (>= 2.37.3), libjson-c5 (>= 0.15), libssl3 (>= 3.0.0)
+Filename: ./l/libdeepin-authenticate/libdeepin-authenticate_2.0.3_arm64.deb
+Size: 27776
+MD5sum: 7bbb24235b58b65128c792e3cd9f7621
+SHA1: 37d7d599c255214d1b51155ae5c5894aac2f7923
+SHA256: cfef8948e19bda03f682e2b2c5c68ac303900ccafa3ae25af09880228b9637c3
+SHA512: 24a2be066cd264d561a1f9905eb4edd7531b73b6888a59e71ef30474ccc565507245ca3031f0c2efca15da3f9046a771336d82a1777b62a30c9f1914f8d08d15
+Homepage: http://www.deepin.org
+Description: deepin authenticate development kit
+ libdeepin-authentication is a development kit to develop application for authentication.
+

@@ -1,0 +1,18 @@
+Package: deepin-theme-macaron
+Architecture: amd64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 37334
+Filename: ./d/deepin-theme-macaron/deepin-theme-macaron_1.0.8_amd64.deb
+Size: 30880896
+MD5sum: 207d3b3756acc493d7e64eee4b7755d6
+SHA1: 5965749a90d39d62a15859d7b85d6ed7faf03c3c
+SHA256: 05534f943beca3070f8e4ee9a8f62d224ec7c08bf358ac2fc739295b1cd8fbb6
+SHA512: c2214f44938070bb9597ae6f9e12c887e7f7f1fab1c1a2754d24a499a99064aa529ddae3e70968587cec77173adb2471bc6015d0eff50231eee61e217186ce2e
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - macaron theme
+ deepin theme organic glass.
+

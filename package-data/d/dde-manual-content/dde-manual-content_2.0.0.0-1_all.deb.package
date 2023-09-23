@@ -1,0 +1,17 @@
+Package: dde-manual-content
+Architecture: all
+Version: 2.0.0.0-1
+Priority: optional
+Section: doc
+Maintainer: duanhongyu <duanhongyu@uniontech.com>
+Installed-Size: 97876
+Filename: ./d/dde-manual-content/dde-manual-content_2.0.0.0-1_all.deb
+Size: 91898084
+MD5sum: e94f9645cb82a1e58ef77f7c24d8f218
+SHA1: 6c250f10e983e797a46e9a7a5007d79c33d789b1
+SHA256: 5d3e7723110e3df9b4fe67e2a4c58b298a91baffda4f6bfda39a23bb043f2c13
+SHA512: 5bcca5dfe9464132547d6fe2a5225ad5379ec4a31ecb0efe6f5ee20fa616a0a0f14de85cc7ff4fd757e15072e646b2e09fcdb81d4edbe583be3eae64b7397550
+Homepage: https://github.com/linuxdeepin/dde-manual-content
+Description: protocol files
+ Deepin protocol files
+

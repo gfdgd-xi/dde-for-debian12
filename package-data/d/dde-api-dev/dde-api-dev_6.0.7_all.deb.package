@@ -1,0 +1,20 @@
+Package: dde-api-dev
+Architecture: all
+Version: 6.0.7
+Priority: optional
+Section: devel
+Source: dde-api
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 957
+Depends: golang-github-linuxdeepin-go-lib-dev (>= 1.2.13), golang-gir-gio-2.0-dev (>> 1.2.0+), golang-gir-glib-2.0-dev (>> 1.2.0+), golang-gir-gobject-2.0-dev (>> 1.2.0+), golang-gir-gudev-1.0-dev (>> 1.2.0+), golang-github-gosexy-gettext-dev, golang-github-linuxdeepin-go-dbus-factory-dev (>> 0.7.0+), golang-github-linuxdeepin-go-x11-client-dev (>= 0.0.4), golang-gopkg-alecthomas-kingpin.v2-dev, libcairo2-dev, libcanberra-dev, libfreetype6-dev, libgdk-pixbuf2.0-dev, libgtk-3-dev, libpoppler-glib-dev, librsvg2-dev, libxi-dev
+Filename: ./d/dde-api-dev/dde-api-dev_6.0.7_all.deb
+Size: 86312
+MD5sum: a297c95a9ebb643a1cfa3d548e0c8bf2
+SHA1: 3a8801436f795941ac9434c3bd53410f036db5ca
+SHA256: e57cff5683c684c85697d1c2742c18c99aa49385f5be67aed91f55d54e2c5813
+SHA512: 9f27a55b3275708a80633a8687bd97fb6ba8e8ce44ebf124aa2565c2f20a44c34462deb7db987ba3bbacea0e76a174ec9c63ff60440a3131a6ee2ab1ec664ca6
+Homepage: http://www.deepin.org
+Description: Go-lang bindings for dde-daemon -- dev file
+ DDE API provides some dbus interfaces that is used for screen zone
+ detecting, thumbnail generating, sound playing, etc.
+

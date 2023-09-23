@@ -1,0 +1,16 @@
+Package: libgio-qt
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 0
+Depends: libgio-qt0
+Filename: ./l/libgio-qt/libgio-qt_1.0.0_all.deb
+Size: 716
+MD5sum: 72968ac177d3f0789e8dbda65e4fcb4e
+SHA1: d805982ed8c182797ce23764e296152411e858d8
+SHA256: 7da849afc202410e8cfda5476a9478def1c79c8a5352021f0586c73fc12c5994
+SHA512: b117562ee6fbc7a6c7991fb85474e3ed13c2a9506bb9004902912a9056ffa233391568f2679752096051b36a1d1578c2134342f117a0aaed229ed19ebbaba821
+Description: 空包
+

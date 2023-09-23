@@ -1,0 +1,20 @@
+Package: deepin-authenticate
+Architecture: arm64
+Version: 1:2.0.3.1-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10023
+Depends: libpam-runtime (>= 1.3.1.11), libc6 (>= 2.34), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.0.0), libjson-c5 (>= 0.15), libpam0g (>= 0.99.7.1), libssl3 (>= 3.0.0), libsystemd0 (>= 237)
+Recommends: dde-qt5integration, deepin-face
+Conflicts: deepin-session, deepin-wm-switcher
+Filename: ./d/deepin-authenticate/deepin-authenticate_2.0.3.1-1_arm64.deb
+Size: 2284660
+MD5sum: 346b81d3ba82d2c3cbe9782407e74dc9
+SHA1: 8151f1a1fcb5115b2bac6066ae7eafafbee4290e
+SHA256: 0111a5e4bd427a6cdff86e183484aac80c29a04c729f70ac66ad3971a836aebc
+SHA512: 8a24ca95590b719b361d95effc3077baf5444602c9fbdc7fcb640f118558f596d783cff25f32914819dd76c459d138e946a9eb1c30ae14241980166f5a9eb9e2
+Homepage: http://www.deepin.org
+Description: deepin authenticate service
+ deepin authentication is a service for user identifing.
+

@@ -1,0 +1,18 @@
+Package: linglong-dbus-proxy
+Architecture: amd64
+Version: 1.3.3.10-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 116
+Depends: libc6 (>= 2.34), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5network5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./l/linglong-dbus-proxy/linglong-dbus-proxy_1.3.3.10-1_amd64.deb
+Size: 33964
+MD5sum: c4f555892524ae7eac7d5f42df5d7032
+SHA1: dfeb787eaf0b0937cb446028247c92a9946659f8
+SHA256: 081db7cc846478f542ce7e8e03ecb96b9289a17f9a8161daee1b12b06364cf2b
+SHA512: c5bc19bb416a0b5c9ac090949da8a7f98fca263c7b37d6124b9b454c8a78006fd8508b9ff5605a97a274bb0e68e7862fe8bff68137b80aef9c24e37b4018f8f5
+Homepage: https://www.deepin.org
+Description: dbus permission proxy for sandbox.
+ dbus permission proxy.
+

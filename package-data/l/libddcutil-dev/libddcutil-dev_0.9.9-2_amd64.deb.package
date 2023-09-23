@@ -1,0 +1,24 @@
+Package: libddcutil-dev
+Architecture: amd64
+Version: 0.9.9-2
+Priority: optional
+Section: libdevel
+Source: ddcutil
+Maintainer: Sanford Rockowitz <rockowitz@minsoft.com>
+Installed-Size: 98
+Depends: libddcutil3 (= 0.9.9-2)
+Filename: ./l/libddcutil-dev/libddcutil-dev_0.9.9-2_amd64.deb
+Size: 20632
+MD5sum: bc3b6f7f0d1c2fd3fb8310fb045ad94a
+SHA1: 045b2d8a7ac8cc77995f4226d3bbb3d836dd8b34
+SHA256: b24d87206d48889ae1d25c409d11ad952d19ad6cd56d513809077eb6b8313891
+SHA512: 0bcef839305c4e3b75e6f5d191d94ac3f3196fd76f3a25b657566c9678b1823651581a615f2c168d99653ef2ca40be8986096ffa8c5baa91fab5617e3baa3f2c
+Homepage: http://www.ddcutil.com
+Description: Query and change monitor settings - development files
+ These are the C development files for libddcutil.
+ .
+ ddcutil communicates with monitors implementing MCCS (Monitor Control Command
+ Set). Normally, communication is performed using the DDC/CI protocol on the
+ I2C bus.  Alternatively, communication can be performed over USB as per the
+ USB Monitor Control Class Specification.
+

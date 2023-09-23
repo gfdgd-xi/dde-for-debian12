@@ -1,0 +1,19 @@
+Package: libdeepin-authenticate-dev
+Architecture: arm64
+Version: 1:2.0.3.1-1
+Priority: optional
+Section: devel
+Source: deepin-authenticate
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 31
+Depends: libdeepin-authenticate
+Filename: ./l/libdeepin-authenticate-dev/libdeepin-authenticate-dev_2.0.3.1-1_arm64.deb
+Size: 5280
+MD5sum: 23c120f4e8c276e570c4443bbc5349c8
+SHA1: e3a7c04d6b6ce873ff663606ec6864286f7522a6
+SHA256: 8002859842eb4386953b8b9e9365da0aa035f4ae67131a4fa0e8f366ed1ff458
+SHA512: 0b55dfe05329748cf42a41ad0f5e23c2195d5e3a9afad7714a8d62c09865e7eb8741845147c7ed5a57f1fc2137dd6698321b336f9ed80bccb3eb7b096cc0ff50
+Homepage: http://www.deepin.org
+Description: deepin authenticate development kit's file
+ libdeepin-authentication-dev is some file for libdeepin-authenticate.
+

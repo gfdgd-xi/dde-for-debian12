@@ -1,0 +1,22 @@
+Package: deepin-wallpapers-nonfree
+Architecture: all
+Version: 1.7.9
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 36661
+Provides: deepin-community-wallpapers
+Pre-Depends: deepin-wallpapers (>= 1.7.14)
+Conflicts: deepin-community-wallpapers
+Breaks: deepin-community-wallpapers, deepin-desktop-base (<< 2017.11.2)
+Filename: ./d/deepin-wallpapers-nonfree/deepin-wallpapers-nonfree_1.7.9_all.deb
+Size: 36951960
+MD5sum: e60b214366fb3f6951c655cd6efd1bd4
+SHA1: 28db017d86cbf0f4175ecac6574e761371288c11
+SHA256: df892a14c2748bb7c3652e493319ae691bde80ac07228643dbae9c4fb9653055
+SHA512: ed9d39a6e868684bebc43c9023659dbbe7bce86f3d09e07b5f090f317b9d20ab8a95924e164300f07c744113272e501ac9d1bd79a7d10a090089e38f0a0ce867
+Homepage: https://www.deepin.org/
+Description: When users are ready to set their own desktop background,
+ Deepin Wallpaper provides many beautiful background pictures for users to choose.
+ It is part of Deepin software and DDE (Deepin Desktop Environment).
+

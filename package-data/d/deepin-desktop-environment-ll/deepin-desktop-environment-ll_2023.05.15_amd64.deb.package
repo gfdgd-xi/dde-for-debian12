@@ -1,0 +1,23 @@
+Package: deepin-desktop-environment-ll
+Architecture: amd64
+Version: 2023.05.15
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 14
+Pre-Depends: linglong-bin, base-files
+Filename: ./d/deepin-desktop-environment-ll/deepin-desktop-environment-ll_2023.05.15_amd64.deb
+Size: 3800
+MD5sum: 56ea274138d22f6d35a4905c3bfaedb0
+SHA1: 0aef1fece76d5311af157ecf10204ef414ce5f3e
+SHA256: 9cd68119a4b743b22b1dae91d89d3c86b246f416229c47c335ffa128595bae80
+SHA512: 76d1a26cfaa1ea98afa619b721dc3a7f8eafbeb565c872dc28f0916af5fd73e9c150f7cc172ca5fec4ab0930a086e0d7bc64eef055503785bb2616962a87df45
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a ll package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

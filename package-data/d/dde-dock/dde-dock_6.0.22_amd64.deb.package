@@ -1,0 +1,21 @@
+Package: dde-dock
+Architecture: amd64
+Version: 6.0.22
+Priority: optional
+Section: x11
+Maintainer: gfdgd-xi<3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6888
+Depends: libc6 (>= 2.34), libdbusmenu-qt5-2 (>= 0.9.3+14.10.20140619), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libdwaylandclient5 (>= 5.25.0-kwayland.5.24.3), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.16.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 6), libx11-6, libxcb-composite0, libxcb-ewmh2 (>= 0.4.1), libxcb-icccm4 (>= 0.4.1), libxcb-image0 (>= 0.2), libxcb1, libxcursor1 (>> 1.1.2), libxext6, libxres1 (>= 2:1.2.1), libxtst6, dconf-gsettings-backend | gsettings-backend, deepin-desktop-schemas (>= 5.9.14), dde-qt5xcb-plugin (>= 5.0.25), dde-daemon (>= 5.13.12), startdde (>= 5.8.9), lastore-daemon (>= 5.2.9), qtxdg-dev-tools, dbus-bin
+Recommends: dde-disk-mount-plugin, dde-dock-onboard-plugin, dock-network-plugin, dde-network-dialog
+Conflicts: dde-dock-applets, dde-trash-plugin, dde-workspace (<< 2.90.5), dock-hotspot-plugin
+Replaces: dde-dock-applets, dde-trash-plugin
+Filename: ./d/dde-dock/dde-dock_6.0.22_amd64.deb
+Size: 1482236
+MD5sum: 0dc09c7246ad6c7cd3ac74dbb420a374
+SHA1: e8e1264c210b22737dbf895c6a0f2067f2e50aef
+SHA256: d21ab77cb4d4d61871a156157491a1746eb166ede94e8f7ffec774334f81eb30
+SHA512: fd51f66aa85b59868942da0b60b966c9ac20b6c355942e25417644d18f0674e55e9d78dc6569bd3fb3a7b9454dfd28858b17fc7354f9e858b64e52e3f2dbb077
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module
+ Dock module of deepin desktop-environment
+

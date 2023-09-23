@@ -1,0 +1,20 @@
+Package: uimg-installer
+Architecture: amd64
+Version: 6.0.15-1
+Priority: optional
+Section: misc
+Source: uos-recovery
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 644
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libstdc++6 (>= 5.2), rsync
+Recommends: uos-reporter, deepin-event-log
+Filename: ./u/uimg-installer/uimg-installer_6.0.15-1_amd64.deb
+Size: 218272
+MD5sum: aa19bc9e1f54384ad13a7909d1ef0812
+SHA1: 402f910377393cc9965267a970bab42c4c97ca5f
+SHA256: d59d87bd630597f369c6256477bf31246d27f98ffcad86f37171f9a38ebc539d
+SHA512: a89a0e23aa42b1c6f1e350caf7d7277a34c9eae3c5eac028845541ba5d1b33ca289f865d899f0bfe1fe97fc44ed2cba212f746dbb4b11c4b004f50a514a48677
+Homepage: https://www.deepin.org
+Description: installer uimg file
+ written with Qt5.
+

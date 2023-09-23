@@ -1,0 +1,19 @@
+Package: deepin-app-store-runtime
+Architecture: amd64
+Version: 1.0.2+community
+Priority: optional
+Section: utils
+Maintainer: wurongjie <wurongjie@uniontech.com>
+Installed-Size: 10
+Provides: deepin-elf-verify:amd64 (= 100.0.0)
+Conflicts: deepin-elf-verify
+Replaces: deepin-elf-verify
+Filename: ./d/deepin-app-store-runtime/deepin-app-store-runtime_1.0.2+community_amd64.deb
+Size: 2316
+MD5sum: 19bd1719f0b42bfb302c8079f3334268
+SHA1: 17b5cc6f07f1055f7d79356c7b975afd22388c05
+SHA256: 72b0e156537437f4628468f53607a50c64aef9dd0984ea8187108b2d5bb2b6aa
+SHA512: 72a4b26df1e660a69d5402de4e2063b3433d64ca9ce1e0c67394001be35f4ca9bff81da41cb9d966a52b739c6f16b21bdd0142bb7c0c95a5692d5d3e4a878795
+Homepage: https://gitlabwh.uniontech.com/
+Description: A runtime environment software package for Deepin App Store.
+

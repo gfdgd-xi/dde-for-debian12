@@ -1,0 +1,18 @@
+Package: dde-dock-dev
+Architecture: amd64
+Version: 6.0.22
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: gfdgd-xi<3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 46
+Filename: ./d/dde-dock-dev/dde-dock-dev_6.0.22_amd64.deb
+Size: 17036
+MD5sum: bc9347e29c1e0012528e71b990feb475
+SHA1: fdef1c93dda287cd9b08bca5217a23a2bba309e6
+SHA256: ca15da206a1bc04a1d991b5295e20db26d66581a9fd1a2b8743d316e672a4779
+SHA512: 67eb6c7bc8651ca577a244e30a7ff94f504f433ee5ff89fc02d6d2a91e9d929b8337a233ecd18a015d4fdceb4f9be7f34b556ed83ead1df15a0e43f6dd214b0b
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module development files
+ Dock module development files of deepin desktop-environment
+

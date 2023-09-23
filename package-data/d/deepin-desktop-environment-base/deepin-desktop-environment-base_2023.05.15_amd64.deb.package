@@ -1,0 +1,22 @@
+Package: deepin-desktop-environment-base
+Architecture: amd64
+Version: 2023.05.15
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Depends: adduser, apt, apt-utils, base-files, base-passwd, bash, bsdutils, coreutils, dash, debconf, debianutils, deepin-keyring, diffutils, dpkg, e2fsprogs, fdisk, findutils, gcc, gcc-11, gcc-11-base, gpgv, grep, gzip, hostname, init, libacl1, libattr1, libaudit1, libbz2-1.0, libc-bin, libc6, libcap-ng0, libdebconfclient0, libgcrypt20, libgmp10, libgnutls30, libgpg-error0, libidn2-0, liblocale-gettext-perl, liblz4-1, liblzma5, libncurses6, libp11-kit0, libpam-runtime, libpcre3, libselinux1, libstdc++6, libunistring2, libzstd1, login, lsb-base, mawk, mount, ncurses-base, ncurses-bin, passwd, perl-base, sed, sensible-utils, systemd, tar, tzdata, udev, util-linux, zlib1g, libzip4, unrar, pciutils
+Recommends: libffi6, libsepol1, libsemanage1, libnettle6
+Filename: ./d/deepin-desktop-environment-base/deepin-desktop-environment-base_2023.05.15_amd64.deb
+Size: 3240
+MD5sum: 10f37d09aba57ae9d5bfb5af3b68dab6
+SHA1: 3bdd30f49224d9278ad2a770093c558538108f8c
+SHA256: 1bc3faa150f839f7a629dae1c74cf5e36d25dd5e80f4a3170ec6c9d8d97efb40
+SHA512: fc63d42bcf64b4a9def3d18988625320d98e3530c8d8a631d4f86c5e5ebf3fcd214cc1c8713f4536a8f9a15d4eb2843f0c4aae82d44b4a8cea34ba56986ff71f
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a base meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

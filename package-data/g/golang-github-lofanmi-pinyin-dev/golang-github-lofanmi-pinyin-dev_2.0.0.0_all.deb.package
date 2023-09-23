@@ -1,0 +1,17 @@
+Package: golang-github-lofanmi-pinyin-dev
+Architecture: all
+Version: 2.0.0.0
+Priority: optional
+Section: utils
+Maintainer: Uniontechos THIRD Maintainers <uniontechos-third@uniontech.com>
+Installed-Size: 1006
+Filename: ./g/golang-github-lofanmi-pinyin-dev/golang-github-lofanmi-pinyin-dev_2.0.0.0_all.deb
+Size: 247612
+MD5sum: 80c71708b40bab01ba8a81a81063b2db
+SHA1: b45605ef5311ca44abd96f04a0a3f41527cc465a
+SHA256: b50af6c711347c7f4b2b1e340b783794971ffdf26887f00ee7a0e294bb54dd1a
+SHA512: 8809e2dc2a286e2f26eead256b623c29380bc331304192cb0dbc7558b2ce2b327b89a3e7f937d650c06971dd23376662718e052a8a1a0ef8786f5605b925e978
+Homepage: http://www.deepin.com
+Description: Chinese to pinyin class library
+ provide more accurate Chinese to pinyin solutions.
+

@@ -1,0 +1,28 @@
+Package: realtek-wifi-dkms
+Architecture: all
+Version: 1.0.7
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Maintainer: Yuanzhi Wang <wangyuanzhi@uniontech.com>
+Installed-Size: 217164
+Provides: realtek-wifi-module
+Depends: flex, bison, libbison-dev, dkms
+Conflicts: backport-iwlwifi-dkms, rtl8188eus-dkms, rtl8188gtvu-dkms, rtl8192eu-dkms, rtl8814au-dkms, rtl8821au-dkms, rtl8821cu-dkms, rtl8852be-dkms, rtl8852bu-dkms, rtl88x2bu-dkms, rtl88x2cu-dkms, rtlwifi-dkms, rtw89-dkms
+Replaces: backport-iwlwifi-dkms, rtl8188eus-dkms, rtl8188gtvu-dkms, rtl8192eu-dkms, rtl8814au-dkms, rtl8821au-dkms, rtl8821cu-dkms, rtl8852be-dkms, rtl8852bu-dkms, rtl88x2bu-dkms, rtl88x2cu-dkms, rtlwifi-dkms, rtw89-dkms
+Filename: ./r/realtek-wifi-dkms/realtek-wifi-dkms_1.0.7_all.deb
+Size: 18101676
+MD5sum: db3992177137319b6a8c3442a70da578
+SHA1: 332e54c49c22a0d6c42ba4e7bfc8424a0d6b45e9
+SHA256: 1ad855069e66cdbefca95825ab0ce6e4df374fa6af3b0a6d535ca7a301cd1860
+SHA512: 5c40e34e440ac475edd28bb850cd0ca29a92a6c77f0a97cf582b834f5ec5f84bbb73b3ccae8911fdc28d27dd2382b7b55de2f602ee4c9b074b0f896b9d0d0fd8
+Homepage: https://github.com/HRex39/rtl8852be
+Description: DKMS files to build and install realtek wifi.
+ The driver provides the driver for USB and PCIE wifi adapter.
+ .
+ This package contains the DKMS files to build and install realtek wifi.
+ .
+ To install this package, you have to install the header files for your
+ current kernel manually (usually included in the "linux-headers-<your
+ architecture>").
+

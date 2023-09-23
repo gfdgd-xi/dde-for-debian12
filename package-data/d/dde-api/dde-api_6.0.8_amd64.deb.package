@@ -1,0 +1,19 @@
+Package: dde-api
+Architecture: amd64
+Version: 6.0.8
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 63894
+Depends: adduser, alsa-utils, bc, blur-effect, coreutils (>= 8.30), fontconfig, fonts-noto-cjk, libcanberra-pulse, locales, rfkill, fonts-unifont, libasound2 (>= 1.0.16), libc6 (>= 2.34), libcairo2 (>= 1.2.4), libfreetype6 (>= 2.2.1), libgdk-pixbuf-2.0-0 (>= 2.25.2), libgdk-pixbuf-xlib-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.11.5), libpoppler-glib8 (>= 0.18.0), libpulse0 (>= 0.99.1), librsvg2-2 (>= 2.14.4), libx11-6, libxcursor1 (>> 1.1.2), libxfixes3
+Filename: ./d/dde-api/dde-api_6.0.8_amd64.deb
+Size: 13485228
+MD5sum: 86dac28f3c0fa9a8ef084382caf8cc77
+SHA1: 580c1244d8d2c2d12f852b038ca856b679191c49
+SHA256: 403360f7a63b3ba5ed4b8ae85d9d671c0d5e34f0ed404a02e9ef9ade266e9b64
+SHA512: 3cb5841da1ad9e0fd5b1f4ca40f6c66a1845944c6bd3b62e994e05751cfc400567ad9fe095fcb9bc888dc37b7916d7248a2b01f6459d674f397d4f151c788482
+Homepage: http://www.deepin.org
+Description: Go-lang bingdings for dde-daemon
+ DDE API provides some dbus interfaces that is used for screen zone
+ detecting, thumbnail generating, sound playing, etc.
+

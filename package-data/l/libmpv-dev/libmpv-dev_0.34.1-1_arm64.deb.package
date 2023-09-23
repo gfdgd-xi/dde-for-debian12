@@ -1,0 +1,23 @@
+Package: libmpv-dev
+Architecture: arm64
+Version: 0.34.1-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: mpv
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 181
+Depends: libmpv1 (= 0.34.1-1)
+Filename: ./l/libmpv-dev/libmpv-dev_0.34.1-1_arm64.deb
+Size: 50016
+MD5sum: ffe49070c4295b8dbfd692e39ecf77f9
+SHA1: 0dcc443aa4cc7db6fcfc1a2e56ae87ce809dac96
+SHA256: 34713bfdf287f9ef8600c19ecd7c0f379fb9c488ed6715083017a8cf59f73f35
+SHA512: 1607a9c17e154cfbe8f07fb4b3af5de4f7b88dc18dee9ba5372464d687487818c96918582e883d37d746bfc13274950fb4732a58d1736a6d7744647d7d34cec6
+Homepage: https://mpv.io/
+Description: video player based on MPlayer/mplayer2 (client library dev files)
+ mpv is a movie player based on MPlayer and mplayer2. It supports a wide
+ variety of video file formats, audio and video codecs, and subtitle types.
+ .
+ This package provides development files for libmpv.
+

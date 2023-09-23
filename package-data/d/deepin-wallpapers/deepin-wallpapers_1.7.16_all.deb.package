@@ -1,0 +1,18 @@
+Package: deepin-wallpapers
+Architecture: all
+Version: 1.7.16
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 26302
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Filename: ./d/deepin-wallpapers/deepin-wallpapers_1.7.16_all.deb
+Size: 25310392
+MD5sum: 9bae2abcd01478f6936da2b007220751
+SHA1: 0a23529154373da50246f1f6e917aa7b61e2e1db
+SHA256: ef76c3f79f0f6c04d3b0b82abd5ec364409d71551b45d3df84fece3f96f8ec3a
+SHA512: f1cc5d4ccf33baa5069c07396b78d1adbc6a0653e0cedb6714c3879c855f1adb07c4412be19d42514a4e5b96a725622f010624b8e0d1e676b1dcc37d0379202a
+Homepage: https://www.deepin.org/
+Description: dde wallpapers
+ Default wallpapers for dde
+

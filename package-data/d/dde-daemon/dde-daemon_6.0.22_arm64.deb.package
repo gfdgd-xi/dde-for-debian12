@@ -1,0 +1,26 @@
+Package: dde-daemon
+Architecture: arm64
+Version: 6.0.22
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 80450
+Provides: lastore-daemon-migration
+Depends: bamfdaemon, bluez-obexd, cgroup-tools, dbus, dde-api (>> 3.17.1+), dde-polkit-agent, deepin-desktop-schemas (>> 5.1.2+), deepin-installer-timezones, deepin-proxy, deepin-sound-theme, dmidecode, dnsmasq-base, gnome-keyring, libglib2.0-bin, hwinfo, imwheel, ipwatchd, iso-codes, lastore-daemon, libfprint-2-2, libnotify-bin, libpam-runtime (>= 1.1.3-2~), libpam0g (>= 0.99.7.1), libnss-myhostname, mobile-broadband-provider-info, network-manager, procps, rfkill, user-setup, xdotool, xkb-data, systemd-timesyncd, libasound2 (>= 1.0.24.1), libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libddcutil3 (>= 0.9.9), libgdk-pixbuf-2.0-0 (>= 2.25.2), libgdk-pixbuf-xlib-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.0.0), libgudev-1.0-0 (>= 234), libinput10 (>= 0.21.0), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libpulse0 (>= 0.99.1), libudev1 (>= 183), libx11-6 (>= 2:1.2.99.901), libxi6 (>= 2:1.2.99.4)
+Recommends: flatpak, iio-sensor-proxy, laptop-mode-tools, proxychains4, mesa-utils
+Suggests: bluez (>= 5.4), miraclecast, network-manager-l2tp, network-manager-openconnect, network-manager-openvpn, network-manager-pptp, network-manager-sstp, network-manager-vpnc, xserver-xorg-input-synaptics, xserver-xorg-input-wacom
+Conflicts: dde-workspace, lastore-daemon-migration
+Breaks: lastore-daemon (<< 0.9.64)
+Replaces: lastore-daemon (<< 0.9.64)
+Filename: ./d/dde-daemon/dde-daemon_6.0.22_arm64.deb
+Size: 14260212
+MD5sum: 2926b9b07c3382c31ee9dd89a5e74d9e
+SHA1: a5e496c7a3a1e2f020094e3fcf35e4f76fdd3f19
+SHA256: c5c7730a341c98f4c6f052575c898baef7cdc21af1272b539b99830c7e2192f0
+SHA512: d94ee71fef5e2a2a52314602e1a540353dff60b747ee902e0519d24e97941173498d4434a0f6b8802443535b9b3385af013b915d355c4ea02bf1e55bbfbbdf3a
+Homepage: http://www.deepin.org
+Description: daemon handling the DDE session settings
+ This package contains the daemon which is responsible for setting the
+ various parameters of a DDE session and the applications that run
+ under it.
+

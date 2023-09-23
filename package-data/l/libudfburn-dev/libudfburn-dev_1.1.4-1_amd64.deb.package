@@ -1,0 +1,20 @@
+Package: libudfburn-dev
+Architecture: amd64
+Version: 1.1.4-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libudfburn
+Maintainer: Xu Shitong <xushitong@uniontech.com>
+Installed-Size: 16
+Depends: libudfburn
+Filename: ./l/libudfburn-dev/libudfburn-dev_1.1.4-1_amd64.deb
+Size: 2748
+MD5sum: a0ff3c98d574aed78fd9f23c765a5031
+SHA1: 3ffe21b1cf17a3cfae0f01b473c652cbbfce51d9
+SHA256: e29501c30009ca6e7ef152a5b4a9116f46c08a1bb892d55b8836a2449acabdbb
+SHA512: 84fe11dc1a183cf8b8760445c2afa99d81542092f42117a2f045b421fde75e88d840e84474d9c0fa58468312df465319712fc8aba614b60ce1ab0767e670f214
+Homepage: <insert the upstream URL, if relevant>
+Description: a lib for burn images for developer
+ a simple image burner;
+

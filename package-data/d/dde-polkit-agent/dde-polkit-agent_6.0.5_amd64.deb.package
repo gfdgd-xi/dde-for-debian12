@@ -1,0 +1,20 @@
+Package: dde-polkit-agent
+Architecture: amd64
+Version: 6.0.5
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 534
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.114.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5.2)
+Filename: ./d/dde-polkit-agent/dde-polkit-agent_6.0.5_amd64.deb
+Size: 122180
+MD5sum: 3c5b9aef3b84d0acb82c5a007a01f27b
+SHA1: f1a6091c9c0b1ac1a6570c2add50d30f9518ee95
+SHA256: c67a7efaea4e8c4c0ee6f7a9e40cd060c1cb49f15fe8cd9bc0ae20fd0416b191
+SHA512: c24d8ee030fbaa4b71a1d770a98a7f70068afd7c7742e3cdbb63130e9d7da5ea6a649cdd07368d9a25c49d11986b498b0a530e967150a2cafc0de6ad53117846
+Homepage: http://www.deepin.org/
+Description: PolicyKit agent for DDE.
+ PolicyKit agent is usually a dialog used to provide a way to let users
+ grant permission to specific actions, this package serves the role in
+ Deepin Desktop Environment.
+

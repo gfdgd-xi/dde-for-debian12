@@ -1,0 +1,19 @@
+Package: udfburn-tool
+Architecture: arm64
+Version: 1.1.4-1
+Priority: optional
+Section: libdevel
+Source: libudfburn
+Maintainer: Xu Shitong <xushitong@uniontech.com>
+Installed-Size: 20
+Depends: libc6 (>= 2.34), libudfburn
+Filename: ./u/udfburn-tool/udfburn-tool_1.1.4-1_arm64.deb
+Size: 4784
+MD5sum: 23b44d178cd2a9c93cdca7cd82e7527d
+SHA1: 431143260f1baeac0f6762d648019061799f0cc7
+SHA256: e1f111e7c5b20d5e881a1e4963bedee2a87f5c80a4198635b3b408d3ce1eaaec
+SHA512: 72ab703d450a45ae0f470974a74c133d528bc5af7d8e24e85f108341117cc0a0852633c99d00db858e09c6b4738b7a9c764e1f0ff93252fa0ac8f30d6bc6d510
+Homepage: <insert the upstream URL, if relevant>
+Description: a command line program
+ a command line program for burning images;
+

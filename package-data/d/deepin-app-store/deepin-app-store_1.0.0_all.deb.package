@@ -1,0 +1,16 @@
+Package: deepin-app-store
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 0
+Depends: spark-store
+Filename: ./d/deepin-app-store/deepin-app-store_1.0.0_all.deb
+Size: 724
+MD5sum: 1886e63632ae60b3e2d82c203209070f
+SHA1: 5dd015b8991363f1794a8a08a6152e978ab2ba83
+SHA256: 774013f8213a34e899952bac5712561a9a660a225ecfe200642c7bc1824d084b
+SHA512: c2ac675418305840a1d3b491ca58339ab63a386cd7e4524d39b74a0a7cdbe6f8f91aadfe821f0a89da29ac6c992820f99d70f5ae1c303315854ee4612de64f40
+Description: 空包
+

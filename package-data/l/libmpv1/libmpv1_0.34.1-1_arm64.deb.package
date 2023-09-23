@@ -1,0 +1,25 @@
+Package: libmpv1
+Architecture: arm64
+Version: 0.34.1-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: mpv
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 2368
+Depends: libarchive13 (>= 3.4.0), libasound2 (>= 1.0.27), libass9 (>= 1:0.13.6), libavcodec58 (>= 7:4.4), libavdevice58 (>= 7:4.4), libavfilter7 (>= 7:4.4), libavformat58 (>= 7:4.4), libavutil56 (>= 7:4.4), libbluray2 (>= 1:0.2.2), libc6 (>= 2.34), libcaca0 (>= 0.99.beta17-1), libcdio-cdda2 (>= 10.2+2.0.0), libcdio-paranoia2 (>= 10.2+2.0.0), libcdio19 (>= 2.1.0), libdrm2 (>= 2.4.75), libdvdnav4 (>= 4.1.3), libegl1, libgbm1 (>= 8.1~0), libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125, libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.6), liblua5.2-0, libmujs1 (>= 1.0.7), libplacebo120 (>= 3.104), libpulse0 (>= 0.99.4), librubberband2 (>= 2.0.0), libsdl2-2.0-0 (>= 2.0.12), libsixel1, libswresample3 (>= 7:4.4), libswscale5 (>= 7:4.4), libuchardet0 (>= 0.0.1), libva-drm2 (>= 1.1.0), libva-wayland2 (>= 1.3.0), libva-x11-2 (>= 1.0.3), libva2 (>= 2.2.0), libvdpau1 (>= 0.2), libvulkan1 (>= 1.2.131.2), libwayland-client0 (>= 1.20.0), libwayland-cursor0 (>= 1.15.0), libwayland-egl1 (>= 1.15.0), libx11-6, libxext6, libxinerama1, libxkbcommon0 (>= 0.5.0), libxrandr2 (>= 2:1.2.99.3), libxss1, libxv1, libzimg2 (>= 0.3.1), zlib1g (>= 1:1.1.4)
+Recommends: youtube-dl (>= 2014.11.26)
+Filename: ./l/libmpv1/libmpv1_0.34.1-1_arm64.deb
+Size: 778932
+MD5sum: 2683d26ef14985ae86f0ad9f40c4b710
+SHA1: 18683a2000d33be2f04a436e1c5d540736dc9129
+SHA256: d8cfb438f14d65348460e235d852c3dd2cd0d6d27b763ae76fc7dfe98d5e5a3d
+SHA512: 2521e5d73f9a22126040745ae64b8c620b7c10e2ac917caf422cdaf79808e697d664a762d269e0592c33697afde9a6d1017486a9c23b5f685830814d716577e5
+Homepage: https://mpv.io/
+Description: video player based on MPlayer/mplayer2 (client library)
+ mpv is a movie player based on MPlayer and mplayer2. It supports a wide
+ variety of video file formats, audio and video codecs, and subtitle types.
+ .
+ This package provides a client library that can be used to embed mpv in other
+ applications.
+

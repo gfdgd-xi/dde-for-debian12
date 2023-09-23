@@ -1,0 +1,16 @@
+Package: linux-firmware
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 0
+Depends: firmware-realtek
+Filename: ./l/linux-firmware/linux-firmware_1.0.0_all.deb
+Size: 724
+MD5sum: 1df9a550db595d7c5ab1ae66882df000
+SHA1: a8f0a837130dc022a6f58621e8e4f30f3129e573
+SHA256: 59cadc3f2f3e6417d1592a08585c2f9ca7d2c39466a9669da0ebeabd15ac410c
+SHA512: 3f2c756d977f4366aabfaa9a90cb1ead78bfc5610bab74139d54ec044cfce20d955dd09fcc5f78ea16fdb7a37835d5b44c99e2387b9e5e716e3984fb0f8ef480
+Description: 空包
+

@@ -8,12 +8,12 @@ Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxd
 Installed-Size: 14
 Pre-Depends: linglong-bin, base-files
 Filename: ./d/deepin-desktop-environment-ll/deepin-desktop-environment-ll_2023.09.05_amd64.deb
-Size: 4084
-MD5sum: 01fb752177e2da39cd6acb996c586754
-SHA1: 9b5de96b045e81d0f08dca041ff8734a106d87dc
-SHA256: 6d4a88653493e3b59f22817ec1b14bee41befab965655057c8430b9b438e3ba2
-SHA512: a92a4b5f31e79905a9ca821d712ca64f055e3c95dcbf6a57390e16cbcbe8cf97b82379261e42e9eaab9aa484c36d4b2ac17610768d9d80c4ded26b056af42524
-Homepage: http://www.linuxdeepin.com
+Size: 4092
+MD5sum: f151bb764b425edb74bb0f011f5c9d04
+SHA1: c174c1fcec6297d5b7ee4a5b7fc03b20aa31a2ea
+SHA256: 80c7e74423ba3066666e583a62cd06c934b93bfae91ca9aac9c57800d2735440
+SHA512: 819f2c1627b168904087de4fde015790c2d730646985e671b0e6ec86b27e1bae1fd1f287141d829a0ca948ef93e1f9cdf135796fca0c06c153fa741751124a9f
+Homepage: http://debiandde.gfdgdxi.top
 Description: Deepin New Desktop Environment - Next
  This is a ll package depends Deepin New Desktop Envrionment.
  .

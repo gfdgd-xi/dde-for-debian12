@@ -9,12 +9,12 @@ Installed-Size: 9
 Depends: dde-clipboard, dde-control-center, dde-desktop, dde-dock, dde-file-manager, dde-launcher, dde-qt5integration, dde-session-ui, deepin-default-settings, deepin-wallpapers-nonfree, deepin-desktop-base, deepin-icon-theme, deepin-desktop-theme, deepin-terminal, deepin-upgrade-manager, lightdm, plymouth-theme-deepin-logo, startdde, lastore-daemon, deepin-face, dde-wldpms, dde-wloutput, dde-wloutput-daemon, kwayland-data, deepin-authenticate, dde-daemon, dde-session-shell, deepin-desktop-schemas, deepin-kwin-x11, deepin-kwin-wayland, dde-session, dde-permission-manager, dde-application-manager, dde-api-proxy
 Recommends: cups, ttf-deepin-opensymbol
 Filename: ./d/deepin-desktop-environment-core/deepin-desktop-environment-core_2023.09.05_amd64.deb
-Size: 3428
-MD5sum: 3d3daa4dc8620d32e1fd0003ee19225b
-SHA1: 898b4913260a57ab88591aa81fee6ad3972060a6
-SHA256: d469e48f4ce901ff7a6d41100264921ea405c33d19cf6cf74cb83f075b834536
-SHA512: fa9a8f2bb8c76ba052c6e1352e900b930a6867100c7bfd110237f6e86ec1a83f8092cc07342ba459ba780bfe3055ef3ce6f1bc8a4640583ef86ae309c8c34afb
-Homepage: http://www.linuxdeepin.com
+Size: 3436
+MD5sum: 8407a31210198f3f4c33e00bca162414
+SHA1: e5825f1fdd5249957785cb20e34ae57671378355
+SHA256: 8ceaf58afa4fef25c8195fd9a6082ac00a07f12082939c9cf8f8fd708d9b9b62
+SHA512: 7c3c0ce6c825c4d3491c74e8a77d1d6a6c21714e38c37e197003ff67efab03f05d2a34430564fa9f234d7d97f6e1dd4bca187ed37c25af1b54f553adbcf5e29c
+Homepage: http://debiandde.gfdgdxi.top
 Description: Deepin New Desktop Environment - Next
  This is a dde package depends Deepin New Desktop Envrionment.
  .

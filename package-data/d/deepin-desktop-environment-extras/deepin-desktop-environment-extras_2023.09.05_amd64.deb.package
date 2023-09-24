@@ -1,0 +1,23 @@
+Package: deepin-desktop-environment-extras
+Architecture: amd64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: deepin-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Depends: libdareader1, deepin-desktop-environment-core, dde-dconfig-daemon, dde-qt5wayland-plugin, dde-manual-content, dcc-network-plugin, dock-network-plugin, dss-network-plugin, deepin-log-viewer, deepin-dvsrv, linglong-bin, linglong-box, dde-printer, deepin-boot-maker, deepin-sync-daemon, deepin-ocr, deepin-picker, uos-license-content, linglong-loader, linglong-installer, dde-api, dde-account-faces, dde-disk-mount-plugin, dde-dock-onboard-plugin, dde-cooperation, deepin-shortcut-viewer, libepoxy0, libgbm1, libkf5i18n5, libkf5waylandclient5, libkf5waylandserver5, libkf5windowsystem5, fonts-lohit-deva, fonts-noto, fonts-noto-cjk, fonts-noto-mono, fonts-noto-unhinted, cups, cups-filters, libcupsimage2, cups-bsd, samba, samba-common-bin, samba-dsdb-modules, samba-vfs-modules, dde-introduction, deepin-deb-installer, deepin-deepinid-client, deepin-devicemanager, deepin-diskmanager, deepin-font-manager, deepin-system-monitor, org.deepin.downloader, dde-grand-search, deepin-screensaver, dde-widgets, deepin-feedback, deepin-voice-note, simple-scan, cryptsetup-initramfs, systemd-timesyncd, libimageeditor, libudfburn, uimg-installer, spark-store, deepin-home-appstore-daemon, deepin-anything-server, dde-desktop-plugins, dde-file-manager-plugins, dde-file-manager-common-plugins, dde-file-manager-daemon-plugins, dde-file-manager-preview-plugins, deepin-home, dde-device-formatter, libblockdev-crypto2, libime-bin
+Filename: ./d/deepin-desktop-environment-extras/deepin-desktop-environment-extras_2023.09.05_amd64.deb
+Size: 3772
+MD5sum: 3d6826af4eb24c9bd68fde509137ee95
+SHA1: 312396941ef2424572c80865f453a8e4e87f2ade
+SHA256: 71a67260ae83db35c1430ff9fa899430ad38312b4285d8d48c8911bbf4a247f4
+SHA512: 53c4fc1942cb09fcb0a53a2a8a782bdd62e489c3e26cc1facf20e07556f3d820e11643191df947fb9e5bc441bcb3db531ac9bd12da014c6f2566b74de9555800
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a extras package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

@@ -1,0 +1,25 @@
+Package: libproc2-0
+Architecture: amd64
+Version: 2:4.0.3-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: procps
+Maintainer: Craig Small <csmall@debian.org>
+Installed-Size: 232
+Depends: libc6 (>= 2.34), libsystemd0 (>= 209)
+Replaces: procps (<< 1:3.3.2-1)
+Filename: ./l/libproc2-0/libproc2-0_4.0.3-1_amd64.deb
+Size: 63220
+MD5sum: 2933d219cdae3a59722c953db5f709fe
+SHA1: 2934f0eb209b52d12ae9139c60640816067b0a8c
+SHA256: 19f23d935dbfeeeb6cd86967f20b551e7baa1b8136798aa7d7cc421668a97910
+SHA512: a03aa3e2e3a444c813cec74d3d350fdc4c3ffa8eed90babe0c71be06cb0609e9f68ffcc96132168f9847659bd3267d62b204101a3e20243d818581e17cb9ec17
+Homepage: https://gitlab.com/procps-ng/procps
+Description: library for accessing process information from /proc
+ The libproc2 library is a way of accessing information out of the /proc
+ filesystem.
+ .
+ This package contains the shared libraries necessary to run programs
+ compiled with libproc2.
+

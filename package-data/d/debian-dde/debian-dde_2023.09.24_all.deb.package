@@ -1,0 +1,21 @@
+Package: debian-dde
+Architecture: all
+Version: 2023.09.24
+Priority: standard
+Section: metapackages
+Maintainer: gfdgd-xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Depends: deepin-desktop-environment-base, deepin-desktop-environment-cli, deepin-desktop-environment-core, deepin-desktop-environment-extras, deepin-desktop-environment-ll
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
+Filename: ./d/debian-dde/debian-dde_2023.09.24_all.deb
+Size: 3072
+MD5sum: 8a7a0bc24301421772266ec219a08d16
+SHA1: d65f6211f3f76aefa33412781601a1097a946a41
+SHA256: f0ba1644facfa4e0e42c2e2f056ec6ba91d9adf289046d888f0f36a9b7906055
+SHA512: 8a158492ee8b9a2af821d7514249cc1c14f1c8179a6e9a1956a9fd5b23bed796dc8db411fef2a81406c5dfb60bdd76892802929bb4b63061a2a98a7ab2a37744
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

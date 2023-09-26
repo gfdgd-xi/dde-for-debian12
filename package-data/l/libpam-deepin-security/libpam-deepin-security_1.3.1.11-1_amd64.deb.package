@@ -1,0 +1,19 @@
+Package: libpam-deepin-security
+Architecture: amd64
+Version: 1.3.1.11-1
+Priority: optional
+Section: devel
+Source: deepin-security-pam
+Maintainer: Packages <packags@deepin.com>
+Installed-Size: 29
+Depends: libc6 (>= 2.2.5), login, sudo
+Filename: ./l/libpam-deepin-security/libpam-deepin-security_1.3.1.11-1_amd64.deb
+Size: 4748
+MD5sum: 2d2df2996bd38b1a5e6897ecaddcbe4c
+SHA1: b7d9a7b9070cc5bee816981753075f99feab56a3
+SHA256: b66ef4664e8f2526b8ea17ad44ae0264cf24b190613d650f47210c2c39d6e79c
+SHA512: 11c0fdb4aa7dbb75d941b70f91f475d121f7ced9f427cb91059dfc59d21c909f12f28585702264eb3af505d98cf5902a3a383d612448d250de2e782302b1a8ed
+Homepage: <insert the upstream URL, if relevant>
+Description: Normal mode PAM module, which is used to restrict the permissions of sudo and Su
+ <insert long description, indented with spaces>
+

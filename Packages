@@ -1441,11 +1441,11 @@ Recommends: dde-disk-mount-plugin, dde-dock-onboard-plugin, dock-network-plugin,
 Conflicts: dde-dock-applets, dde-trash-plugin, dde-workspace (<< 2.90.5), dock-hotspot-plugin
 Replaces: dde-dock-applets, dde-trash-plugin
 Filename: ./d/dde-dock/dde-dock_6.0.22_amd64.deb
-Size: 1482236
-MD5sum: 0dc09c7246ad6c7cd3ac74dbb420a374
-SHA1: e8e1264c210b22737dbf895c6a0f2067f2e50aef
-SHA256: d21ab77cb4d4d61871a156157491a1746eb166ede94e8f7ffec774334f81eb30
-SHA512: fd51f66aa85b59868942da0b60b966c9ac20b6c355942e25417644d18f0674e55e9d78dc6569bd3fb3a7b9454dfd28858b17fc7354f9e858b64e52e3f2dbb077
+Size: 1481568
+MD5sum: 99eea30dcc2552e06856c68bc1cea3dd
+SHA1: 989d2475ca7b64afd30c598ca16c9654640be1d8
+SHA256: 0ef75beddd7d5137f83df84056db0deb7bb534b5c697b8cfc15bdc4bedeac052
+SHA512: 8f8ee68e95f8ec81021ca0e52e137df3332d28cf3ca75401513924545ccb8d082d2e3608295e97a6c0874ba1cd86e5597c4af60867e944e90b0a8a5840cb0aba
 Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - dock module
  Dock module of deepin desktop-environment
@@ -2135,6 +2135,23 @@ Homepage: http://www.deepin.org
 Description: deepin password check interface
  deepin-pw-check is a tool to verify the validity of the password
 
+Package: deepin-unstable-source
+Architecture: all
+Version: 0.0.6-2
+Priority: optional
+Section: metapackages
+Maintainer: Deepin SYS Maintainers <lichenggang@uniontech.com>
+Installed-Size: 13
+Depends: deepin-desktop-base | deepin-desktop-server
+Filename: ./d/deepin-unstable-source/deepin-unstable-source_0.0.6-2_all.deb
+Size: 2044
+MD5sum: 9894552a86369820556c7ab1a2cbb412
+SHA1: 26cc47cebdf1f739e4a577912790e4b9c881f88b
+SHA256: 5eae43c542fbb1c28eef01eeb20f101c255fb07a6845239ac4b6a8da0adacbb7
+SHA512: dbbf6e6b35a96aba19e028c74f75a5c283a295bb29063a59fdb688633aba388ef8ed92cbec0eb62284d7ff9e675bc345cba00feb4d614fa1c90e4197cc07c665
+Homepage: https://www.deepin.org
+Description: Deepin unstable source
+
 Package: deepin-system-monitor
 Architecture: amd64
 Version: 6.0.8
@@ -2381,6 +2398,24 @@ Description: Terminal is an advanced terminal emulator with workspace, multiple
  functions such as multi-windows, workspace, remote management, Quake mode
  and etc. You can instantly start and close Terminal smoothly like normal
  file window, allowing you to input commands with facility and no distractions.
+
+Package: deepin-sdk
+Architecture: amd64
+Version: 1.0.0-1
+Priority: optional
+Section: devel
+Maintainer: xmuli <xmulitech@gmail.com>
+Installed-Size: 8
+Depends: libdtkwidget-dev, libdtkgui-dev, libdtkcore-dev
+Filename: ./d/deepin-sdk/deepin-sdk_1.0.0-1_amd64.deb
+Size: 1820
+MD5sum: 9c6c276aa616ec4b93ff5cce60ad3f80
+SHA1: a4920c95fc7450fb2b7c3f927d4758062a2c25b9
+SHA256: c4967e4b3eef3aa4d0ed020eaec886cda60f8f96f511a1346bc51a0ee5531112
+SHA512: 6c19a7eaca4553fd31752d4c316e8c3011bcf4dccc4e091bea2a5f5875fb5abff821e2aa22982f104a23f435ab53ac83d0170418408c52c7a5cdc4fd1e48a370
+Homepage: https://github.com/linuxdeepin/deepin-sdk
+Description: DTK Development Environment Virtual Package
+ DTK Development Environment Configuration Kit
 
 Package: dde-wldpms
 Architecture: amd64
@@ -3024,6 +3059,24 @@ Description: Qt library wrapper for Wayland libraries - data files
  DWayland provides a Qt-style Server library wrapper for
  the Wayland libraries.
 
+Package: deepin-security-verify
+Architecture: amd64
+Version: 1.3.1.4-1
+Priority: optional
+Section: devel
+Maintainer: Packages <packags@deepin.com>
+Installed-Size: 27
+Depends: libc6 (>= 2.2.5)
+Filename: ./d/deepin-security-verify/deepin-security-verify_1.3.1.4-1_amd64.deb
+Size: 4580
+MD5sum: 4b20dee51016e78a32f597f5ed326d36
+SHA1: ffa23a66beb9242d7f3cc1836fbc1001742ae401
+SHA256: 8504248e8dd964a69b9d66214af7100c595734f9af2aa53fd3f032cdc4b7f6e6
+SHA512: 6083df85235a95e0e7ecd25d0961e3657d00d92fd36c8efa90e43f3b137532757dff96900e4c28276f9e34fbcceaf5f0ad4950e02187f89d6c1532acacb0a4a2
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
 Package: deepin-font-manager
 Architecture: amd64
 Version: 6.0.0.1
@@ -3488,6 +3541,25 @@ Description: development files for dwayland
  the Wayland libraries.
  .
  Contains development files for dwayland.
+
+Package: libpam-deepin-security
+Architecture: amd64
+Version: 1.3.1.11-1
+Priority: optional
+Section: devel
+Source: deepin-security-pam
+Maintainer: Packages <packags@deepin.com>
+Installed-Size: 29
+Depends: libc6 (>= 2.2.5), login, sudo
+Filename: ./l/libpam-deepin-security/libpam-deepin-security_1.3.1.11-1_amd64.deb
+Size: 4748
+MD5sum: 2d2df2996bd38b1a5e6897ecaddcbe4c
+SHA1: b7d9a7b9070cc5bee816981753075f99feab56a3
+SHA256: b66ef4664e8f2526b8ea17ad44ae0264cf24b190613d650f47210c2c39d6e79c
+SHA512: 11c0fdb4aa7dbb75d941b70f91f475d121f7ced9f427cb91059dfc59d21c909f12f28585702264eb3af505d98cf5902a3a383d612448d250de2e782302b1a8ed
+Homepage: <insert the upstream URL, if relevant>
+Description: Normal mode PAM module, which is used to restrict the permissions of sudo and Su
+ <insert long description, indented with spaces>
 
 Package: libdtkmultimediawidgets
 Architecture: amd64

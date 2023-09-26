@@ -10,11 +10,11 @@ Recommends: dde-disk-mount-plugin, dde-dock-onboard-plugin, dock-network-plugin,
 Conflicts: dde-dock-applets, dde-trash-plugin, dde-workspace (<< 2.90.5), dock-hotspot-plugin
 Replaces: dde-dock-applets, dde-trash-plugin
 Filename: ./d/dde-dock/dde-dock_6.0.22_amd64.deb
-Size: 1482236
-MD5sum: 0dc09c7246ad6c7cd3ac74dbb420a374
-SHA1: e8e1264c210b22737dbf895c6a0f2067f2e50aef
-SHA256: d21ab77cb4d4d61871a156157491a1746eb166ede94e8f7ffec774334f81eb30
-SHA512: fd51f66aa85b59868942da0b60b966c9ac20b6c355942e25417644d18f0674e55e9d78dc6569bd3fb3a7b9454dfd28858b17fc7354f9e858b64e52e3f2dbb077
+Size: 1481568
+MD5sum: 99eea30dcc2552e06856c68bc1cea3dd
+SHA1: 989d2475ca7b64afd30c598ca16c9654640be1d8
+SHA256: 0ef75beddd7d5137f83df84056db0deb7bb534b5c697b8cfc15bdc4bedeac052
+SHA512: 8f8ee68e95f8ec81021ca0e52e137df3332d28cf3ca75401513924545ccb8d082d2e3608295e97a6c0874ba1cd86e5597c4af60867e944e90b0a8a5840cb0aba
 Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - dock module
  Dock module of deepin desktop-environment

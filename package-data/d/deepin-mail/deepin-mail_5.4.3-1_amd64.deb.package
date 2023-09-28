@@ -1,0 +1,17 @@
+Package: deepin-mail
+Architecture: amd64
+Version: 5.4.3-1
+Priority: optional
+Section: non-free/mail
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 27876
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.12), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libical3 (>= 3.0.0), libkf5globalaccel-bin, libkf5globalaccel5 (>= 4.96.0), libkf5i18n5 (>= 4.97.0), libleveldb1d (>= 1.23), libpoppler-qt5-1 (>= 0.24.5), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11)
+Filename: ./d/deepin-mail/deepin-mail_5.4.3-1_amd64.deb
+Size: 12154388
+MD5sum: d346aa7541593c3bd66dd0ceb2c97b3e
+SHA1: cf76c5c080d533a59ccdf621b34575e65072bda0
+SHA256: f8d10454b9ee86cbd7c4d11b1822d0166b15dcb3115821e33b6633770c0be078
+SHA512: 1e772bbee0e775c705ca5ff38a71d89e4af316acac146cf008eb5eb80d22420ad1268abe342543735207ca9f090abcb9887b5b4bf7dc6c65c18ebfe888af0f61
+Description: Mail is an easy-to-use desktop mail client that can manage multiple email accounts,supporting IMAP and POP3 protocols.
+    Mail, developed by UnionTech Software, provides users with safe, convenient, free and value-added email services.
+

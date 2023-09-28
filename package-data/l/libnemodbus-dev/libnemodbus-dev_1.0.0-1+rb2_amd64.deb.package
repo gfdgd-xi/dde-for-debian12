@@ -1,0 +1,22 @@
+Package: libnemodbus-dev
+Architecture: amd64
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: libs
+Source: nemo-qml-plugin-dbus
+Maintainer: lichenggang <lichenggang@deepin.org>
+Installed-Size: 48
+Depends: libnemodbus1 (= 1.0.0-1+rb2)
+Filename: ./l/libnemodbus-dev/libnemodbus-dev_1.0.0-1+rb2_amd64.deb
+Size: 5588
+MD5sum: 005cd51166d4a09fc9938dbf22e47ab3
+SHA1: 6078d4174448554ad93b2b7324db9d3061d4c7f0
+SHA256: 6d1ffb13f5d5c3870e747e8c8c3e1bc603cb790134ae284db435280ec1b44fc4
+SHA512: ba3d701fde35e1f3544082e54a3e2e24860761d7d12cc00f3a5954649257ff4024d90241ab354edb9b0ca5cd55c054108469739c3e9ef5fddf72529853236692
+Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
+Description: Nemo QML Plugin D-Bus
+ The nemo-dbus library provides C++11 extensions to QtDBus to make it easier
+ to call and handle the replies from asynchronous DBus methods.
+ .
+ This package contains the developent files
+

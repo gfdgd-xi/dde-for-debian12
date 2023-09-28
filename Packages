@@ -825,6 +825,26 @@ Description: Package Installer helps users install and remove local packages.
  not included in App Store supporting bulk installation, version identification
  and auto completion.
 
+Package: deepin-picker-cli
+Architecture: amd64
+Version: 5.0.29
+Priority: optional
+Section: utils
+Source: deepin-picker
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 221
+Depends: libc6 (>= 2.34), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 4.1.1)
+Conflicts: deepin-picker (<< 5.0.5)
+Filename: ./d/deepin-picker-cli/deepin-picker-cli_5.0.29_amd64.deb
+Size: 57128
+MD5sum: 0a0b9420abeb995404986344c02e335e
+SHA1: f0f7b4f6867203bcd19b36813b2a67d6fc408e5f
+SHA256: 4431b945226381492e6c4eda9c9d37fe8ebc600748f306e66e6944b420cae419
+SHA512: 2776602a6568d2ffda7ec43188d54cea3e29c2f993bcd36939ecae79716c8d157801a2bb8f8c72dfbed1b7ff2f38421bb1d41a1e9289e1b73f1d6f1a4cab798c
+Homepage: http://www.deepin.org
+Description: Color picker tool for deepin
+ A color picker tool for deepin.
+
 Package: deepin-theme-hazy-color
 Architecture: amd64
 Version: 1.0.8
@@ -1840,6 +1860,25 @@ Homepage: http://www.deepin.org
 Description: deepin authenticate service
  deepin authentication is a service for user identifing.
 
+Package: deepin-camera
+Architecture: amd64
+Version: 6.0.2
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 16593
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libdwaylandclient5 (>= 5.24.3-1), libdwaylandserver5 (>= 5.24.3-1), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.16.0), libimageeditor, libpciaccess0, libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libasound2 (>= 1.0.16), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libgl1, libpng16-16 (>= 1.6.2-1), libportaudio2 (>= 19+svn20101113), libqt5concurrent5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libsdl2-2.0-0 (>= 2.0.9), libswresample3 (>= 7:4.0), libswscale5 (>= 7:4.0), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.8), libv4l-0 (>= 0.5.0), zlib1g (>= 1:1.1.4), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), dde-api
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-camera/deepin-camera_6.0.2_amd64.deb
+Size: 14941284
+MD5sum: 6d322af7192cc1b1b2d32d5913eaf9fb
+SHA1: 8ba756c3d71dd37d86434969af402b11d0c03e54
+SHA256: 02ac83d40e6d9e840b597b357704062e004c9a124834f7f15fbb8420e5a7d5d0
+SHA512: 3f11a66f4ff81febc013591a078f70a5e0f69de3c0a35106b6ea045d5e517159776816bed3d9ff24ebc1602e0887340720c25d72d5e44b663471343e57dbdd11
+Homepage: http://www.deepin.org
+Description: this package software for  UOS
+ deepin-camera is a tool to view camera, and also a smart take photo and video in life.
+
 Package: deepin-wallpapers-nonfree
 Architecture: all
 Version: 1.7.9
@@ -2544,6 +2583,25 @@ Homepage: https://github.com/linuxdeepin/deepin-sdk
 Description: DTK Development Environment Virtual Package
  DTK Development Environment Configuration Kit
 
+Package: deepin-draw
+Architecture: amd64
+Version: 6.0.5
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 30401
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), qt5-image-formats-plugins, deepin-picker-cli
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-draw/deepin-draw_6.0.5_amd64.deb
+Size: 24649392
+MD5sum: de5c70dd394fe5e17bf30e989bdf1a47
+SHA1: 9fe44cfa768d2f418053b264bef2c66cdd33e8e2
+SHA256: dc1a447454bdd0c9f6b67ec24f54b9e73ab7305f111c4416ccdb1bef9b44de60
+SHA512: 7d3a309715d20e104fd6f01878ab8d3df4cbbe1b83dfa7a2669dc439ec5babc5ee1cbb67a6dac482553119da09e2d8d4f6f575d06554a29176af1374b0025849
+Homepage: http://www.deepin.org
+Description: Draw for UOS
+ Draw is a lightweight drawing tool for users to freely draw and simply edit images.
+
 Package: dde-wldpms
 Architecture: amd64
 Version: 2.0.0.0-1
@@ -2666,6 +2724,23 @@ Description: Deepin New Desktop Environment - Next
  .
  You can safety remove it after installed.
 
+Package: deepin-tweak
+Architecture: amd64
+Version: 1.2.2
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1227
+Depends: libc6 (>= 2.34), libdtkdeclarative5 (>= 5.6.17), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.14.1), libstdc++6 (>= 5)
+Filename: ./d/deepin-tweak/deepin-tweak_1.2.2_amd64.deb
+Size: 867464
+MD5sum: 56e2ddd66a3864021484df80f9f007d8
+SHA1: a83461c825fd2b002cb30954d4bbe9b80b8d514d
+SHA256: bf1de419353245f28768ca442da41f4d3000b5bcff71ab368f9a44aa99f27765
+SHA512: 0075895c5665a8e6bdb3835f0cd82a2a344ca158d229cea9073cc6fd0731084a4e2a2c246b6ad309bf08b4004924bc0d230fa8ff77254d77d4a6c5f911ac57d8
+Description: deepin tweak tools
+ Advanced customization features for communities
+
 Package: deepin-installer-timezones
 Architecture: all
 Version: 6.0.0+dde
@@ -2738,6 +2813,24 @@ SHA512: 59077f51d6586cc5148b6e027138604d406afc12edefda1118f8c14b63b2202ffce5cf35
 Homepage: http://www.deepin.org/
 Description: this is dde-wloutput-daemom
  for wayland
+
+Package: deepin-picker
+Architecture: amd64
+Version: 5.0.29
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 13
+Depends: deepin-picker-cli (= 5.0.29)
+Filename: ./d/deepin-picker/deepin-picker_5.0.29_amd64.deb
+Size: 2924
+MD5sum: 36af6e3ff49572f0485537244a412319
+SHA1: f1974951837caed494b9bf13d1dc6ea4d598940c
+SHA256: 7ed05907a56bb04fd174fae625d4af9f16a2647386760776fd147d13ee29be42
+SHA512: 50ed72b034ec4a9a0726c9126cd57193164b88ec0caf8ea10dc0b1fe88e2a0b0481b133f22c0172d688a5100e5b647ee076764b2ab7921a9d9360962ee447b5d
+Homepage: http://www.deepin.org
+Description: Color picker tool for deepin
+ A color picker tool for deepin.
 
 Package: dde-file-manager-daemon-plugins
 Architecture: amd64
@@ -4083,6 +4176,28 @@ Homepage: http://www.deepin.org
 Description: Image Viewer library development headers.
  Deepin Image Viewer library development headers.
 
+Package: libnemodbus
+Architecture: amd64
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: libs
+Source: nemo-qml-plugin-dbus
+Maintainer: lichenggang <lichenggang@deepin.org>
+Installed-Size: 297
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5qml5 (>= 5.5.0), libstdc++6 (>= 5)
+Filename: ./l/libnemodbus/libnemodbus_1.0.0-1+rb2_amd64.deb
+Size: 72664
+MD5sum: d39e9dd3f21c7252fd0c557f4fccf00b
+SHA1: 6a7072851f539f9adfb4466d322cf02a20e02607
+SHA256: 68c61f74399ebdb0e5a2c2d5d22a3225212d252d17319cbee165f54807813c92
+SHA512: 11b034762ad8a8fa0c36adacbd883f20cbbe2febd1e4d0cd568b330c87c7b6f3331d5ab9535235bb2cb8f31a125c7d40bf856dd2d6c132f72e92544dcc96d697
+Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
+Description: Nemo QML Plugin D-Bus
+ The nemo-dbus library provides C++11 extensions to QtDBus to make it easier
+ to call and handle the replies from asynchronous DBus methods.
+ .
+ This package contains the shared library
+
 Package: libdlmcontrolui
 Architecture: amd64
 Version: 5.3.70
@@ -4367,6 +4482,28 @@ Description: Deepin graphical user interface library
  .
  This package contains the header files and static libraries which are
  needed for developing Deepin applications.
+
+Package: libnemodbus-dev
+Architecture: amd64
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: libs
+Source: nemo-qml-plugin-dbus
+Maintainer: lichenggang <lichenggang@deepin.org>
+Installed-Size: 48
+Depends: libnemodbus1 (= 1.0.0-1+rb2)
+Filename: ./l/libnemodbus-dev/libnemodbus-dev_1.0.0-1+rb2_amd64.deb
+Size: 5588
+MD5sum: 005cd51166d4a09fc9938dbf22e47ab3
+SHA1: 6078d4174448554ad93b2b7324db9d3061d4c7f0
+SHA256: 6d1ffb13f5d5c3870e747e8c8c3e1bc603cb790134ae284db435280ec1b44fc4
+SHA512: ba3d701fde35e1f3544082e54a3e2e24860761d7d12cc00f3a5954649257ff4024d90241ab354edb9b0ca5cd55c054108469739c3e9ef5fddf72529853236692
+Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
+Description: Nemo QML Plugin D-Bus
+ The nemo-dbus library provides C++11 extensions to QtDBus to make it easier
+ to call and handle the replies from asynchronous DBus methods.
+ .
+ This package contains the developent files
 
 Package: linglong-builder
 Architecture: amd64

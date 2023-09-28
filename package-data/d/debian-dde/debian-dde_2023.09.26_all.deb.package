@@ -6,13 +6,13 @@ Section: metapackages
 Maintainer: gfdgd-xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
 Installed-Size: 9
 Depends: debian-dde-desktop-environment-base, debian-dde-desktop-environment-cli, debian-dde-desktop-environment-core, debian-dde-desktop-environment-extras, debian-dde-desktop-environment-ll
-Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, xfce4-pulseaudio-plugin, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
 Filename: ./d/debian-dde/debian-dde_2023.09.26_all.deb
-Size: 3160
-MD5sum: b37aada9c4e1da0bfbf077d7afb6b881
-SHA1: 3c159ef825bedc98743e6817cb1f3a717f52961e
-SHA256: f0feab47b959e6156d2f400292c3d8785e7273876eeae7c6df5f614971167209
-SHA512: bf04f44560ec0655a278b9ec93ecf2664fe6cdddb7011408d7709ddc603ac326c87c70b89cdc968f527aa858e0913cacef2a4fd852699a3f6d3650efb880ad93
+Size: 3172
+MD5sum: 317e620d0336f335fc4c3994e50d8bce
+SHA1: 52721b8272be1184aae1beed16e02d61899c3860
+SHA256: 0500271d64818b6ce5153a8fd4053a98d8baf74974a53e0afa6b5914480e28fe
+SHA512: a9733071ba324bf6fc1a9f2bc4ceb062dc92b89186a52ef38d27dc7284a29998a04990be87175c4c8896b1e97d4b7ef2c1b9202ac956a3f15d9360b7ca8165f5
 Homepage: http://www.linuxdeepin.com
 Description: Deepin New Desktop Environment - Next
  This is a meta package depends Deepin New Desktop Envrionment.

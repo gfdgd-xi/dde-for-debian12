@@ -1343,6 +1343,26 @@ Description: deepin desktop-environment - dde-dconfig-editor module
  dde-dconfig-editor is a GUI or Console tool, it's used to view and edit
  DSG configuration for current user.
 
+Package: deepin-movie
+Architecture: amd64
+Version: 6.0.5
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 21513
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libmpris-qt5-1 (>= 1.0.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libva-x11-2 (>= 1.0.3), libva2 (>= 1.0.3), libx11-6, libxcb-shape0, libxcb1, libxtst6, dconf-gsettings-backend | gsettings-backend, va-driver-all, libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libmpv1 (>= 0.29), libpulse0 (>= 0.99.1), libqt5concurrent5
+Recommends: libgpuinfo
+Filename: ./d/deepin-movie/deepin-movie_6.0.5_amd64.deb
+Size: 9521592
+MD5sum: 009cf13e78b943b66c7269fbc9b17dfe
+SHA1: 07cc3b55f6dc7b21cb797a1963caf9b55133c69d
+SHA256: bf6e86dbab4b0c10f334487b99b1687e0f8fc9572191af45cf4502c9cd077690
+SHA512: 952be36a92a484800e89bbc994bcacbde5acddfa066668c7661ce43da43d5a11bd85f0ad9331ca5520a104a8ba9c24c13f10ed83b586684ec3cf14f3795c137d
+Homepage: https://www.deepin.org/
+Description: movie player
+ Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.
+
 Package: dcc-network-plugin
 Architecture: amd64
 Version: 2.0.15
@@ -1746,13 +1766,13 @@ Section: metapackages
 Maintainer: gfdgd-xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
 Installed-Size: 9
 Depends: debian-dde-desktop-environment-base, debian-dde-desktop-environment-cli, debian-dde-desktop-environment-core, debian-dde-desktop-environment-extras, debian-dde-desktop-environment-ll
-Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, xfce4-pulseaudio-plugin, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
 Filename: ./d/debian-dde/debian-dde_2023.09.26_all.deb
-Size: 3160
-MD5sum: b37aada9c4e1da0bfbf077d7afb6b881
-SHA1: 3c159ef825bedc98743e6817cb1f3a717f52961e
-SHA256: f0feab47b959e6156d2f400292c3d8785e7273876eeae7c6df5f614971167209
-SHA512: bf04f44560ec0655a278b9ec93ecf2664fe6cdddb7011408d7709ddc603ac326c87c70b89cdc968f527aa858e0913cacef2a4fd852699a3f6d3650efb880ad93
+Size: 3172
+MD5sum: 317e620d0336f335fc4c3994e50d8bce
+SHA1: 52721b8272be1184aae1beed16e02d61899c3860
+SHA256: 0500271d64818b6ce5153a8fd4053a98d8baf74974a53e0afa6b5914480e28fe
+SHA512: a9733071ba324bf6fc1a9f2bc4ceb062dc92b89186a52ef38d27dc7284a29998a04990be87175c4c8896b1e97d4b7ef2c1b9202ac956a3f15d9360b7ca8165f5
 Homepage: http://www.linuxdeepin.com
 Description: Deepin New Desktop Environment - Next
  This is a meta package depends Deepin New Desktop Envrionment.
@@ -4070,6 +4090,25 @@ Description: Utilities for EROFS File System
  compression ratios, which is more useful to achieve high
  performance for embedded devices with limited memory.
 
+Package: libdmr-dev
+Architecture: amd64
+Version: 6.0.5
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 49
+Depends: libdmr (= 6.0.5), libgsettings-qt-dev
+Filename: ./l/libdmr-dev/libdmr-dev_6.0.5_amd64.deb
+Size: 11068
+MD5sum: a6b9503955650b1c4e252e7972991043
+SHA1: 619f60f05803cff56a3c7d02f7a02f8f5323e2af
+SHA256: 4887b7e70904d592659ac57a180b2836bbdcb32786425a0f35d3da03e7a4bf64
+SHA512: 081d81ac596ba2adf8b656ebf6b9ffe29af928b85ab910fcb9b2fff98b70dde6095f765ac51fa2be85f5ea85c2a1b8c75d46775710988a4bc72ae9e6c5944651
+Homepage: https://www.deepin.org/
+Description: movie player widget library development headers
+ deepin movie player widget library development headers
+
 Package: libdtkmultimedia-dev
 Architecture: amd64
 Version: 1.0.5
@@ -4129,6 +4168,26 @@ SHA512: 79bdd65089c599775b59dd1b7fe3a1dd7905db70ecbd587b5b7846fc825565d76e7ee7f8
 Homepage: http://www.deepin.org
 Description: A libaray about mount burning CD.
  A libaray that provides burning CD interface dev.
+
+Package: libdmr
+Architecture: amd64
+Version: 6.0.5
+Multi-Arch: same
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 784
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.5.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libmpv1 (>= 0.29), libpulse0 (>= 0.99.1), libqt5concurrent5, libmpris-qt5-1
+Filename: ./l/libdmr/libdmr_6.0.5_amd64.deb
+Size: 234428
+MD5sum: 1ef9902c2188eab541c6ad1f00fbde24
+SHA1: f0dea1162654d598b7e1820c6e028cc0c212c955
+SHA256: fe96d997cde561dabe461e245a49222e25e38b93228814e952626fefd06d794a
+SHA512: 46fbf64773b8bd620232047dcb14381576b5f03d790e0e2b9051819fa0ed171010ebf4d2b19dac42a2ca6c63d256a3b8f69345f0ad2f3abf2c4ca430f7036ffa
+Homepage: https://www.deepin.org/
+Description: movie player widget library
+ deepin movie player widget library
 
 Package: libdfm-io-dev
 Architecture: amd64

@@ -1817,6 +1817,27 @@ Description: Deepin New Desktop Environment - Next
  .
  You can safety remove it after installed.
 
+Package: debian-dde
+Architecture: all
+Version: 2023.09.29
+Priority: standard
+Section: metapackages
+Maintainer: gfdgd-xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 13
+Depends: debian-dde-desktop-environment-base, debian-dde-desktop-environment-cli, debian-dde-desktop-environment-core, debian-dde-desktop-environment-extras, debian-dde-desktop-environment-ll
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, xfce4-pulseaudio-plugin, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
+Filename: ./d/debian-dde/debian-dde_2023.09.29_all.deb
+Size: 3356
+MD5sum: 5257f2a2f80e08380a49b4bc0f4d7130
+SHA1: 42e2a2f56860b2d88be3e8e63481b8991b39925b
+SHA256: 0afbe26882ace9a60c7076624e88c6065fada8df7f99bc691642313385d96965
+SHA512: d7a9013ce7e6c8efc2e22e33da334fb689147b2bb887083e3f479a5a884593f75ccd611121f1169429622c51a68f56ec36fd57cf46ab9159d8d36a06c7e26989
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+
 Package: deepin-authenticate
 Architecture: amd64
 Version: 1:2.0.3
@@ -3927,6 +3948,29 @@ Description: Unarchiver for .rar files (non-free version)
  Unrar can extract files from .rar archives. If you want to create .rar
  archives, install package rar.
 
+Package: linux-image-deepin-hwe-amd64
+Architecture: amd64
+Version: 6.1.32-hwe
+Priority: extra
+Section: metapackages
+Source: linux-deepin-hwe
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: linux-image-6.1.32-amd64-desktop-hwe
+Filename: ./l/linux-image-deepin-hwe-amd64/linux-image-deepin-hwe-amd64_6.1.32-hwe_amd64.deb
+Size: 2032
+MD5sum: 3ece94dd37df2308a3d4ed41008df377
+SHA1: 1cd9d39ee290ee5cfa4b82a66a9ef9abebb3a30c
+SHA256: e699e345a4d0ee79e2fc1ffd107806713921542d03bb5cd90e14dd9a94530d9b
+SHA512: b2cc354282533004adca1b421edcb9008c3c82ae917e662a1d2e286ab0d9014673fee9abcdab1b2bdffef4d22caca8d94ea78e3e9aa1531ef5628a10c946220c
+Homepage: http://www.deepin.com
+Description: Linux for 64-bit PCs (meta-package)
+ This package depends on the latest Linux kernel and modules for use on PCs
+ with AMD64, Intel 64 or VIA Nano processors.
+ .
+ This kernel also runs on a Xen hypervisor.  It supports both privileged
+ (dom0) and unprivileged (domU) operation.
+
 Package: libdwayland-dev
 Architecture: amd64
 Version: 5.25.0-kwayland.5.24.3
@@ -4280,6 +4324,26 @@ SHA1: a8f0a837130dc022a6f58621e8e4f30f3129e573
 SHA256: 59cadc3f2f3e6417d1592a08585c2f9ca7d2c39466a9669da0ebeabd15ac410c
 SHA512: 3f2c756d977f4366aabfaa9a90cb1ead78bfc5610bab74139d54ec044cfce20d955dd09fcc5f78ea16fdb7a37835d5b44c99e2387b9e5e716e3984fb0f8ef480
 Description: 空包
+
+Package: linux-headers-deepin-hwe-amd64
+Architecture: amd64
+Version: 6.1.32-hwe
+Priority: extra
+Section: metapackages
+Source: linux-deepin-hwe
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: linux-headers-6.1.32-amd64-desktop-hwe
+Filename: ./l/linux-headers-deepin-hwe-amd64/linux-headers-deepin-hwe-amd64_6.1.32-hwe_amd64.deb
+Size: 1936
+MD5sum: c1a2d1d97fc6b01b55fa96006605db80
+SHA1: 4e3bc5dea1a066e1ed3c0d368d3b3e877b7c77e0
+SHA256: 6e7ed17f45a5db419bcfd43db538a6469671f1f8b7450661bb15a27943435215
+SHA512: 023e1639f31602653506b6bef1d02d7d4619b78e8bd244c599cbe6a41a5d44baee873e003e104cc1f7bd5466d87fd2d7d70d352756f4101b3dfcf69adcc53ae8
+Homepage: http://www.deepin.com
+Description: Header files for Linux amd64 configuration (meta-package)
+ This package depends on the architecture-specific header files for the
+ latest Linux kernel amd64 configuration.
 
 Package: libimageeditor-dev
 Architecture: amd64
@@ -5792,6 +5856,25 @@ Homepage: https://www.deepin.org
 Description: Package loader for removable bundle.
  Package loader...
 
+Package: linux-image-6.1.32-amd64-desktop-hwe
+Architecture: amd64
+Version: 23.01.00.20
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin23 <deepin23@deepin23-PC>
+Installed-Size: 364147
+Filename: ./l/linux-image-6.1.32-amd64-desktop-hwe/linux-image-6.1.32-amd64-desktop-hwe_23.01.00.20_amd64.deb
+Size: 74841844
+MD5sum: 8786f36c4cd05158b47873dcbe86f43c
+SHA1: 83709c74c86d01b28e19000a52aa501830a67d16
+SHA256: 6703de973676a62c9e5734aa73c7cdc2d4acfe2fe6d425a794cfa666346d6b35
+SHA512: 86bcd7d70f8d20624a836549bf1b944a7bb757aa678a2714f502ceca397351aed01202679eeb0b672c839d6a2fb90d4552267fa29f8d7cc1a40ed2b1b793b0f0
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.32-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.32-amd64-desktop-hwe.
+
 Package: linglong-dbus-proxy
 Architecture: amd64
 Version: 1.3.3.10-1
@@ -6062,6 +6145,26 @@ SHA512: 05e1ce600a009fdef9195cde99b6151bcdc59b3a19547d353ee76f87abd93bb38f509ced
 Homepage: https://www.deepin.org
 Description: Deepin sandbox with OCI standard.
  Deepin sandbox...
+
+Package: linux-headers-6.1.32-amd64-desktop-hwe
+Architecture: amd64
+Version: 23.01.00.20
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin23 <deepin23@deepin23-PC>
+Installed-Size: 53312
+Filename: ./l/linux-headers-6.1.32-amd64-desktop-hwe/linux-headers-6.1.32-amd64-desktop-hwe_23.01.00.20_amd64.deb
+Size: 9034800
+MD5sum: ee8c2c75b72d2c2ca5af330fdc97fac7
+SHA1: 74d6e098f8631d02f6c2cab6171452847999a06d
+SHA256: bb9ce3f30d094d37fbc12f0cba03d7c9b4372a4c2952ffbc35710e14c8c3f2ef
+SHA512: b19b0e2f422a5a154880b7209979a66822c87916b0f066eda884e0d692bb79f5dd50944ea1c99d213e3d62bba42b4c42e5e1c2adb926d2c8521958001a2e82ab
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.1.32-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 6.1.32-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
 
 Package: libdfm-mount-dev
 Architecture: amd64

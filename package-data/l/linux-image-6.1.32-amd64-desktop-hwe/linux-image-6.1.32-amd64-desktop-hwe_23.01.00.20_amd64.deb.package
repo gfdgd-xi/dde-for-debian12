@@ -1,0 +1,19 @@
+Package: linux-image-6.1.32-amd64-desktop-hwe
+Architecture: amd64
+Version: 23.01.00.20
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin23 <deepin23@deepin23-PC>
+Installed-Size: 364147
+Filename: ./l/linux-image-6.1.32-amd64-desktop-hwe/linux-image-6.1.32-amd64-desktop-hwe_23.01.00.20_amd64.deb
+Size: 74841844
+MD5sum: 8786f36c4cd05158b47873dcbe86f43c
+SHA1: 83709c74c86d01b28e19000a52aa501830a67d16
+SHA256: 6703de973676a62c9e5734aa73c7cdc2d4acfe2fe6d425a794cfa666346d6b35
+SHA512: 86bcd7d70f8d20624a836549bf1b944a7bb757aa678a2714f502ceca397351aed01202679eeb0b672c839d6a2fb90d4552267fa29f8d7cc1a40ed2b1b793b0f0
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.32-amd64-desktop-hwe
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.32-amd64-desktop-hwe.
+

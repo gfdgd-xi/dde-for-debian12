@@ -1,0 +1,20 @@
+Package: linux-headers-6.1.32-amd64-desktop-hwe
+Architecture: amd64
+Version: 23.01.00.20
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin23 <deepin23@deepin23-PC>
+Installed-Size: 53312
+Filename: ./l/linux-headers-6.1.32-amd64-desktop-hwe/linux-headers-6.1.32-amd64-desktop-hwe_23.01.00.20_amd64.deb
+Size: 9034800
+MD5sum: ee8c2c75b72d2c2ca5af330fdc97fac7
+SHA1: 74d6e098f8631d02f6c2cab6171452847999a06d
+SHA256: bb9ce3f30d094d37fbc12f0cba03d7c9b4372a4c2952ffbc35710e14c8c3f2ef
+SHA512: b19b0e2f422a5a154880b7209979a66822c87916b0f066eda884e0d692bb79f5dd50944ea1c99d213e3d62bba42b4c42e5e1c2adb926d2c8521958001a2e82ab
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.1.32-amd64-desktop-hwe on amd64
+ This package provides kernel header files for 6.1.32-amd64-desktop-hwe on amd64
+ .
+ This is useful for people who need to build external modules
+

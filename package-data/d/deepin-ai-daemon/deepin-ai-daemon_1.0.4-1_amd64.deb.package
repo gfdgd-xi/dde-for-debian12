@@ -1,0 +1,19 @@
+Package: deepin-ai-daemon
+Architecture: amd64
+Version: 1.0.4-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 286
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkocr (>= 1.0.5), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libicu72 (>= 72.1~rc-1~), liblucene++-contrib0v5 (>= 3.0.8), liblucene++0v5 (>= 3.0.8), libnl-3-200 (>= 3.2.21), libnl-genl-3-200 (>= 3.2.7), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), libtag1v5 (>= 1.9.1-2.2~), deepin-anything-server, deepin-ai-models
+Recommends: libimageeditor (>= 1.0.19)
+Filename: ./d/deepin-ai-daemon/deepin-ai-daemon_1.0.4-1_amd64.deb
+Size: 76152
+MD5sum: e00c510651fce364deeb718fccf59c29
+SHA1: 0ec588ad1b2c18b69b943b8bf9d8a486586f1596
+SHA256: 0f56bf14005703bf606ed7d9b051593e7eae9ef286714d4510f7779e87f73f9a
+SHA512: 865831dbbd2af1ae6a30c5980ecffba3073bb583be538d6cd3e80bdc3a1a74191e49b925cda83a4e7e628edd5ade5724a80ae56cce38895566e7d04f88dd846f
+Homepage: http://www.deepin.org/
+Description: AI search application server for dde-grand-search
+ AI search application server for dde-grand-search
+

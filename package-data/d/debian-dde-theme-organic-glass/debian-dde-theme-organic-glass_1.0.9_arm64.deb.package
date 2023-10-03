@@ -1,0 +1,18 @@
+Package: debian-dde-theme-organic-glass
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Filename: ./d/debian-dde-theme-organic-glass/debian-dde-theme-organic-glass_1.0.9_arm64.deb
+Size: 2544
+MD5sum: 0b27928fb7eaec3d8f22be354e0c9e21
+SHA1: 315fca67d7d49fe3b135114e7669a8a24be43d2c
+SHA256: 5e52c9fdef18855b15a69abeceea5582aec1c474df98384aa8c8f7ee23a7c7bb
+SHA512: 4817f0f5cbbc25c388867e9c80487c64aaec7e887823ba80050ddb6dfa17bdabe688c51168b2fb66652448167165a960c031ef269f1cc84a55972d9ee8d17b93
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - organic glass theme
+ deepin theme organic glass.
+

@@ -1,0 +1,19 @@
+Package: sea-icon-theme
+Architecture: all
+Version: 2023.09.25
+Priority: optional
+Section: x11
+Source: debian-dde-icon-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6223
+Conflicts: debian-dde-icon-theme (<< 15.12.65)
+Filename: ./s/sea-icon-theme/sea-icon-theme_2023.09.25_all.deb
+Size: 2012564
+MD5sum: 08e45b5038c641b5acfabae589a62c71
+SHA1: b71e189799e3a11457b86d5a8356d1eae9034bce
+SHA256: 6af52c7653f16d7a54b19773fbf2898dcde5125b57bc757d852ccfa03460b42d
+SHA512: 908288628d8b5defb9b1478101578ac812a82d2faefd04cc96d4f45e3a09f31c0415dd4fffdc14dcd50a20acf272b13f67a27b03c0664d8e32f725f5805462be
+Homepage: https://github.com/gfdgd-xi/debian-dde-icon-theme
+Description: Deepin Sea Icons
+ This package is DeepinIconTheme Sea
+

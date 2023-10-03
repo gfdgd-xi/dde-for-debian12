@@ -1,0 +1,22 @@
+Package: dde-desktop
+Architecture: arm64
+Version: 6.0.30
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 2432
+Depends: libc6 (>= 2.34), libdde-file-manager, libdfm-io, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), dde-desktop-plugins
+Recommends: qt5dxcb-plugin, deepin-screensaver
+Conflicts: dde-file-manager-oem, dde-workspace (<< 2.90.5)
+Replaces: dde-file-manager (<< 6.0.1), dde-file-manager-oem
+Filename: ./d/dde-desktop/dde-desktop_6.0.30_arm64.deb
+Size: 531952
+MD5sum: 25137882662ac38b6ffde4fa5044ec5b
+SHA1: 335e7270c5eb16d27b3e463f95621435fc31d07a
+SHA256: 898b9c41771d5945471b9ea985979308ee6946823da07c4d1aa5a22e71925c5f
+SHA512: 847336d023e8a8bfe771832e5f04e5462d3d0b65fc3046094ac0035611a8b4025b46f07d0b1f175cdae3569b8731e9d38fb3b1252d11142a1f622fd13b975f7c
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop module
+ Deepin Desktop Environment (DDE) - desktop module.
+

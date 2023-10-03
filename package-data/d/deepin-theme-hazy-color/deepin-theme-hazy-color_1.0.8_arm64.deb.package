@@ -1,0 +1,18 @@
+Package: deepin-theme-hazy-color
+Architecture: arm64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 60733
+Filename: ./d/deepin-theme-hazy-color/deepin-theme-hazy-color_1.0.8_arm64.deb
+Size: 49457396
+MD5sum: aba48de496d37b9038e74555a5446fbe
+SHA1: c4d8dc601b1de922aaa328307faf38afd9de0ec0
+SHA256: f3cc66ea74717e08d6d72564e65efd80b611db4f361b3f17eac2d7fed4409cf3
+SHA512: bfaff8da0cb8682ec19cae28be70f4fef226dd050c593d57caec630d77eda017245f6a1e742d03b2b1bdc1b6a097178255593e520561e3a28f6f4d62b03a8679
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - hazy color theme
+ deepin theme hazy color.
+

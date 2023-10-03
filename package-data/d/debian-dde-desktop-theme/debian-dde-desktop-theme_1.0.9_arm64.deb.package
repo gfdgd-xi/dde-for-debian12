@@ -1,0 +1,18 @@
+Package: debian-dde-desktop-theme
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: debian-dde-theme-bloom, debian-dde-theme-vintage, debian-dde-theme-organic-glass, debian-dde-theme-hazy-color, debian-dde-theme-flow, debian-dde-theme-square, debian-dde-theme-macaron
+Filename: ./d/debian-dde-desktop-theme/debian-dde-desktop-theme_1.0.9_arm64.deb
+Size: 2576
+MD5sum: 18893aab85a9990f3138dbfb37386552
+SHA1: 37fe6cf6f6fd1ae838a6042b9b723805b51559f1
+SHA256: 703410e46cfcb7c2e5b72a071e6f230e46a10c271a883c5238540ab20d309a32
+SHA512: 747a8450067fc40525214d11d214f522ffce57fca59b313948c14fd8a930627f87f33ae7368fbb909fe44cbbf009944c65e66f0f8108ebdfbf510fb2fe4348de
+Homepage: http://www.deepin.org
+Description: deepin desktop theme
+ This package is DeepinDesktopTheme
+

@@ -1,0 +1,19 @@
+Package: debian-dde-theme-square
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: debian-dde-icon-theme
+Filename: ./d/debian-dde-theme-square/debian-dde-theme-square_1.0.9_arm64.deb
+Size: 2544
+MD5sum: c00a34326555c751a1ed8a3bf4125eeb
+SHA1: afee07b19acce82382099fb9a2c9205401fd2341
+SHA256: 9a7e08246843dd575b0e4f369e3932ec67199347cc22fce3611dec3fa4026cfd
+SHA512: 6cdc45c2e79199327d571ab06843f073c42676aee6b9bbb26f13c41c7bab4bff6b0b8c9ecd011d74a59d7c7cd6172279e820b08a85abbbfdb1907017336f8c11
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - square theme
+ deepin theme square.
+

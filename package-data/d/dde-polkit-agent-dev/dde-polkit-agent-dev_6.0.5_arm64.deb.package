@@ -1,0 +1,19 @@
+Package: dde-polkit-agent-dev
+Architecture: arm64
+Version: 6.0.5
+Priority: optional
+Section: devel
+Source: dde-polkit-agent
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 13
+Depends: dde-polkit-agent (= 6.0.5)
+Filename: ./d/dde-polkit-agent-dev/dde-polkit-agent-dev_6.0.5_arm64.deb
+Size: 3160
+MD5sum: c532db2d050c5596407fa9b2d229bbc4
+SHA1: 891458fdba9ed468112045de3543a3e36aaa8c43
+SHA256: a50f76da8ab8bf4be4e6fff69b3dda7f09e5e58933faa6c98caa2f69c25513bc
+SHA512: 3f2998e27fbc047553457c65c380c195adb1121d47376336091100721e1a000ee5a49fda8737eaedf09bb418d4d5178767c212ff157a05026951f9928dcffbc8
+Homepage: http://www.deepin.org/
+Description: developement files of dde-polkit-agent extensions.
+ Development files of dde-polkit-agent extensions.
+

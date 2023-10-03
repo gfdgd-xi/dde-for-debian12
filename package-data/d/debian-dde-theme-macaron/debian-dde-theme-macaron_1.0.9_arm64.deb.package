@@ -1,0 +1,18 @@
+Package: debian-dde-theme-macaron
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Filename: ./d/debian-dde-theme-macaron/debian-dde-theme-macaron_1.0.9_arm64.deb
+Size: 2540
+MD5sum: e4b1f728ae4209d238933c9a7b94d230
+SHA1: b8de5e93f5d86f390c804b383d4812e825074c6f
+SHA256: a473d93ad03fab9517e13d826de821812c3b0b8f076b0acfb1bb8f920de597ef
+SHA512: 8af1e01619f6ee633259c94c0f66f4f8ca53cc9318568e3e4a9551dbeb30fcafd84781b4f4846e60106c344155df2425bbafd45f83242996f27abcac732dcb91
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - macaron theme
+ deepin theme organic glass.
+

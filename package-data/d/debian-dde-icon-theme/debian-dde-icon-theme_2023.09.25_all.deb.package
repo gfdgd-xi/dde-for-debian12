@@ -1,0 +1,19 @@
+Package: debian-dde-icon-theme
+Architecture: all
+Version: 2023.09.25
+Priority: optional
+Section: x11
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8
+Depends: papirus-icon-theme
+Conflicts: deepin-cursor-theme, deepin-icon-theme
+Filename: ./d/debian-dde-icon-theme/debian-dde-icon-theme_2023.09.25_all.deb
+Size: 1960
+MD5sum: d2c646bc35711103b4c0bb7a037f9697
+SHA1: f6e8a6fe65cb4fd3540adb22802a40c1fd1f14e1
+SHA256: 4e88c8e0dca81239b7907d600106ee7185b661c571ebd68f324bf292fa5559df
+SHA512: b8482eaa1c6fbbafb3ad8ea207ff070829d9ef4163425c98e581d594ec56553fe333c3a12d286b471f98fb0243e0fe0314ff65f7d1c4dd66d16c535353aa53a7
+Homepage: https://github.com/gfdgd-xi/debian-dde-icon-theme
+Description: Deepin Icons
+ This package is DeepinIconTheme
+

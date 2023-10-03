@@ -1,0 +1,18 @@
+Package: seetaface-tennis
+Architecture: arm64
+Version: 1.0.0-1+u001
+Priority: optional
+Section: devel
+Maintainer: likier <likier@sina.cn>
+Installed-Size: 5597
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libstdc++6 (>= 12)
+Filename: ./s/seetaface-tennis/seetaface-tennis_1.0.0-1+u001_arm64.deb
+Size: 1461332
+MD5sum: 79e93cc325769003278f185f4585bd7c
+SHA1: 2e91af133c1f3b51c8ad7534cd8425e75323324d
+SHA256: b142bf0260ccc6859d57e625755bcea911635ff906dd2c21ced376a38b8694f9
+SHA512: 1de918dd9d48b358cac462cdc3a327d19b2ad185786b13d8e66e5e4341da01ed6ceed760c24836b6028e43f376325719f1b6dd1d2aa3d90cc7b17170861e372e
+Homepage: https://github.com/TenniS-Open/TenniS.git
+Description: tennis for seetaface
+  TenniS: Tensor based Edge Neural Network Inference System
+

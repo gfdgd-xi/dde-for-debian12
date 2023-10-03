@@ -1,0 +1,19 @@
+Package: debian-dde-theme-vintage
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: debian-dde-icon-theme
+Filename: ./d/debian-dde-theme-vintage/debian-dde-theme-vintage_1.0.9_arm64.deb
+Size: 2548
+MD5sum: 654101a1b56065a9ca001f4b21eab1da
+SHA1: 93319d4e2603e0d5e00ee2cb45ab61d17b644509
+SHA256: f14bc485d04feec079e8780088ce4cb8b976cb6b25bb7582144ddea1c9e7493d
+SHA512: babeb7fb3afb23958cd6e05beda5dd131e65918c7dd992e41ae68e4c31d2b935eabf29a4b2989edc515b7a7554ab067980c7aad0ef4117241e861f02af4e31d7
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - Vintage theme
+ deepin theme Vintage icon.
+

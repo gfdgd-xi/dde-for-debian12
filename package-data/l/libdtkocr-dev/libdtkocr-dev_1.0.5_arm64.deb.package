@@ -1,0 +1,20 @@
+Package: libdtkocr-dev
+Architecture: arm64
+Version: 1.0.5
+Priority: optional
+Section: libdevel
+Source: dtkmultimedia
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 379
+Depends: libdtkocr (= 1.0.5)
+Filename: ./l/libdtkocr-dev/libdtkocr-dev_1.0.5_arm64.deb
+Size: 234684
+MD5sum: 0d84fb3dfbf8017c7759048576fd5a0d
+SHA1: e4ed947e66a3e10c14d87ae912e5e9b6b4618e6d
+SHA256: 5900c5431ab4931735f38a729e7cf28e482c7c3556f2bde16cfa0b6b44d15114
+SHA512: e46a4b9c64cf1eb8c188e1c35d6ed989471ce7a713504f787a20acb3230c35b9bd683136784b4beac9f35438781b272244c850b28587c3874af7d043b94ed49c
+Description: Development Tool Kit ocr devel library
+ libdtkocr-dev is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries.
+

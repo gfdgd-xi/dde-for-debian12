@@ -1,0 +1,18 @@
+Package: dde-control-center-doc
+Architecture: arm64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1293
+Filename: ./d/dde-control-center-doc/dde-control-center-doc_6.0.28_arm64.deb
+Size: 888520
+MD5sum: 664332da1d87a1964ea2934f3162706d
+SHA1: b297a00d9d1ff07e12a8797092832d6503ccff27
+SHA256: 2d1d62938e62e115bd4b97b11c0eac279b0d17441049abae40d101ae3ab221b4
+SHA512: 958954d299b8e3a3ea1faab0e5bcde9507cb32d5e1b47c95c391e1db1f748662d1c52e43309bc7ba598089c1da91ef84764e546f8ca703c718d29b96ee683b5d
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: dde-control-center (document)
+ This package contains the doc files of dde-control-center
+

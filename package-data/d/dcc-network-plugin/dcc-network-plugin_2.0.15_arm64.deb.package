@@ -1,0 +1,19 @@
+Package: dcc-network-plugin
+Architecture: arm64
+Version: 2.0.15
+Priority: optional
+Section: lib
+Source: dde-network-core
+Maintainer: donghualin <donghualin@uniontech.com>
+Installed-Size: 5328
+Depends: dde-control-center (>= 6.0.28), libc6 (>= 2.17), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libkf5networkmanagerqt6 (>= 5.99.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.5.0), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5.2), network-manager-integration-plugins, libdde-network-core (= 2.0.15)
+Filename: ./d/dcc-network-plugin/dcc-network-plugin_2.0.15_arm64.deb
+Size: 988948
+MD5sum: 63a29ec5984705719d1fe03bcd7f67e5
+SHA1: fdec6dbcfac8a1ffe6112ed128159f24596c2c95
+SHA256: 7da0648a1680ab0679b1f45b63231a361911fb459fdeb8c5ab9bf41b7d68b5e5
+SHA512: 28aa847cdd5f54343d2d828bedec95ca226790c03184a6059d763ebb5ef61e4f4e7c001941daca9fc9927b7f38f4719bd0069bfd34cca2642ca9df20cfabff7c
+Homepage: https://gerrit.uniontech.com/admin/repos/dde-network-core
+Description: the plugin of network for dde control center
+ dcc-network-plugin module
+

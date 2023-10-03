@@ -1,0 +1,18 @@
+Package: deepin-theme-organic-glass
+Architecture: arm64
+Version: 1.0.8
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 85554
+Filename: ./d/deepin-theme-organic-glass/deepin-theme-organic-glass_1.0.8_arm64.deb
+Size: 79304080
+MD5sum: 69c2b5e899a17445240424140e2545ee
+SHA1: a7340fb923e2bc9a26b5e53324ac25bdfe2ec18f
+SHA256: a244c57b798624276320345803ebe916d45db9688892466b9ff14bcba05bbdf5
+SHA512: 84b56d594275374c733226ae984a82d4c8dec779ad5e1457f5bc17602671178b3d821d8ff86712d50708d39552e0c6a3021bafc501c73f27aec270df84bb6664
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - organic glass theme
+ deepin theme organic glass.
+

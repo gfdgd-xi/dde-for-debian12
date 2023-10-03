@@ -1,0 +1,19 @@
+Package: debian-dde-theme-flow
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: debian-dde-icon-theme
+Filename: ./d/debian-dde-theme-flow/debian-dde-theme-flow_1.0.9_arm64.deb
+Size: 2536
+MD5sum: ab8929e4549d11a107dcc922583401d6
+SHA1: 8a5188f568c2fc100720abbb33ce2c15d79a11a9
+SHA256: 2557192998e58398f6654fe69c0a3f6937603337d594c0bf4e0df88d85ff37d2
+SHA512: 6c6ec3db394572be600b94b93cf4262116e743abb88df70cca16a1470d8d43c6c55a0c16918202bbfffd704d690a3fbb7a59d1f2777676f37548c591cde8c6b7
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - flow theme
+ deepin theme flow.
+

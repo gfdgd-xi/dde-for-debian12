@@ -1,0 +1,20 @@
+Package: libdtkocr
+Architecture: arm64
+Version: 1.0.5
+Priority: optional
+Section: libdevel
+Source: dtkmultimedia
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 17260
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libncnn, libopencv-mobile, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libstdc++6 (>= 11)
+Filename: ./l/libdtkocr/libdtkocr_1.0.5_arm64.deb
+Size: 15856772
+MD5sum: db552db870668d8e3d06763d1cef6ca3
+SHA1: 3a4fa47863d81e17b9d61c8d865d2a44f80f9ab2
+SHA256: 496264dca2296ac676740f98832ab602d9864e7d8ced1ba17805771b46413126
+SHA512: d056d8b1bc4408b8c537d1991ddfde74c1b6e97fcb321f68a55f45d43721c9c6934508626065138473bef145b94ff1f1df844f3b4ead6c9b4edc3887a9466987
+Description: Development Tool Kit ocr library
+ libdtkocr is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

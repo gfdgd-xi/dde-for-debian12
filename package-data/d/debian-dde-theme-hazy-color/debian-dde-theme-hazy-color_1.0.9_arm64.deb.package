@@ -1,0 +1,18 @@
+Package: debian-dde-theme-hazy-color
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Filename: ./d/debian-dde-theme-hazy-color/debian-dde-theme-hazy-color_1.0.9_arm64.deb
+Size: 2540
+MD5sum: 1b7afa4f4f7b29a0d27ac72a7ab86226
+SHA1: 5a466a1b295be866f7537bf8f71505bae6564ec7
+SHA256: dea5c29290540b631a339089ae919f9a386c1177ba141dfdf9f6b50523babb26
+SHA512: ebc9eedd9ebb04f45a1c1f4001b876607e81c16820be568fa0d1d3aa68334517f55d2095d7be91b14c2bbc28654b0a7c62d3fb3708db6cb41b923fc78998fc39
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - hazy color theme
+ deepin theme hazy color.
+

@@ -1,0 +1,18 @@
+Package: libdocparser
+Architecture: arm64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 1114
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libpoppler-cpp0v5 (>= 22.12.0), libstdc++6 (>= 11)
+Filename: ./l/libdocparser/libdocparser_1.0.4_arm64.deb
+Size: 344580
+MD5sum: 5fb2c33aa77606b13a4f5b76d0b5c03c
+SHA1: 570e173a00addda3c0731a5ec8e3d0a7669fbc29
+SHA256: b46f3988f5d21e25e389b08e21ef827425bd3ab135b2ca0755b411fc09005183
+SHA512: 3f363b0ee260d1be878d0b5f61add5378635beb2d92fb585cd6a9a0c2b22fd2bb8c040bdd72de45ce6e1fff592724bfffa20bd0ceeb07f0187a33dbb6f1d13ae
+Description: Document parser library.
+ This package contains the shared libraries.
+

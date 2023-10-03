@@ -1,0 +1,18 @@
+Package: deepin-service-manager
+Architecture: arm64
+Version: 1.0.3
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 289
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5.2), libsystemd0 (>= 243)
+Filename: ./d/deepin-service-manager/deepin-service-manager_1.0.3_arm64.deb
+Size: 56432
+MD5sum: 2ce0dd2acfc11a84e68637fd5e582ec0
+SHA1: b4d1233fa871f363fe9d0c9e499cbda181ea04f0
+SHA256: 4f65648075767e58fcdc505d0669824837a21a67c604221efeead2eb9c36d2cd
+SHA512: 9e772dae423bb21ea59f31211e6327145ceab1913d0c05221a0cfd91c0d403449a9cf73b22f58e9fde7406dbb6619fa39a0fb0745af0af1b9c840cd62140e3b1
+Homepage: https://github.com/linuxdeepin
+Description: deepin desktop-environment - service manager frame
+ Load system plug-ins for unified management
+

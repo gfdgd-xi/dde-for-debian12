@@ -1,0 +1,18 @@
+Package: seetaface-landmarker
+Architecture: arm64
+Version: 1.0.0.1-1+dde
+Priority: optional
+Section: devel
+Maintainer: bd <bd@seetatech.com>
+Installed-Size: 347
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 12)
+Filename: ./s/seetaface-landmarker/seetaface-landmarker_1.0.0.1-1+dde_arm64.deb
+Size: 90116
+MD5sum: 0636aceee560359d6b1cede3d1c72080
+SHA1: 111b0fbc30de5f48164bad1fe52613d020dd0754
+SHA256: f10954492b616fea83ff87ac2f296a0c7f9a0a7d204a1628651dcbef0e08e6c5
+SHA512: 44a41d49f5fc0020156ff8088f52473b8740942502487bd88026ec48d3bfe49f09ba7ea8420556625007b901b31411b4168c2d5021fc9e242fd4da54177ca5c6
+Homepage: https://github.com/SeetaFace6Open/Landmarker.git
+Description: landmarker for seetaface
+ landmarker module for seetaface.
+

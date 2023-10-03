@@ -1,0 +1,30 @@
+Package: exfat-utils
+Architecture: arm64
+Version: 1.3.0-2
+Priority: optional
+Section: otherosfs
+Maintainer: Sven Hoexter <hoexter@debian.org>
+Installed-Size: 297
+Depends: libc6 (>= 2.34)
+Recommends: exfat-fuse
+Conflicts: exfatprogs
+Filename: ./e/exfat-utils/exfat-utils_1.3.0-2_arm64.deb
+Size: 43840
+MD5sum: af678a54059b421621e0d7613cd80240
+SHA1: 9f9d114954a70d5701997a9af30890ae56e4acaf
+SHA256: 62dd458a26055c062e47c7bcb99445c0ed3ef14037ccaaf640ee19e42c01efc9
+SHA512: 44c72c982020cbd52687307252a1723d1faeb37f68c3324bfa7051a48c3d89aaaad420a7808ca30249b6dbde3c0e928535ff7d0a5abdfca93d26aeb4c71e5dbc
+Homepage: https://github.com/relan/exfat
+Description: utilities to create, check, label and dump exFAT filesystem
+ Utilities to manage extended file allocation table filesystem.
+ This package provides tools to create, check, dump and label the
+ filesystem. It contains
+  - dumpexfat to dump properties of the filesystem
+  - exfatfsck / fsck.exfat to report errors found on a exFAT filesystem
+  - exfatlabel to label a exFAT filesystem
+  - mkexfatfs / mkfs.exfat to create a exFAT filesystem.
+ The tools included in this package are the exfat-utils developed
+ as an independent implementation by the exfat-fuse author, the tools
+ build by Samsung engineers for the Linux exFAT implementation are
+ available in the exfatprogs package.
+

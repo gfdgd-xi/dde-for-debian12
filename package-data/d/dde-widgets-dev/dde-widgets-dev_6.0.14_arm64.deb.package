@@ -1,0 +1,17 @@
+Package: dde-widgets-dev
+Architecture: arm64
+Version: 6.0.14
+Priority: optional
+Section: libdevel
+Source: dde-widgets
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 25
+Filename: ./d/dde-widgets-dev/dde-widgets-dev_6.0.14_arm64.deb
+Size: 7688
+MD5sum: b04fcb4a951b85692bc0276f4dbcfabc
+SHA1: 0a7d2569b1b363eceec72b3496d4b87964bfbe40
+SHA256: e02c744de42e854b92ea35407c1e17ad7d82688a19061a233d240d8ef0f159bf
+SHA512: 16e99bc52e9e6137461a676d3a9585f8a9f6d83a1e8a1049b5a5ac173362287819823bf3b9625c4202ef2e781bf8a95273dd534f2e7ea2607a0f74099d97a39a
+Description: deepin desktop-environment - widgets module development files
+ widgets module development files of deepin desktop-environment
+

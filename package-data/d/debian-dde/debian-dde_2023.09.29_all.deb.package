@@ -8,11 +8,11 @@ Installed-Size: 13
 Depends: debian-dde-desktop-environment-base, debian-dde-desktop-environment-cli, debian-dde-desktop-environment-core, debian-dde-desktop-environment-extras, debian-dde-desktop-environment-ll
 Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.contacts, org.deepin.browser, org.deepin.chineseime, deepin-defender, deepin-mobile-assistant, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, xfce4-pulseaudio-plugin, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor
 Filename: ./d/debian-dde/debian-dde_2023.09.29_all.deb
-Size: 3356
-MD5sum: 5257f2a2f80e08380a49b4bc0f4d7130
-SHA1: 42e2a2f56860b2d88be3e8e63481b8991b39925b
-SHA256: 0afbe26882ace9a60c7076624e88c6065fada8df7f99bc691642313385d96965
-SHA512: d7a9013ce7e6c8efc2e22e33da334fb689147b2bb887083e3f479a5a884593f75ccd611121f1169429622c51a68f56ec36fd57cf46ab9159d8d36a06c7e26989
+Size: 3352
+MD5sum: cdb4c2a00f456dddfbc39998e606da7d
+SHA1: 0e8012ec4d51499c15221d6ffe5dbf37e78e2278
+SHA256: 8e4b757cd7bc84ba4c67301e628fcfea998c5d670b21649a8e365109bb527ae4
+SHA512: 9dce50543b2a47ca82d4357afcaa9e73a117d0a18ec2a4f6efedfcdad3f416ef47957fb1399a02c4f8fae65aaa1237df9ebf0a0e70988295be25f50ef1e2af06
 Homepage: http://www.linuxdeepin.com
 Description: Deepin New Desktop Environment - Next
  This is a meta package depends Deepin New Desktop Envrionment.

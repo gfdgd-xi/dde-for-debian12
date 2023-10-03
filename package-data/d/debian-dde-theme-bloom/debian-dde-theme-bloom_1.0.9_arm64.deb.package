@@ -1,0 +1,19 @@
+Package: debian-dde-theme-bloom
+Architecture: arm64
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: debian-dde-desktop-theme
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: debian-dde-icon-theme
+Filename: ./d/debian-dde-theme-bloom/debian-dde-theme-bloom_1.0.9_arm64.deb
+Size: 2540
+MD5sum: ca5525985fc9812d1cc775927f742467
+SHA1: c7f2444c7697c2245665869d4885c1618ddeaed0
+SHA256: 6beb401a86bfa021a5a0bce995ea67a2f6b95b90f47887774542ed3a62ab1389
+SHA512: fdc66b9e2d017582d44324a89048614f945ba0473495f74ba9636e29445094aa2ffadb9e9426975190faa455c884c56f1fde0e7922fe4c2215f3dc1d3b73888d
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - bloom theme
+ deepin theme bloom.
+

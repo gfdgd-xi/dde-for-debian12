@@ -1,0 +1,25 @@
+Package: debian-dde-desktop-environment-base
+Architecture: arm64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-base
+Depends: adduser, apt, apt-utils, base-files, base-passwd, bash, bsdutils, coreutils, dash, debconf, debianutils, deepin-keyring, diffutils, dpkg, e2fsprogs, fdisk, findutils, gcc, gcc-11, gcc-11-base, gpgv, grep, gzip, hostname, init, libacl1, libattr1, libaudit1, libbz2-1.0, libc-bin, libc6, libcap-ng0, libdebconfclient0, libgcrypt20, libgmp10, libgnutls30, libgpg-error0, libidn2-0, liblocale-gettext-perl, liblz4-1, liblzma5, libncurses6, libp11-kit0, libpam-runtime, libpcre3, libselinux1, libstdc++6, libunistring2, libzstd1, login, lsb-base, mawk, mount, ncurses-base, ncurses-bin, passwd, perl-base, sed, sensible-utils, systemd, tar, tzdata, udev, util-linux, zlib1g, libzip4, unrar, pciutils
+Recommends: libffi6, libsepol1, libsemanage1, libnettle6
+Conflicts: deepin-desktop-environment-base
+Breaks: deepin-desktop-environment-base
+Filename: ./d/debian-dde-desktop-environment-base/debian-dde-desktop-environment-base_2023.09.05_arm64.deb
+Size: 3576
+MD5sum: 9808a66310dba98092f46c92f93e338f
+SHA1: 19e4ca1039b63a413a387bf66e67ab4a86ca3c35
+SHA256: ab9be528fc0835370c734c6fa0c77298e51d09b8ae1648f97d1d2dd3c24e2a7e
+SHA512: 52c79d3c7b12027b3e710701a30f238bc9a8fa74b82aaf1e0d9985ea0e13005a4b89f483122528044cba8df0db2e862bfb83bd37cd19df30768329e4eca46ee7
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a base meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

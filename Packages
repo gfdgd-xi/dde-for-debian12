@@ -1116,6 +1116,24 @@ Homepage: http://www.deepin.org
 Description: shortcut viewer tools
  A shortcut viewer tool for deepin.
 
+Package: deepin-shortcut-viewer
+Architecture: arm64
+Version: 5.0.7-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 143
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.9.0~beta), libstdc++6 (>= 4.1.1)
+Filename: ./d/deepin-shortcut-viewer/deepin-shortcut-viewer_5.0.7-1_arm64.deb
+Size: 26700
+MD5sum: 22d91da04107d3487b2fd24baa326c44
+SHA1: 19ce7fc5314a418e526851799f6e6339834e4a1b
+SHA256: f17ce1ab11705dccbff00a703ad6afb6f0f319082f3a3b095e518a3f55c0ca78
+SHA512: 87704cfed68ed9a997558ac3dd264b5d4f9e2337e889779d1620b6bc2fc8921d47baac1bb1bf18822ed958e6b2bd14c372a9fe61828d0b223faa71602ddad445
+Homepage: http://www.deepin.org
+Description: shortcut viewer tools
+ A shortcut viewer tool for deepin.
+
 Package: debian-dde-theme-bloom
 Architecture: arm64
 Version: 1.0.9
@@ -1322,6 +1340,27 @@ MD5sum: c36828cdb432a681a6d522de7d11dcc3
 SHA1: 90e7dba68276e911801a8df71aa49108de66ac9c
 SHA256: e755e39909da4c5da6e4b87dcbacabb622f6d95dc042cd927fc80c20c9dea869
 SHA512: 2576812ed6f42f4296690460c30f14fbc0cb11fca2e533fdc63bd33655fb79266ab4f765269bb9aeee4f2ab60e1d3e21c958fd2e29fdc8f22dc9b7e9b60e2227
+Homepage: https://github.com/linuxdeepin/deepin-screen-recorder
+Description: Simple recorder tools for UOS
+ A simple screen shot and recorder tools for UOS
+
+Package: deepin-screen-recorder
+Architecture: arm64
+Version: 5.11.1-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 19571
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libgstreamer1.0-0 (>= 1.0.0), libopencv-core406 (>= 4.6.0+dfsg), libopencv-imgproc406 (>= 4.6.0+dfsg), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxext6, libxfixes3, libxtst6, dconf-gsettings-backend | gsettings-backend, ffmpeg
+Recommends: dde-session-ui, deepin-ocr
+Conflicts: deepin-screenshot
+Replaces: deepin-screenshot
+Filename: ./d/deepin-screen-recorder/deepin-screen-recorder_5.11.1-1_arm64.deb
+Size: 10143740
+MD5sum: 32b8516a3fce2c3437ed1321dd3a64da
+SHA1: 01160b64840e955b9aca4cc05ff457d35584573e
+SHA256: d233706ee0578bf34b5c6946af73fec2ee4b3239e3e4abe925b8651f9d5482e5
+SHA512: ba193449ef2c6464e9d52a9ddd85a7d705b5e4b3c26d6777aff19d0cd4e1c08db452940b21c856d13efb6bbc56232b857a9bb1ab2f1d6453ef7971571276bc51
 Homepage: https://github.com/linuxdeepin/deepin-screen-recorder
 Description: Simple recorder tools for UOS
  A simple screen shot and recorder tools for UOS
@@ -7052,6 +7091,31 @@ Description: Deepin Tool Kit Core (document)
  This package contains the doc files of DtkCore
 
 Package: libproc2-0
+Architecture: arm64
+Version: 2:4.0.3-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: procps
+Maintainer: Craig Small <csmall@debian.org>
+Installed-Size: 228
+Depends: libc6 (>= 2.34), libsystemd0 (>= 209)
+Replaces: procps (<< 1:3.3.2-1)
+Filename: ./l/libproc2-0/libproc2-0_4.0.3-1_arm64.deb
+Size: 60532
+MD5sum: 5cd5438f85b8a6eb061bd15739995010
+SHA1: 65aef80f70721529b99fe82efb29f2cb687b39df
+SHA256: 337a9f0490a5acbacfeb9054b831d9ccab2d88e36e941022b1262637aad375c0
+SHA512: 62427bb594bd6422303bd0afb727909e9de7b61dfe0647730f865c61aaf0234e0840e2c2311938634aad40280e937a1b9cfb7b5826e7d65eb5463a0c672f7f6b
+Homepage: https://gitlab.com/procps-ng/procps
+Description: library for accessing process information from /proc
+ The libproc2 library is a way of accessing information out of the /proc
+ filesystem.
+ .
+ This package contains the shared libraries necessary to run programs
+ compiled with libproc2.
+
+Package: libproc2-0
 Architecture: amd64
 Version: 2:4.0.3-1
 Multi-Arch: same
@@ -7706,6 +7770,29 @@ MD5sum: 683a91e08e05df6739257c4bff359248
 SHA1: 69c8ac711577141ab7b36b847dd1819b329ae9c7
 SHA256: 81199b354cbc13dee3319ba36b2d85742d7e34440053e53a71a382f930596df7
 SHA512: 0800c1edf3461a02c2e1fb66f471f32a3fd683211fb903610d238ecdd8de50c26f1774efb51a6ed5d361ba54495a173cce3d2c366e79a6e655388d9c2b7e5c51
+Homepage: https://gitlab.com/procps-ng/procps
+Description: library for accessing process information from /proc
+ These are the header files for libproc2. Some packages using libproc2
+ to access process information from /proc need these to compile.
+
+Package: libproc2-dev
+Architecture: arm64
+Version: 2:4.0.3-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: procps
+Maintainer: Craig Small <csmall@debian.org>
+Installed-Size: 439
+Depends: libproc2-0 (= 2:4.0.3-1)
+Conflicts: libproc-2-dev
+Replaces: libproc-2-dev
+Filename: ./l/libproc2-dev/libproc2-dev_4.0.3-1_arm64.deb
+Size: 77808
+MD5sum: 7200c84c98f7eb0f4dfdc8799f1e79cb
+SHA1: 59f00780b37c41b9c7932106f195582985ab067c
+SHA256: a4763259582a1bd9af2f4ab9ad5f98b3358444441ce4fb9818d9e5d52a8847b2
+SHA512: 32896c80ff825e6bb64739c6f79771b93d6c19499b9a0bcd17c989e8fe7c2790298d2381b8ed4712a1fd0f724825c8c85d7deeaca95901398835f54b47155dfb
 Homepage: https://gitlab.com/procps-ng/procps
 Description: library for accessing process information from /proc
  These are the header files for libproc2. Some packages using libproc2
@@ -10694,6 +10781,35 @@ SHA256: 6ecde7a1dd6fbe103879d8e8babd374001397e688a66aad6f4d4fc0ebe77754a
 SHA512: a09f57cf6723d72295fbe5d66b4b6c519879e986f8de76d5f612a96d0b5a934b31bc7dec58d7e5f4fcda71667d523c4c107c09978fa1121ff848bdeec054bc94
 Description: Plymouth theme for Linux Deepin
  This theme package contains deepin-logo.
+
+Package: procps
+Architecture: arm64
+Version: 2:4.0.3-1
+Multi-Arch: foreign
+Priority: important
+Section: admin
+Maintainer: Craig Small <csmall@debian.org>
+Installed-Size: 2771
+Provides: watch
+Depends: libc6 (>= 2.34), libncursesw6 (>= 6), libproc2-0 (>= 2:4.0.3), libtinfo6 (>= 6), init-system-helpers (>= 1.29~)
+Recommends: psmisc
+Breaks: guymager (<= 0.5.9-1), manpages-de (<< 4.9.1-2), manpages-fr (<< 4.9.1-2), manpages-fr-extra (<< 20151231+nmu1), manpages-pl (<< 1:4.9.1-2), open-vm-tools (<= 2011.12.20-562307-1)
+Replaces: manpages-de (<< 4.9.1-2), manpages-fr (<< 4.9.1-2), manpages-fr-extra (<< 20151231+nmu1), manpages-pl (<< 1:4.9.1-2)
+Filename: ./p/procps/procps_4.0.3-1_arm64.deb
+Size: 751364
+MD5sum: 7994ce876950c7f419d7fd3ad450b977
+SHA1: 1525554775d457572cc8939fbb7841683cb19d05
+SHA256: 901a7b2e9573677e4834aa11bffb3e3e3ef07e5e1fd2e1473ddc93c578ba6b89
+SHA512: 32154cc94c41aad5fee1b1bec9346a3cdfefbfa8fb356368720af2d54f0a8cfce609157c98d977ef282fc96a9ba23f56651df1d8a2f23b6100405124fb7e402a
+Homepage: https://gitlab.com/procps-ng/procps
+Description: /proc file system utilities
+ This package provides command line and full screen utilities for browsing
+ procfs, a "pseudo" file system dynamically generated by the kernel to
+ provide information about the status of entries in its process table
+ (such as whether the process is running, stopped, or a "zombie").
+ .
+ It contains free, kill, pkill, pgrep, pmap, ps, pwdx, skill, slabtop,
+ snice, sysctl, tload, top, uptime, vmstat, w, and watch.
 
 Package: procps
 Architecture: amd64

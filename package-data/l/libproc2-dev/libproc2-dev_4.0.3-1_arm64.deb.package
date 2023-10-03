@@ -1,0 +1,23 @@
+Package: libproc2-dev
+Architecture: arm64
+Version: 2:4.0.3-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: procps
+Maintainer: Craig Small <csmall@debian.org>
+Installed-Size: 439
+Depends: libproc2-0 (= 2:4.0.3-1)
+Conflicts: libproc-2-dev
+Replaces: libproc-2-dev
+Filename: ./l/libproc2-dev/libproc2-dev_4.0.3-1_arm64.deb
+Size: 77808
+MD5sum: 7200c84c98f7eb0f4dfdc8799f1e79cb
+SHA1: 59f00780b37c41b9c7932106f195582985ab067c
+SHA256: a4763259582a1bd9af2f4ab9ad5f98b3358444441ce4fb9818d9e5d52a8847b2
+SHA512: 32896c80ff825e6bb64739c6f79771b93d6c19499b9a0bcd17c989e8fe7c2790298d2381b8ed4712a1fd0f724825c8c85d7deeaca95901398835f54b47155dfb
+Homepage: https://gitlab.com/procps-ng/procps
+Description: library for accessing process information from /proc
+ These are the header files for libproc2. Some packages using libproc2
+ to access process information from /proc need these to compile.
+

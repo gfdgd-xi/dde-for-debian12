@@ -8,14 +8,14 @@ Source: dwayland
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Installed-Size: 2467
 Provides: libdwaylandserver5-5.25
-Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.17), libmali-valhall-g610-g6p0-x11-gbm, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-server0 (>= 1.18~)
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.17), libegl1, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-server0 (>= 1.18~)
 Breaks: libkwin4-effect-builtins1
 Filename: ./l/libdwaylandserver5/libdwaylandserver5_5.25.0-kwayland.5.24.3_arm64.deb
-Size: 379848
-MD5sum: 74e65a419c7e91f8f55820d67d0448d6
-SHA1: 02254dd164519576c56f2be8992550ef55592148
-SHA256: 269a05f57830cd6deb4c55ac4bb44d480764af196c6d6a0561739c5685e63fc7
-SHA512: 8d57e105e2e06579d65e56a1edec3bc1be37a1f54b07ee0a40a543b3826eeda7074698d8077987031b798fd4136a577a60f39b3f3b5208e3d65472619c1749fe
+Size: 379820
+MD5sum: ddb902d05cb0b74aeabcad3f96bfb7d1
+SHA1: d3e35936d79b189de6571a3eab88cda91d2c8d50
+SHA256: a60dcfe4846dd88fff52cb94e40c9ca0773f6347de496bf692eb540e7afb9b36
+SHA512: 400351b4a6de4701cbb1f51b467608ecdcad149054067ff6aaf27767bdeed31d81ac4d3bbb845c3a72e0085a6814de236210b1d63e247246ac48ad672a20ce6b
 Homepage: https://invent.kde.org/plasma/kwayland-server
 Description: Qt library wrapper for Wayland libraries
  DWaylandServier provides a Qt-style Server library wrapper for

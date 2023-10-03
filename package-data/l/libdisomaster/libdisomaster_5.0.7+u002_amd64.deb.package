@@ -1,0 +1,19 @@
+Package: libdisomaster
+Architecture: amd64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 74
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libisoburn1 (>= 1.5.4), libqt5core5a (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./l/libdisomaster/libdisomaster_5.0.7+u002_amd64.deb
+Size: 19440
+MD5sum: 60b00b36549fa8d2060de1e11754fe56
+SHA1: 9eaacb67de1a745f7191e9a0b6ea7695e804ed66
+SHA256: a91dade88f6bbc0d8b34ffbb389666f70e0f9b21f775b9e75d3ff559e341e0d5
+SHA512: e8a37a0f9a994f6cf4ba9d1c377e46b444c5cacdf6b57881b03008a6967591634070ccdd837518f84110dbd926ea2f14facb395e01895413354e953278e2a987
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: libisoburn wrapper for Qt.
+ A convenient way to burn iso9660 image!
+

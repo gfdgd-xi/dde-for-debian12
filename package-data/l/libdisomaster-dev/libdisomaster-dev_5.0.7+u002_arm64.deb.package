@@ -1,0 +1,19 @@
+Package: libdisomaster-dev
+Architecture: arm64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 17
+Depends: libdisomaster
+Filename: ./l/libdisomaster-dev/libdisomaster-dev_5.0.7+u002_arm64.deb
+Size: 3548
+MD5sum: c04fce2d6d7557a51a74c43e9a328797
+SHA1: 4285f81dd2b048c921b7b56d0ca6fc870bd0688d
+SHA256: d2143fca2cec55def62ec7b1f173e31bb0a4edde5fd5e0b3047882d20144db1f
+SHA512: 59c958bcf90f33af228f3f5ee60a410ea1d1d4c7ea797001ab657b1d643db10712aa3815464d0bb34a7c4b17c268497369dc0f566a0d706d71be71804d002724
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: Development package for libdisomaster.
+ A convenient way to burn iso9660 image!
+

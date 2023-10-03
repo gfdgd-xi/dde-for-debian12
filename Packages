@@ -563,6 +563,40 @@ Homepage: http://www.deepin.org
 Description: deepin desktop-environment - hazy color theme
  deepin theme hazy color.
 
+Package: deepin-compressor
+Architecture: arm64
+Version: 5.12.8-1
+Priority: optional
+Section: devel
+Maintainer: packages <packages@deepin.com>
+Installed-Size: 4830
+Depends: libarchive13 (>= 3.2.1), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.28.0), libkf5archive5 (>= 4.96.0), libkf5codecs5 (>= 4.96.0), libminizip1 (>= 1.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libzip4 (>= 1.6.0), p7zip-full, deepin-shortcut-viewer, pigz
+Filename: ./d/deepin-compressor/deepin-compressor_5.12.8-1_arm64.deb
+Size: 1737336
+MD5sum: b34d0e1d56903a70b5d6b75a3a5b409f
+SHA1: 45a840a53bebaf9afd70640dcffda34575ec8a54
+SHA256: dea2eb252aeb7ae7ca8916408d64e3098a1b1047e6ef071f513b94d8105ca31f
+SHA512: 4458b22ba896768dfd10b5285abfe6bb6c7cb9de074fae27fd7c1b90409c85ac7ee6a1acb6e7f8c90a8bf43e8832b60d3b88ecf0ec9875316e2dee7dfa85efc4
+Description: Archive Manager is a fast and lightweight application for creating and extracting archives.
+ Archive Manager is a user-friendly and easy-to-use compressing and decompressing software, supporting multiple compressing formats such as 7z, jar, tar, tar.bz2, tar.gz, tar.lz, tar.lzm, tar.lzo, tar.Z, zip as well as encrypted compressing settings.
+
+Package: deepin-compressor
+Architecture: amd64
+Version: 5.12.8-1
+Priority: optional
+Section: devel
+Maintainer: packages <packages@deepin.com>
+Installed-Size: 4711
+Depends: libarchive13 (>= 3.2.1), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.28.0), libkf5archive5 (>= 4.96.0), libkf5codecs5 (>= 4.96.0), libminizip1 (>= 1.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libzip4 (>= 1.6.0), p7zip-full, deepin-shortcut-viewer, unar, rar, unrar, pigz
+Filename: ./d/deepin-compressor/deepin-compressor_5.12.8-1_amd64.deb
+Size: 1790912
+MD5sum: 5787f873584795ec887973848f41342a
+SHA1: 9fd8b71e5a2a0a07ba1baa2b3ae0530d1e6ad166
+SHA256: 4e6cb7b6c314294947f3066992a716aebc48d5d86eea017ffa40e53ff9f967be
+SHA512: b6253122922e280948665eee917b13d41b43cb7efa1d9f9e831539e8894781b7b7ceb7e2dfe59b907c3ef0929970876f696e1bdd24ad231b83fce94c923cf6ed
+Description: Archive Manager is a fast and lightweight application for creating and extracting archives.
+ Archive Manager is a user-friendly and easy-to-use compressing and decompressing software, supporting multiple compressing formats such as 7z, jar, tar, tar.bz2, tar.gz, tar.lz, tar.lzm, tar.lzo, tar.Z, zip as well as encrypted compressing settings.
+
 Package: dde-file-manager-plugins
 Architecture: arm64
 Version: 6.0.30
@@ -8823,6 +8857,44 @@ Homepage: http://www.deepin.org
 Description: A libaray about I/O.
  A libaray that provides I/O interface.
 
+Package: libdisomaster-dev
+Architecture: arm64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 17
+Depends: libdisomaster
+Filename: ./l/libdisomaster-dev/libdisomaster-dev_5.0.7+u002_arm64.deb
+Size: 3548
+MD5sum: c04fce2d6d7557a51a74c43e9a328797
+SHA1: 4285f81dd2b048c921b7b56d0ca6fc870bd0688d
+SHA256: d2143fca2cec55def62ec7b1f173e31bb0a4edde5fd5e0b3047882d20144db1f
+SHA512: 59c958bcf90f33af228f3f5ee60a410ea1d1d4c7ea797001ab657b1d643db10712aa3815464d0bb34a7c4b17c268497369dc0f566a0d706d71be71804d002724
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: Development package for libdisomaster.
+ A convenient way to burn iso9660 image!
+
+Package: libdisomaster-dev
+Architecture: amd64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 17
+Depends: libdisomaster
+Filename: ./l/libdisomaster-dev/libdisomaster-dev_5.0.7+u002_amd64.deb
+Size: 3548
+MD5sum: d274fab09ac6f9843944790eea2ed59c
+SHA1: df42a25edad8efe3df9ffd0e3eff2f75ecd27c08
+SHA256: 2218d408b16766d042abdcc2e7639558901b1829e79186d003f8cdc424588ad2
+SHA512: d3e14b8a11f31a05037927ac78165d3cfad7eef35ae76112ab092bc266fc0b2bb6f004eed90f689da3c3ad2133870303620a4d1859a91d6db263d347b6546acf
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: Development package for libdisomaster.
+ A convenient way to burn iso9660 image!
+
 Package: libdeepin-authenticate
 Architecture: amd64
 Version: 1:2.0.3.1-1
@@ -9697,6 +9769,44 @@ SHA512: 16677ac81092443067dce65e9d39d5b2dc5c46423e10897172940f356e1c49b1a3682dd7
 Homepage: http://www.deepin.org/
 Description: dtk common files
  Used to store public configuration files
+
+Package: libdisomaster
+Architecture: amd64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 74
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libisoburn1 (>= 1.5.4), libqt5core5a (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./l/libdisomaster/libdisomaster_5.0.7+u002_amd64.deb
+Size: 19440
+MD5sum: 60b00b36549fa8d2060de1e11754fe56
+SHA1: 9eaacb67de1a745f7191e9a0b6ea7695e804ed66
+SHA256: a91dade88f6bbc0d8b34ffbb389666f70e0f9b21f775b9e75d3ff559e341e0d5
+SHA512: e8a37a0f9a994f6cf4ba9d1c377e46b444c5cacdf6b57881b03008a6967591634070ccdd837518f84110dbd926ea2f14facb395e01895413354e953278e2a987
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: libisoburn wrapper for Qt.
+ A convenient way to burn iso9660 image!
+
+Package: libdisomaster
+Architecture: arm64
+Version: 5.0.7+u002
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 82
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.0), libisoburn1 (>= 1.5.4), libqt5core5a (>= 5.5.0), libstdc++6 (>= 5.2)
+Filename: ./l/libdisomaster/libdisomaster_5.0.7+u002_arm64.deb
+Size: 18592
+MD5sum: 932b63098fc7afbcdf3ee8c02e96c8ef
+SHA1: ffff869dc11d8d879a50e35bf5248aab31c06a28
+SHA256: 01dee99681fe5d1e26fb2a1f3d7a330853ecf1bf09865b8ee157ddf2ff2d0c6c
+SHA512: d4f62d95f167b768f9c70e9490a78d0c40a9824b2839c58004875751e54ec1b45b161d1901dee1ef49678fd8392c6739cf9c18195561e55bbcb9a5503a999bf3
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: libisoburn wrapper for Qt.
+ A convenient way to burn iso9660 image!
 
 Package: libdtkdeclarative5
 Architecture: arm64

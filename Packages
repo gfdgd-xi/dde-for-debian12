@@ -6113,6 +6113,27 @@ Description: Unarchiver for .rar files (non-free version)
  Unrar can extract files from .rar archives. If you want to create .rar
  archives, install package rar.
 
+Package: unrar
+Architecture: arm64
+Version: 1:5.6.6-1
+Priority: optional
+Section: non-free/utils
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 406
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Conflicts: rar (<= 2.60-1)
+Filename: ./u/unrar/unrar_5.6.6-1_arm64.deb
+Size: 97856
+MD5sum: 61918821e43424fc3a1edd606efe54fa
+SHA1: ad9dcaa4a5a4d8e818849cf30abbcf2e291698cf
+SHA256: a89dd9c07c631bf91f6dfa2e849a6f4bd97add57158e0213126d871fc6abb51c
+SHA512: 2de3355629d90ff45f0d5448be6ba519425b0488523161d8c49fe868ae008d91946e2158b29baf3f4109668dad735d63d98a532ca54351ea2c579e32a364d49e
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version)
+ Unrar can extract files from .rar archives. If you want to create .rar
+ archives, install package rar.
+
 Package: linux-image-deepin-hwe-amd64
 Architecture: amd64
 Version: 6.1.32-hwe
@@ -7475,6 +7496,26 @@ Homepage: http://www.rarlabs.com/
 Description: Unarchiver for .rar files (non-free version) - shared library
  library for unarchiving .rar files
 
+Package: libunrar5
+Architecture: arm64
+Version: 1:5.6.6-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/libs
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 472
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Filename: ./l/libunrar5/libunrar5_5.6.6-1_arm64.deb
+Size: 103288
+MD5sum: 4d2b005239baf4141b14dbcaba5b963e
+SHA1: 48fe1bb342e9a8b64bbb8abc8feedb470cc240a9
+SHA256: ea6c676e17a9b97404530a431dce239b1ac224b9c35918b98eb332a43de0c700
+SHA512: c0878c3c0568d6268e5d3ccde6b5bfc024304f6e11b14969abcccbf797425b321df49450e8a85075bc6686c87ca3d7fc167a64cbf23091f1a9e0ba3df1a4cd58
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version) - shared library
+ library for unarchiving .rar files
+
 Package: libdeepin-kwinxrenderutils13
 Architecture: amd64
 Version: 4:5.25.11-kwin.5.24.3
@@ -8307,6 +8348,27 @@ SHA512: ffef8d747f7aa9c488d17e70b45bd00fc01bd9203fc56a9d356749b2a861c6b49099ce34
 Homepage: https://www.deepin.org/
 Description: download manager dlmdatabase lib.
  downloader for deepin desktop environment.
+
+Package: libunrar-dev
+Architecture: arm64
+Version: 1:5.6.6-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/libdevel
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 982
+Depends: libunrar5 (= 1:5.6.6-1)
+Filename: ./l/libunrar-dev/libunrar-dev_5.6.6-1_arm64.deb
+Size: 165712
+MD5sum: 06f05889ea40c9fe451a366910c0e3c7
+SHA1: 78726e8a182d65c1396f72b629471140593cf22b
+SHA256: 5ce6b2eb181e9ff53ecaf79eabb09fedfd7ee478d23b1fc1734174b486d6e907
+SHA512: 2ff07d54d87166d53c1b06aebd0e5f829b16e9b83b531875b9b470a279601844c3f93ce1f3e562d2a288be0f46d38a74a5dbeeeecc9273e755e2fe64af2c8128
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version) - development files
+ This package contains the static library and header files for the
+ libunrar library.
 
 Package: libunrar-dev
 Architecture: amd64

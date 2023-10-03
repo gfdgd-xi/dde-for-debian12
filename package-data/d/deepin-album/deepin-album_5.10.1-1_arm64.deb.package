@@ -1,0 +1,19 @@
+Package: deepin-album
+Architecture: arm64
+Version: 5.10.1-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8685
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreeimage3 (>= 3.18.0+ds2), libgcc-s1 (>= 3.0), libgio-qt0 (>= 0.0.11), libimageeditor (>= 1.0.13), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5printsupport5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11), libudisks2-qt5-0 (>= 5.0.6)
+Recommends: ffmpeg
+Filename: ./d/deepin-album/deepin-album_5.10.1-1_arm64.deb
+Size: 5335656
+MD5sum: 852acf84287995095222ef041b0413d9
+SHA1: 0b67077390edfbc9190868ac6524648cfdd55351
+SHA256: 8efb17144a3e7082defd37cf9c6dc618580af3dcae4f8c8385239f4e80fb4f0d
+SHA512: 61212b007c9f02ea44a1b58c5e3b21cb3ab9d73067559bcb0656ec678ae32921afabe9dc3d7e69b952677ed120c1daa2f1b89f2a348f6fe849bfd0415a7b92cc
+Homepage: <insert the upstream URL, if relevant>
+Description: Album for UOS
+  Album is a fashion photo manager for viewing and organizing pictures.
+

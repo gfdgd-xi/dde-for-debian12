@@ -6075,6 +6075,28 @@ Description: Transitional package for golang-github-codegangsta-cli-dev
  This is a transitional package to ease upgrades to the
  golang-github-codegangsta-cli-dev package. It can be safely removed.
 
+Package: uos-remote-assistance
+Architecture: amd64
+Version: 1.1.20-1
+Priority: optional
+Section: graphics
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 19832
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.28), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libdframeworkdbus2 (>= 5.5.12), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk-3-0 (>= 3.0.0), libice6 (>= 1:1.0.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libsm6, libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libx11-6, libxcomposite1 (>= 1:0.3-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxinerama1, libxtst6, dconf-gsettings-backend | gsettings-backend
+Filename: ./u/uos-remote-assistance/uos-remote-assistance_1.1.20-1_amd64.deb
+Size: 8866116
+MD5sum: 1e046dd9148e43e4e9d65ba11a227406
+SHA1: f562e8e48163e9dccba7692b75ed6fb96cc19eb5
+SHA256: 7fde015ee40e58e5d958a907936f119fe6fd1b136c3abcb6a3a30df6ff8ea5e4
+SHA512: 7482634c97d1aacd9fb29d49311ae0e2e33a99d21001ea4f6d912e24400877c7edfc5d6fe5715c0786dacb764f7bc36af04c9ea27c821def138747e30bf2f77c
+Description: remote assistance tool for UOS.
+ Remote Assistance is a wonderful remote connection tool for
+ remote access and remote computer support.
+ .
+ Video capture: solve the problem through remote connection.
+ .
+ Mouse and keyboard control: help users solve questions.
+
 Package: udfburn-tool
 Architecture: arm64
 Version: 1.1.4-1

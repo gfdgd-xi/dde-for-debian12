@@ -4598,6 +4598,23 @@ SHA512: 0075895c5665a8e6bdb3835f0cd82a2a344ca158d229cea9073cc6fd0731084a4e2a2c24
 Description: deepin tweak tools
  Advanced customization features for communities
 
+Package: deepin-tweak
+Architecture: arm64
+Version: 1.2.2
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1324
+Depends: libc6 (>= 2.34), libdtkdeclarative5 (>= 5.6.17), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.14.1), libstdc++6 (>= 5)
+Filename: ./d/deepin-tweak/deepin-tweak_1.2.2_arm64.deb
+Size: 865240
+MD5sum: aa5349969cf909618e4599baf3c23ba5
+SHA1: 54bc72d5770012be13aff54c72fc1d93ae2ee6ad
+SHA256: c0a533abf78c66f70e0916dce70d6f40582723b99400d80186c282fba36376b3
+SHA512: a0f4d49fe7b116d693a37b473bc9f04cd18d6039e0f12f5e28c2d050f427f17d0d7bf445e1eb2984fe16d1a9e62fe5c03ad18c85857c639d21da0e6503097549
+Description: deepin tweak tools
+ Advanced customization features for communities
+
 Package: deepin-installer-timezones
 Architecture: all
 Version: 6.0.0+dde
@@ -5831,6 +5848,23 @@ SHA512: a4c85eea6d55129d89e5fa1dffeec75d8c8d5ea96c02c96f611a95fb0cff0264c366e645
 Homepage: https://www.deepin.org
 Description: dde application manager module
  Application manager for DDE.
+
+Package: fantascene-dynamic-wallpaper
+Architecture: arm64
+Version: 1.5.9-1
+Priority: optional
+Section: utils
+Maintainer: liuminghang <liuminghang0821@gmail.com>
+Installed-Size: 7343
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.35.8), libmpv2 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 11), libx11-6, libxcb-ewmh2 (>= 0.4.1), libxcb1
+Filename: ./f/fantascene-dynamic-wallpaper/fantascene-dynamic-wallpaper_1.5.9-1_arm64.deb
+Size: 6624480
+MD5sum: f7d418eb678e8ca8f8a189adee4e54fb
+SHA1: c7c03b82012a36c48701c2ae6e942c79e9455e77
+SHA256: 25c227ab1608cc6efc3b302e7eef98129a6705eb104c2bbb92a23d137fe05890
+SHA512: 0f5798990ff5f62ada6f4a7617e5c0929a29be28a579364843650abbffcc1c81272da834652ab3a8e74708932013296ecb8f5846be4fe86e8a9c89747bfd9f2d
+Homepage: http://github.com/dependon/fantascene-dynamic-wallpaper
+Description: video wallpaper for fantascene.
 
 Package: fantascene-dynamic-wallpaper
 Architecture: amd64
@@ -7091,6 +7125,28 @@ Description: Image Viewer library development headers.
  Deepin Image Viewer library development headers.
 
 Package: libnemodbus
+Architecture: arm64
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: libs
+Source: nemo-qml-plugin-dbus
+Maintainer: lichenggang <lichenggang@deepin.org>
+Installed-Size: 352
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.5.0), libqt5dbus5 (>= 5.14.1), libqt5qml5 (>= 5.5.0), libstdc++6 (>= 5)
+Filename: ./l/libnemodbus/libnemodbus_1.0.0-1+rb2_arm64.deb
+Size: 66572
+MD5sum: 2961f77f41da0e2cd92e25731680bc11
+SHA1: 2d6dd5ced2f0f40f35eba32c7b5c70c6350ff4b9
+SHA256: 3779900aa8faa9470ff4fd5de40a037ec73b16c53c9e983c0e97778fff753507
+SHA512: 689b1f567ff3bef605b34b531d70b9c1eb326afbd65f53213c04dc34ae39cbf92d9ab27d803b008787277c8c54b2166a7e42f8d0b69e66fb76dfc95b74dfe9dd
+Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
+Description: Nemo QML Plugin D-Bus
+ The nemo-dbus library provides C++11 extensions to QtDBus to make it easier
+ to call and handle the replies from asynchronous DBus methods.
+ .
+ This package contains the shared library
+
+Package: libnemodbus
 Architecture: amd64
 Version: 1.0.0-1+rb2
 Priority: optional
@@ -7563,6 +7619,28 @@ MD5sum: 005cd51166d4a09fc9938dbf22e47ab3
 SHA1: 6078d4174448554ad93b2b7324db9d3061d4c7f0
 SHA256: 6d1ffb13f5d5c3870e747e8c8c3e1bc603cb790134ae284db435280ec1b44fc4
 SHA512: ba3d701fde35e1f3544082e54a3e2e24860761d7d12cc00f3a5954649257ff4024d90241ab354edb9b0ca5cd55c054108469739c3e9ef5fddf72529853236692
+Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
+Description: Nemo QML Plugin D-Bus
+ The nemo-dbus library provides C++11 extensions to QtDBus to make it easier
+ to call and handle the replies from asynchronous DBus methods.
+ .
+ This package contains the developent files
+
+Package: libnemodbus-dev
+Architecture: arm64
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: libs
+Source: nemo-qml-plugin-dbus
+Maintainer: lichenggang <lichenggang@deepin.org>
+Installed-Size: 48
+Depends: libnemodbus1 (= 1.0.0-1+rb2)
+Filename: ./l/libnemodbus-dev/libnemodbus-dev_1.0.0-1+rb2_arm64.deb
+Size: 5584
+MD5sum: ccc2cc43c13c9ca34dd5cbd2b53ad12a
+SHA1: 8326a1d2eece05b163dae66a7679b3b82c05f22b
+SHA256: 56ad4ef2b83581e33e9bb0f259727a713de7a60a13e5310efddb2f0d24e0f06f
+SHA512: 9e519c5bfc0efa331b1d3589dca15414605f24c7ef05532edce9f7243f90a2606d560970252508bdfbf30e01167950b1c5666e73b57ffc77b433d77f5a3b5ddd
 Homepage: https://github.com/sailfishos/nemo-qml-plugin-dbus
 Description: Nemo QML Plugin D-Bus
  The nemo-dbus library provides C++11 extensions to QtDBus to make it easier

@@ -1,0 +1,18 @@
+Package: dde-dock-dev
+Architecture: loong64
+Version: 6.0.22
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 46
+Filename: ./d/dde-dock-dev/dde-dock-dev_6.0.22_loong64.deb
+Size: 17020
+MD5sum: 273e646779f477ae21074cd8aa03b6f6
+SHA1: 7b5944c2f9d0495efe86a8a77eeb36c66414c837
+SHA256: 95a7216f8b746eaf7d265d2504f3dcf6aca8cfbf46a379be6c08d8790006f39e
+SHA512: a8151c4ec3328adabd1675bf55dc02c808e9768a4976bbac797ebcb8c7330d7c60a89f397b4f99cd89a624958af732c1068e9f487ce6da774c808f3ce2e9735b
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module development files
+ Dock module development files of deepin desktop-environment
+

@@ -1,0 +1,18 @@
+Package: deepin-wayland-protocols
+Architecture: riscv64
+Version: 1.6.0-deepin.1.2
+Priority: optional
+Section: libdevel
+Maintainer: Debian Qt/Deepin Maintainers <luochaojiang@uniontech.com>
+Installed-Size: 226
+Filename: ./d/deepin-wayland-protocols/deepin-wayland-protocols_1.6.0-deepin.1.2_riscv64.deb
+Size: 37320
+MD5sum: 19c9bca64c03374ba857ef59beb932d5
+SHA1: 125a402c8287db2c42d04f875acf03c77ab06e5f
+SHA256: 61fab535c6ac25c414f4944a4f8ddfc3411700f9c1c69d415b989d43013f67e7
+SHA512: 156e5ce8e5cb905231e7efe4126eb727abdf7648230f6bcc5def6e256ed7e1af802e6a9f02630ff65f78b4eb72b07339b3dadae6c754a27848dfa079a4a73db7
+Homepage: https://gerrit.uniontech.com/admin/repos/snipe/deepin-wayland-protocols
+Description: Wayland protocols for Deepin
+ This package contains protocols for Wayland that are not standard, and used
+ in Deepin.
+

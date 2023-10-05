@@ -1,0 +1,19 @@
+Package: dde-launcher-dev
+Architecture: riscv64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Source: dde-launcher
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 23
+Depends: dde-launcher (= 6.0.17)
+Filename: ./d/dde-launcher-dev/dde-launcher-dev_6.0.17_riscv64.deb
+Size: 8928
+MD5sum: 99934e4a7e97d7270f3a8be7dbaef445
+SHA1: 352e7c5149e50e8c5f011af21889dc25bc60ffe7
+SHA256: 3103ca0eda6e90762b6a17d9db44236248dfb43cd6832344a504c7d263055d30
+SHA512: bb10cec8c0e7b23070825bbedc1ef577a5967c9baf5551c6db692a819cfebeca79604c911dd1fb99309fbaa60bc3007795819550b7bd32ef2ed23cebbbb9349b
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - launcher module development files
+ Launcher module development files of deepin desktop-environment
+

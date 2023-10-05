@@ -1,0 +1,19 @@
+Package: dde-launcher-dev
+Architecture: loong64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Source: dde-launcher
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 23
+Depends: dde-launcher (= 6.0.17)
+Filename: ./d/dde-launcher-dev/dde-launcher-dev_6.0.17_loong64.deb
+Size: 8928
+MD5sum: 1908dce412796ef1b135f8379f38a6fc
+SHA1: eef0b104f96b52df38fe24d0e9ffe32e3cab6c49
+SHA256: e75b8d1de4b6cf5a23912fe855cc23a21ffe276eb8823948ffe6e016f92fb742
+SHA512: 707ba260967ae7c4b65d6f4a9b7a687554f2a513ee62d07a6f1909ef386cb9cd10fb4fe53243366bfb00a4cf1dc9d8c25549070d16f8dfec73c612fe2cb0e60c
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - launcher module development files
+ Launcher module development files of deepin desktop-environment
+

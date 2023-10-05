@@ -191,6 +191,23 @@ Description: Disk Utility is a disk management tool for creating, reorganizing a
  Disk Utility is a disk management tool for disk.
 
 Package: deepin-diskmanager
+Architecture: loong64
+Version: 1.3.29
+Priority: optional
+Section: tools
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 8900
+Depends: libc6 (>= 2.37), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libparted-fs-resize0 (>= 3.1), libparted2 (>= 3.1), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), smartmontools, exfat-fuse
+Filename: ./d/deepin-diskmanager/deepin-diskmanager_1.3.29_loong64.deb
+Size: 4576904
+MD5sum: 0d4fb1cb6a2b3d42ac3075b3fb445ce2
+SHA1: c55284a00a1bc9066bdacac402d13b0e670b681d
+SHA256: 1a7ffdb7ddcd8f60e5a2b6baf72f39e60715070253625b6210188612bc724cb1
+SHA512: e6f1269aa9f4f0b722776bd938cbad66942d24aafec3f03783d2d3fe25889cc489bea6e2b2bfb75c8f3fa753cbe163f1de21c0554de579f0c94e33c786d41e03
+Description: Disk Utility is a disk management tool for creating, reorganizing and formatting partitions.
+ Disk Utility is a disk management tool for disk.
+
+Package: deepin-diskmanager
 Architecture: arm64
 Version: 1.3.29
 Priority: optional
@@ -2211,6 +2228,26 @@ Description: deepin desktop-environment - dde-launcher module
  Display all installation programs, and provide access to open, uninstall, boot and start, which is convenient for users to operate quickly
 
 Package: dde-launcher
+Architecture: riscv64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2983
+Depends: qtxdg-dev-tools, deepin-desktop-schemas (>= 5.9.14), dde-daemon (>= 5.13.12), startdde (>= 5.8.9), lastore-daemon (>= 5.2.9), libxcb-util1, dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.4), libglib2.0-0 (>= 2.24.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libxcb-ewmh2 (>= 0.4.1), libxcb1
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-launcher/dde-launcher_6.0.17_riscv64.deb
+Size: 822116
+MD5sum: fcc83c3d02401faddc438a97ed0e7be7
+SHA1: 2b97a10efd0ba8f7a18548694bfed9f31aa07b68
+SHA256: 13b2d5d859fdf1f434287c48d7baebb4a42b990203d4d4915baae36c8b5187a6
+SHA512: b10394e7db82a37a90a889759c13e4ecde82bebe29753247df0f4f9465d1c85e3ed3ada8ba57a3fa142d8da504acfad9022341c789dcf04b8402a5cc1c32193a
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-launcher module
+ Deepin desktop environment 2015 - dde-launcher module.
+ Display all installation programs, and provide access to open, uninstall, boot and start, which is convenient for users to operate quickly
+
+Package: dde-launcher
 Architecture: arm64
 Version: 6.0.17
 Priority: optional
@@ -2225,6 +2262,26 @@ MD5sum: d87f19f27ad5b776be5a9a872a18775f
 SHA1: 560f26a1fab621dc528e2e8674d77a85ca84554e
 SHA256: 78f2d2813ae9340ebd1f97d1b637dd7c26ea8aac442dff4193736bf28df96d63
 SHA512: e1773a542047f64ca441efee99886c1f63e2069c1872810cc7fc0f53d838fd1e4088a4047939cdea27d228614f180793ac662e5d7909593e25b95cabd2a87cb4
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-launcher module
+ Deepin desktop environment 2015 - dde-launcher module.
+ Display all installation programs, and provide access to open, uninstall, boot and start, which is convenient for users to operate quickly
+
+Package: dde-launcher
+Architecture: loong64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3083
+Depends: qtxdg-dev-tools, deepin-desktop-schemas (>= 5.9.14), dde-daemon (>= 5.13.12), startdde (>= 5.8.9), lastore-daemon (>= 5.2.9), libxcb-util1, dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.37), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.24.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libxcb-ewmh2 (>= 0.4.1), libxcb1
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-launcher/dde-launcher_6.0.17_loong64.deb
+Size: 721216
+MD5sum: 4ae2985d423a69129d6c79b38ca0fb5b
+SHA1: 7f5b7ce833326ef2648e464d05ad977fdf00ef5a
+SHA256: 520984e39eaad9cb597a6ca3571dfc826e77cae52ae9c447b4925d439ff406fc
+SHA512: 4dd18ec0f86fc58f03a33f16b3e317dc3702e95843b21de670ad378a0678e8b904dcd25dbec710f9ba18858724a04cb3e33a1dc50a7470ddd794c7c511290df0
 Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - dde-launcher module
  Deepin desktop environment 2015 - dde-launcher module.
@@ -2890,6 +2947,44 @@ MD5sum: 4dda63a6033e9b446f56e2bb8a99ebce
 SHA1: 8215f14062aaa14b2858735eecbc079dc3cc961f
 SHA256: 1b79eba9993040d428c93ae4c07917f03ffc93492445736f5c7cf2b9740b1887
 SHA512: 9577a451b621199a67829320a08625d50fdf20f930fbfafb81c711f04bc1d441227f6988be7de311eeeb8170115daff5af8dd090b10ec3c0af4977317b5cc5b2
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - launcher module development files
+ Launcher module development files of deepin desktop-environment
+
+Package: dde-launcher-dev
+Architecture: loong64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Source: dde-launcher
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 23
+Depends: dde-launcher (= 6.0.17)
+Filename: ./d/dde-launcher-dev/dde-launcher-dev_6.0.17_loong64.deb
+Size: 8928
+MD5sum: 1908dce412796ef1b135f8379f38a6fc
+SHA1: eef0b104f96b52df38fe24d0e9ffe32e3cab6c49
+SHA256: e75b8d1de4b6cf5a23912fe855cc23a21ffe276eb8823948ffe6e016f92fb742
+SHA512: 707ba260967ae7c4b65d6f4a9b7a687554f2a513ee62d07a6f1909ef386cb9cd10fb4fe53243366bfb00a4cf1dc9d8c25549070d16f8dfec73c612fe2cb0e60c
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - launcher module development files
+ Launcher module development files of deepin desktop-environment
+
+Package: dde-launcher-dev
+Architecture: riscv64
+Version: 6.0.17
+Priority: optional
+Section: x11
+Source: dde-launcher
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 23
+Depends: dde-launcher (= 6.0.17)
+Filename: ./d/dde-launcher-dev/dde-launcher-dev_6.0.17_riscv64.deb
+Size: 8928
+MD5sum: 99934e4a7e97d7270f3a8be7dbaef445
+SHA1: 352e7c5149e50e8c5f011af21889dc25bc60ffe7
+SHA256: 3103ca0eda6e90762b6a17d9db44236248dfb43cd6832344a504c7d263055d30
+SHA512: bb10cec8c0e7b23070825bbedc1ef577a5967c9baf5551c6db692a819cfebeca79604c911dd1fb99309fbaa60bc3007795819550b7bd32ef2ed23cebbbb9349b
 Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - launcher module development files
  Launcher module development files of deepin desktop-environment
@@ -4021,6 +4116,42 @@ MD5sum: b0531993bba2bac6b9f5ad5c9c5ecc6a
 SHA1: c8181bbc437756adbfacd114f00989e12c167126
 SHA256: a479ffadc7945368374e0db5d339e0f329d4c67d06d33884294cf6842c4465e6
 SHA512: 534665d56de02ce970e5dbf27942086d6cc33934525072758f6f0ead13725b6c2e259eacca9811f4ab9d2e66df6c1d8c82cc29ebe1ab6076fbe471d83a479033
+Homepage: https://gerrit.uniontech.com/admin/repos/snipe/deepin-wayland-protocols
+Description: Wayland protocols for Deepin
+ This package contains protocols for Wayland that are not standard, and used
+ in Deepin.
+
+Package: deepin-wayland-protocols
+Architecture: loong64
+Version: 1.6.0-deepin.1.2
+Priority: optional
+Section: libdevel
+Maintainer: Debian Qt/Deepin Maintainers <luochaojiang@uniontech.com>
+Installed-Size: 226
+Filename: ./d/deepin-wayland-protocols/deepin-wayland-protocols_1.6.0-deepin.1.2_loong64.deb
+Size: 37388
+MD5sum: 1b1322a88cc536161baf67db16d8306f
+SHA1: d14e47010fc65e708232bc552f3912e614c282ba
+SHA256: fc6c151d67d01ef3b526a1b8f150b4e2140eb7e8c0e0c94b935c51e7da1952d4
+SHA512: 27e59a8328c6edea62c22e173523aede252aa958467866aaedbb090a4ade926304cea622f3c7a3d911d77103455fbddfd60bc61c82930dbef660fad8759dd8d6
+Homepage: https://gerrit.uniontech.com/admin/repos/snipe/deepin-wayland-protocols
+Description: Wayland protocols for Deepin
+ This package contains protocols for Wayland that are not standard, and used
+ in Deepin.
+
+Package: deepin-wayland-protocols
+Architecture: riscv64
+Version: 1.6.0-deepin.1.2
+Priority: optional
+Section: libdevel
+Maintainer: Debian Qt/Deepin Maintainers <luochaojiang@uniontech.com>
+Installed-Size: 226
+Filename: ./d/deepin-wayland-protocols/deepin-wayland-protocols_1.6.0-deepin.1.2_riscv64.deb
+Size: 37320
+MD5sum: 19c9bca64c03374ba857ef59beb932d5
+SHA1: 125a402c8287db2c42d04f875acf03c77ab06e5f
+SHA256: 61fab535c6ac25c414f4944a4f8ddfc3411700f9c1c69d415b989d43013f67e7
+SHA512: 156e5ce8e5cb905231e7efe4126eb727abdf7648230f6bcc5def6e256ed7e1af802e6a9f02630ff65f78b4eb72b07339b3dadae6c754a27848dfa079a4a73db7
 Homepage: https://gerrit.uniontech.com/admin/repos/snipe/deepin-wayland-protocols
 Description: Wayland protocols for Deepin
  This package contains protocols for Wayland that are not standard, and used
@@ -6042,6 +6173,26 @@ Description: Qt library wrapper for Wayland libraries - data files
  the Wayland libraries.
 
 Package: dwayland-data
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 19
+Filename: ./d/dwayland-data/dwayland-data_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 4680
+MD5sum: 8cb4b2d7a75e80e27fb8370d84a0123b
+SHA1: 856dfb78dfeba6e7e3532f700ecfef7b20e42183
+SHA256: 3abed24496a234314b1501bffbcf35a969227fb25fcdca38238d3ef6f947dd2d
+SHA512: 1057414a434ee5a23d5814f017fc2ee485e319894e7c8c4f85a6986228a0a39a44bf9b64258918a4f279dbf6c9e852dfa0036b8ab618b453efebb8af2a493310
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries - data files
+ DWayland provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+
+Package: dwayland-data
 Architecture: arm64
 Version: 5.25.0-kwayland.5.24.3
 Multi-Arch: same
@@ -6056,6 +6207,26 @@ MD5sum: 36a7828b53219c20256e04ec01dbd633
 SHA1: 993c50355233d7bf77e855f89ece58d460091a42
 SHA256: 1e903de21db33d2c2d3a6e47225f4aeb85dccbba9456c5c6188a63c7dacfd8c8
 SHA512: d24a5e4b01bb588edb0d559049b6f1423405b0cdef8116834f0540fd5db802ebd9a770d2826c00205b08e98e5f33b8fe1d06371e540aaec9857cf75a04242275
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries - data files
+ DWayland provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+
+Package: dwayland-data
+Architecture: riscv64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 19
+Filename: ./d/dwayland-data/dwayland-data_5.25.0-kwayland.5.24.3_riscv64.deb
+Size: 4680
+MD5sum: 211fcde7c011fec9e852aa48e6a8c50d
+SHA1: c6c80f6117c0618056d0830388131f6549147c90
+SHA256: c95a0247ec2b63c141e79500fa9bc1b823ba4fcece7970dea5514358e6af1085
+SHA512: 7ab2647eccd1a50ee1c13328820817bd49b986036ffae3ace80ebed906be937ee63d6a2be40773d40ac9b670c76d9d2d00be3c6c90d32ba340054ba64a44a8ca
 Homepage: https://invent.kde.org/plasma/kwayland-server
 Description: Qt library wrapper for Wayland libraries - data files
  DWayland provides a Qt-style Server library wrapper for
@@ -6920,6 +7091,56 @@ MD5sum: 821cd4c91d9b501d7abd1607e7859f74
 SHA1: 989a66b85345063db1dcf3057986a7760a544728
 SHA256: d2df71bd7af9ea4fef05fe3c914c8279826975b2cd44780a1d7f5fa494edf53c
 SHA512: 0e025e604dde55fbc42e7fce8d8041840c586bb28ac126b05008ed36d30fa8fba309c5a5962d80b2fc36fb73c16144b1837b0a11f145c71fcd7cce11faf716ce
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: development files for dwayland
+ DWayland provides a Qt-style Client and Server library wrapper for
+ the Wayland libraries.
+ .
+ Contains development files for dwayland.
+
+Package: libdwayland-dev
+Architecture: riscv64
+Version: 5.25.0-kwayland.5.24.3
+Priority: optional
+Section: libdevel
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 896
+Depends: libdwaylandclient5 (= 5.25.0-kwayland.5.24.3), libdwaylandserver5 (= 5.25.0-kwayland.5.24.3), libwayland-dev (>= 1.13~), qtbase5-dev (>= 5.15.0~), extra-cmake-modules (>= 5.90.0~)
+Recommends: libdwayland-doc (= 5.25.0-kwayland.5.24.3)
+Breaks: dwayland-dev (<< 4:5.23.0-2~)
+Replaces: dwayland-dev (<< 4:5.23.0-2~)
+Filename: ./l/libdwayland-dev/libdwayland-dev_5.25.0-kwayland.5.24.3_riscv64.deb
+Size: 106024
+MD5sum: 6c55e1a5e717fb5b33a3f81eb1dac131
+SHA1: 5ca9d0f78d7d74e1bf2709b9d1a4787aa3cda5a7
+SHA256: 3466ad85310812ddaa4bfd59381a35fd9e3ce04c439f32fbcc902076a2bc16de
+SHA512: 1b4da599d37fd968b0816f9cf497efc18f9887b5a327ae36bbe4a6d02b5b293d609f38cc469ada4cbbf8ea182616a12db1368595d9a80af906f18e76524555ee
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: development files for dwayland
+ DWayland provides a Qt-style Client and Server library wrapper for
+ the Wayland libraries.
+ .
+ Contains development files for dwayland.
+
+Package: libdwayland-dev
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Priority: optional
+Section: libdevel
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 905
+Depends: libdwaylandclient5 (= 5.25.0-kwayland.5.24.3), libdwaylandserver5 (= 5.25.0-kwayland.5.24.3), libwayland-dev (>= 1.13~), qtbase5-dev (>= 5.15.0~), extra-cmake-modules (>= 5.90.0~)
+Recommends: libdwayland-doc (= 5.25.0-kwayland.5.24.3)
+Breaks: dwayland-dev (<< 4:5.23.0-2~)
+Replaces: dwayland-dev (<< 4:5.23.0-2~)
+Filename: ./l/libdwayland-dev/libdwayland-dev_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 106208
+MD5sum: 0256c02c807ca36e52556d44c760769e
+SHA1: f15b0c677848f78c4dd567ae1a7365a404c6e3e1
+SHA256: b344ab372d01d3bb2d0b7f438831040a31a408691ab1867f625c9c33e4906784
+SHA512: 7b0d71664426e3972eba7e3c99116215a466cdb878686852c7c67088b7ca13956093a3203e5bf9211dda9345d0ede161f7f12003c51d31eb91cb4ecd069e2ebe
 Homepage: https://invent.kde.org/plasma/kwayland-server
 Description: development files for dwayland
  DWayland provides a Qt-style Client and Server library wrapper for
@@ -9105,6 +9326,56 @@ Description: Qt library wrapper for Wayland libraries
  This package contains the shared library.
 
 Package: libdwaylandserver5
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 2472
+Provides: libdwaylandserver5-5.25
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.37), libegl1, libgcc-s1 (>= 3.0), libqt5concurrent5 (>= 5.15.0~), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-server0 (>= 1.18~)
+Breaks: libkwin4-effect-builtins1
+Filename: ./l/libdwaylandserver5/libdwaylandserver5_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 386792
+MD5sum: d8698d1d5bfdfb1a0fa586aec84e5790
+SHA1: 299fa846c2bc89fd4184def87ccc97db5c157c55
+SHA256: 471c8ad721468ec43f6590cad6a8889199f691f2f30005164e7c431e60d8410d
+SHA512: 42a6bfb17dfa2e262bce8674185752506607cf501a274d58d57faf9a68f8367b6b5d618b1927672601673d7e5fb8ba6b2f533c305647b488cf3a9d14fa679c8c
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries
+ DWaylandServier provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+ .
+ This package contains the shared library.
+
+Package: libdwaylandserver5
+Architecture: riscv64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 2080
+Provides: libdwaylandserver5-5.25
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.27), libegl1, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-server0 (>= 1.18~)
+Breaks: libkwin4-effect-builtins1
+Filename: ./l/libdwaylandserver5/libdwaylandserver5_5.25.0-kwayland.5.24.3_riscv64.deb
+Size: 390596
+MD5sum: bc74202fe7a6335d80fe63db983f31fd
+SHA1: 982d9a669a81c0130c1f7946bd6eaf857d66a1a3
+SHA256: 5d82dd49b97ac288ba72bac0e9b2b77cb4c404139189fb0958d55a384ecc9608
+SHA512: 7b03f914d5a9e611f240be449cddc51774571f5bdfcf45b94c8aebdd403c1abeb791dbaba14d0a1087da1015f31999dc3ceefaf8f98c79ca99738554f1ef6217
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries
+ DWaylandServier provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+ .
+ This package contains the shared library.
+
+Package: libdwaylandserver5
 Architecture: arm64
 Version: 5.25.0-kwayland.5.24.3
 Multi-Arch: same
@@ -10206,6 +10477,28 @@ Description: Qt library wrapper for Wayland libraries
  the Wayland libraries.
 
 Package: libdwaylandclient5
+Architecture: riscv64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 1284
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.27), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-client0 (>= 1.20.0)
+Breaks: libkf5plasmaquick5 (<< 5.54)
+Filename: ./l/libdwaylandclient5/libdwaylandclient5_5.25.0-kwayland.5.24.3_riscv64.deb
+Size: 229236
+MD5sum: 3cc0e2f5095ccdcaf01de8c8a838e5fe
+SHA1: 649d712294b0beeb9cfc747a1dd18d81f3fd7002
+SHA256: 1406bd5a0b571f327c25ea2ffc4cc6376e05555c1917ff798f90d971e56de53d
+SHA512: 1a8603a848a9d0d4cf3fe15d0e598bf5cf3b1780104b52abed05ae856299ffc0981349d638bb5fb4cfc22568b16fe3e411e95d3fe7a40c52fdecf761d106a688
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries
+ DWayland provides a Qt-style Client library wrapper for
+ the Wayland libraries.
+
+Package: libdwaylandclient5
 Architecture: amd64
 Version: 5.25.0-kwayland.5.24.3
 Multi-Arch: same
@@ -10222,6 +10515,28 @@ MD5sum: 63d9f90f893f459715fe78cf031df9e7
 SHA1: f99ae5ed33d72a74b603b8756137447f1d962482
 SHA256: a861ec1ed95b98038d95b4191a9edce0149b044ba137b6f14b118976e74557e1
 SHA512: 18bed6addd9806eef793cb7b52ea4be27871453ca3f95f069730f1419de9497478cddc8612509211e78782c1ef0edbe50bb4cd34e2c9d89118c964b8c9f51245
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries
+ DWayland provides a Qt-style Client library wrapper for
+ the Wayland libraries.
+
+Package: libdwaylandclient5
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 1456
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.37), libgcc-s1 (>= 3.0), libqt5concurrent5 (>= 5.15.0~), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-client0 (>= 1.20.0)
+Breaks: libkf5plasmaquick5 (<< 5.54)
+Filename: ./l/libdwaylandclient5/libdwaylandclient5_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 234412
+MD5sum: 3b4ef54a269776b1cee9320dd4a2dae3
+SHA1: dfca3ef9f0526591e2faad0f33148bc1c60d1e8a
+SHA256: 81933d692e96e9ebd34b6382a04b90f90ffa4d1de77b9bf51187c59ff99ed243
+SHA512: 4bfa227ff6b24075009464b34f16f5f0c78eda7b15f5769be5092b81d46d6efc02f30e3491f385206824147d628f061c9f77a5d004e8cd5d676373992e296617
 Homepage: https://invent.kde.org/plasma/kwayland-server
 Description: Qt library wrapper for Wayland libraries
  DWayland provides a Qt-style Client library wrapper for
@@ -10792,11 +11107,11 @@ Source: dwayland
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Installed-Size: 770
 Filename: ./l/libdwayland-doc/libdwayland-doc_5.25.0-kwayland.5.24.3_all.deb
-Size: 516856
-MD5sum: 386cb2318a1113671703de997301ecf8
-SHA1: 21047ff8ed50c63f97ca26def25562141bfafa7e
-SHA256: 40b492d368f6b2fc5441a25bbc172262e11ab778f27cf49ae135969fa5896190
-SHA512: 2e41b73ce51ac6b1c01b18beb6110b34c91482937b189c6a83a3e68a62cee8ed5d13192116493753889b6381554b9358431ac0c0b9f654b66293a3ee6056a1bd
+Size: 516820
+MD5sum: d395302d76b2f14b1267aa3d4e7190b5
+SHA1: 4cf303a09f68563cf602719f1a7d20cd36fa87b0
+SHA256: 79e9cecfba1ef23957199e5aa2d91a3da99b5d95d12ba4634199225bf7466d69
+SHA512: f3bab3151521207dc07e704e08710eba1dd742a0c7e8eba60669537c48f79a80f460f87307abb2596f7034d07ec1f02be135d8ce0708da6ce5097cf81a84500f
 Homepage: https://invent.kde.org/plasma/kwayland-server
 Description: Qt library wrapper for Wayland libraries (documentation)
  DWayland provides a Qt-style Client and Server library wrapper for

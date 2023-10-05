@@ -1,0 +1,20 @@
+Package: libunrar5
+Architecture: loong64
+Version: 1:5.6.6-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/libs
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 488
+Depends: libc6 (>= 2.37), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Filename: ./l/libunrar5/libunrar5_5.6.6-1_loong64.deb
+Size: 110628
+MD5sum: a11d65897c06cf9e01a8e88d6edc057b
+SHA1: 0c46daf08ca0aaa8ded626b65051653df3c1736f
+SHA256: 0312d114f6d37a815299a2a3dcebb2ba62a10e79199367dd46a1e11e0d4bfcb1
+SHA512: 1847cc4cf76108abe8e07a758a0b257db012d973924e8cddf569e9d3ef8ef911d25176a3ee438a2ce7f8eb9a6aad2ddc039fc462d30969df74de28523e2fa84e
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version) - shared library
+ library for unarchiving .rar files
+

@@ -1,0 +1,19 @@
+Package: libdtkcore-doc
+Architecture: loong64
+Version: 5.6.17
+Priority: optional
+Section: libdevel
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2403
+Filename: ./l/libdtkcore-doc/libdtkcore-doc_5.6.17_loong64.deb
+Size: 1748948
+MD5sum: 0d48b997b50bb2cec6b0323086106079
+SHA1: bdd37d88188bbfd11f654069f7126c08846093bf
+SHA256: dad5aa559a5768606a5e4745e55879cf5e48356378458d1b73928d89b21e0eac
+SHA512: 3af08182edcbbcc3ce72a3c68e50d4b91084594ec72f63a66a9a4584e5451d3e4881c5acd9f6a27295736ef163150f8444e4fe8c8d49c12acc972133cdf15ce5
+Description: Deepin Tool Kit Core (document)
+ DtkCore is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the doc files of DtkCore
+

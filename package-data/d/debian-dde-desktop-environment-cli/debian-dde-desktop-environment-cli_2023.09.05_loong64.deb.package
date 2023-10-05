@@ -1,0 +1,25 @@
+Package: debian-dde-desktop-environment-cli
+Architecture: loong64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-cli
+Depends: accountsservice, acpid, alsa-utils, bluez, dbus-user-session, dbus-x11, dialog, dmidecode, dnsutils, file, gcr, grub-common, os-prober, initramfs-tools, laptop-mode-tools, less, libc6-dev, libglib2.0-bin, libimobiledevice-utils, libmtp-runtime, live-config, locales, lvm2, man-db, network-manager, ostree, pkg-config, pulseaudio, pulseaudio-module-bluetooth, alsa-ucm-conf, alsa-topology-conf, rzip, sudo, unace, unalz, unar, unzip, vim, xdg-user-dirs, xdg-utils, xz-utils, zip, apt-transport-https, arj, avfs, bash-completion, cifs-utils, crda, dbus, dkms, dpkg-dev, efibootmgr, exfat-fuse, exfat-utils, foomatic-db-compressed-ppds, foomatic-db-engine, fprintd, geoclue-2.0, gtk2-engines, gtk2-engines-murrine, gtk2-engines-pixbuf, gvfs-backends, gvfs-fuse, hdparm, iio-sensor-proxy, im-config, ipheth-utils, lhasa, libboost-regex1.74.0, libboost-thread1.74.0, libfile-mimeinfo-perl, libimobiledevice-dev, libncurses5, libnss-myhostname, libpam-fprintd, libpam-gnome-keyring, libpulse-mainloop-glib0, libqt5svg5, libtirpc3, libtirpc-common, libvdpau1, lsb-release, modemmanager, ncompress, net-tools, onboard, openprinting-ppds, plymouth, pppoe, proxychains4, pulseaudio-utils, python3-dbus, python3-dnspython, python3-gi, python3-ldb, python3-samba, python3-smbc, python3-tdb, python-is-python3, qdbus, qml-module-org-kde-kquickcontrolsaddons, qml-module-qtquick-controls2-styles-chameleon, qttranslations5-l10n, redshift, rfkill, sdparm, slirp4netns, smbclient, tdb-tools, usb-modeswitch, usbmuxd, usbutils, user-setup, wireless-tools, xserver-xorg-core, xserver-xorg-input-all, rsync, librsvg2-bin, realtek-wifi-dkms
+Recommends: aptitude, hostapd, lz4, lzip, lzma, lzop, xorg, xserver-xorg-input-wacom
+Conflicts: deepin-desktop-environment-cli
+Breaks: deepin-desktop-environment-cli
+Filename: ./d/debian-dde-desktop-environment-cli/debian-dde-desktop-environment-cli_2023.09.05_loong64.deb
+Size: 4036
+MD5sum: e0d900d4901cb669f438d91ccbcf5d5c
+SHA1: 0e81ece734e70a22ad889533f223c057241fa272
+SHA256: fc36aed1aaf163c208392bf9847143fdc1926e31141a6523d33b95cec83550ee
+SHA512: 351a3060af0007dd04c74afa6dd7103afd8dcc0c4d426f73b062be148b19051cfb0b942e9d5ecd0af8b1b04ea855260b83452f68e79bd4509a16b3dedc709184
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a cli meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

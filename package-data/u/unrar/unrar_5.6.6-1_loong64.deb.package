@@ -1,0 +1,21 @@
+Package: unrar
+Architecture: loong64
+Version: 1:5.6.6-1
+Priority: optional
+Section: non-free/utils
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 454
+Depends: libc6 (>= 2.37), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Conflicts: rar (<= 2.60-1)
+Filename: ./u/unrar/unrar_5.6.6-1_loong64.deb
+Size: 104404
+MD5sum: b062d531e86480f9c07ce43a789b8f65
+SHA1: d2f13cb79ad8fdedc48d63ae22c910f681d774a2
+SHA256: 639562059763426686d02bebf4cdf75817170e2eb49b086913ca595961fc32ab
+SHA512: be34b82ef815244d60f5ed8b7b16833580be1dfeac7b7ed86f9c12fff34303759bb73e7bc036f83744570b18434940a8ffae6817d05089b5d635d4b19c1d2b96
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version)
+ Unrar can extract files from .rar archives. If you want to create .rar
+ archives, install package rar.
+

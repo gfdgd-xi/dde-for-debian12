@@ -1,0 +1,20 @@
+Package: libdtkcommon-dev
+Architecture: riscv64
+Version: 5.6.17
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 24
+Conflicts: libdtkcore-dev (<< 5.4.10)
+Replaces: libdtkcore-dev (<< 5.4.10)
+Filename: ./l/libdtkcommon-dev/libdtkcommon-dev_5.6.17_riscv64.deb
+Size: 4904
+MD5sum: 3370434d8ea2e4139769d8cc9abd56b1
+SHA1: 3e8ae01fad7c19844630ae593305a3b878fbd933
+SHA256: d71c128f1fbf501bf07a288ecb8ac74c54dc2cbc37225a3e2481c12d28d05ccc
+SHA512: 9f669cae34b066a3af16a1da2d652ac9169853e6257d7723c1211b71083bbbc9531cf69c045488b4610474f5cbd49db71bce034b99cad675d7e29e1a81d82848
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public build files
+

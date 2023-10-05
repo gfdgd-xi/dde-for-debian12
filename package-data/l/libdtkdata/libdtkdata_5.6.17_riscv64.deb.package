@@ -1,0 +1,18 @@
+Package: libdtkdata
+Architecture: riscv64
+Version: 5.6.17
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 12
+Filename: ./l/libdtkdata/libdtkdata_5.6.17_riscv64.deb
+Size: 3008
+MD5sum: 5e3d0781b29db4066db5641ee5afda49
+SHA1: 49a09f7036fa90003a7ab61ac3c61261cfa1013d
+SHA256: fe3983a85b40ef7bbaebc5d1fc3eddb5d96ebdd1c2103fc6befb9c5af1559750
+SHA512: 10740884941253a71c327710ec2ebf963abfa9e70af94248ecb973854b55c08ad4010fcc299423d1c345b49c85cce11b83659ab813d44af68de43e402efc55f9
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public configuration files
+

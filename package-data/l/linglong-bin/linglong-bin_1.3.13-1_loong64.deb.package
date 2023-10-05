@@ -1,0 +1,19 @@
+Package: linglong-bin
+Architecture: loong64
+Version: 1.3.13-1
+Priority: optional
+Section: admin
+Source: linglong
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6464
+Depends: libc6 (>= 2.37), libcurl3-gnutls (>= 7.16.2), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.55.1), libostree-1-1 (>= 2016.6), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5network5 (>= 5.8.0), libqt5sql5 (>= 5.0.2), libqt5websockets5, libstdc++6 (>= 13.1), libyaml-cpp0.7 (>= 0.7.0), init-system-helpers (>= 1.52), ostree, linglong-dbus-proxy, linglong-box, libqt5sql5-sqlite (>= 5.11.3), desktop-file-utils, shared-mime-info, fuse-overlayfs, libglib2.0-bin
+Filename: ./l/linglong-bin/linglong-bin_1.3.13-1_loong64.deb
+Size: 945000
+MD5sum: 1dd20165112fb9c13dcfcffe615bb7d9
+SHA1: 06711fa44c62259557d7aad2da283950eba7120e
+SHA256: 3c0ee79850253d01d0e0b2108b62869ca47d6a7b143b9ad7428af5b7d44a11f2
+SHA512: 061cd3b4482e9dc7b0fe2aa888a69ccf8327cbf8c93655ee70035fe75e209b06fa95a1573916eb55bf34a33e3c3efff2afa44b85651fefa2ef37ace0d4688d12
+Homepage: http://www.deepin.org
+Description: Linglong package manager.
+ Linglong package management command line tool.
+

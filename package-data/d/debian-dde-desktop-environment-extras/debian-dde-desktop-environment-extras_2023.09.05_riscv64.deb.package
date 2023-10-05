@@ -1,0 +1,26 @@
+Package: debian-dde-desktop-environment-extras
+Architecture: riscv64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-extras
+Depends: libdareader1, debian-dde-desktop-environment-core, dde-dconfig-daemon, dde-qt5wayland-plugin, dde-manual-content, dcc-network-plugin, dock-network-plugin, dss-network-plugin, deepin-log-viewer, deepin-dvsrv, linglong-bin, linglong-box, dde-printer, deepin-boot-maker, deepin-sync-daemon, deepin-ocr, deepin-picker, uos-license-content, linglong-loader, linglong-installer, dde-api, dde-account-faces, dde-disk-mount-plugin, dde-dock-onboard-plugin, dde-cooperation, deepin-shortcut-viewer, libepoxy0, libgbm1, libkf5i18n5, libkf5waylandclient5, libkf5waylandserver5, libkf5windowsystem5, fonts-lohit-deva, fonts-noto, fonts-noto-cjk, fonts-noto-mono, fonts-noto-unhinted, cups, cups-filters, libcupsimage2, cups-bsd, samba, samba-common-bin, samba-dsdb-modules, samba-vfs-modules, dde-introduction, deepin-deb-installer, deepin-deepinid-client, deepin-devicemanager, deepin-diskmanager, deepin-font-manager, deepin-system-monitor, org.deepin.downloader, dde-grand-search, deepin-screensaver, dde-widgets, deepin-feedback, deepin-voice-note, simple-scan, cryptsetup-initramfs, systemd-timesyncd, libimageeditor, libudfburn, uimg-installer, spark-store, deepin-home-appstore-daemon, dde-desktop-plugins, dde-file-manager-plugins, dde-file-manager-common-plugins, dde-file-manager-daemon-plugins, dde-file-manager-preview-plugins, deepin-home, dde-device-formatter, libblockdev-crypto2, libime-bin
+Conflicts: deepin-desktop-environment-extras
+Breaks: deepin-desktop-environment-extras
+Filename: ./d/debian-dde-desktop-environment-extras/debian-dde-desktop-environment-extras_2023.09.05_riscv64.deb
+Size: 3804
+MD5sum: f6f7e0181caee2c1862f59c9b459619d
+SHA1: 90b11e4a0682745b8edc1d69e25cce81e2ed2147
+SHA256: 5242f6f38d8d8f0fdb91f66edc381bd5df035ba59d9b6bfd7eed81977d8aa709
+SHA512: 8d86da39d049e2d79f5c3786e6fcd728fd5db00f7f30fc7def78ccaa77a01a0f068ee55787e1f9caff28411df5839bd8afb7c8953af647bfadfffac0f8962aec
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a extras package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

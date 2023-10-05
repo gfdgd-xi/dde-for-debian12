@@ -1,0 +1,25 @@
+Package: debian-dde-desktop-environment-core
+Architecture: riscv64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-core
+Depends: dde-clipboard, dde-control-center, dde-desktop, dde-dock, dde-file-manager, dde-launcher, dde-qt5integration, dde-session-ui, deepin-default-settings, debian-dde-wallpapers-nonfree, deepin-desktop-base, deepin-icon-theme, deepin-desktop-theme, deepin-terminal, deepin-upgrade-manager, lightdm, plymouth-theme-deepin-logo, startdde, lastore-daemon, deepin-face, dde-wldpms, dde-wloutput, dde-wloutput-daemon, kwayland-data, deepin-authenticate, dde-daemon, dde-session-shell, deepin-desktop-schemas, deepin-kwin-x11, deepin-kwin-wayland, dde-session, dde-permission-manager, dde-application-manager, dde-api-proxy
+Recommends: cups, ttf-deepin-opensymbol
+Conflicts: deepin-desktop-environment-core
+Breaks: deepin-desktop-environment-core
+Filename: ./d/debian-dde-desktop-environment-core/debian-dde-desktop-environment-core_2023.09.05_riscv64.deb
+Size: 3472
+MD5sum: d792ba1a7cdc78658f947cceb2bd57b3
+SHA1: 25aa116c7337f1bba1d85ed1112c8f6c08728dd3
+SHA256: 03644a6c41a0ed023fa14bb0cbfb65edfb7dc0ce481e6975de021b24b95b04d4
+SHA512: 7faa1f7c0e0eaa9b0891201df5112f88e4bc790545117be35b52adedd218cc93f22e15121596887fe5ae7e18df9e49bbe11f031ade680187d8cf707cfb01fcad
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a dde package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

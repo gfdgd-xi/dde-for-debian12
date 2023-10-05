@@ -1,0 +1,26 @@
+Package: debian-dde-desktop-environment-ll
+Architecture: riscv64
+Version: 2023.09.05
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-ll
+Pre-Depends: linglong-bin, base-files
+Conflicts: deepin-desktop-environment-ll
+Breaks: deepin-desktop-environment-ll
+Filename: ./d/debian-dde-desktop-environment-ll/debian-dde-desktop-environment-ll_2023.09.05_riscv64.deb
+Size: 3264
+MD5sum: a154fd51c5fc87c6d65e419f862c5bb6
+SHA1: 183570ce230a95761fe6be375d5623138f1d8db8
+SHA256: 0a4c1270ccbc5932b34d70c8a3c6ac481865d309e0653c4ca1472675011d58d5
+SHA512: 1d424765b77c2b11d21cf5da3104d573ab59a27649e0c60eb46450294efbbee8140f577858071a46a6d995eadc57ed125925c7eefb4b6cefc884a4af45a93379
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a ll package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

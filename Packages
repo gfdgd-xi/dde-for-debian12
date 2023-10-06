@@ -11846,6 +11846,24 @@ Description: Qt library wrapper for Wayland libraries
  the Wayland libraries.
 
 Package: libdocparser
+Architecture: riscv64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 979
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.4), libpoppler-cpp0v5 (>= 22.12.0), libstdc++6 (>= 13.1)
+Filename: ./l/libdocparser/libdocparser_1.0.4_riscv64.deb
+Size: 388176
+MD5sum: 3b57462814186ad24a2be752f856593b
+SHA1: e74a441019225939f039c8825e115fd8b840e26d
+SHA256: b9e3991748a81550d86aed8291c469448ed7dc5398821a2aabb9cb72c178b431
+SHA512: 1468df8d391300cb4ea208c44124f4991d9c0cb847d3c7bfa8bfc7f5361dd64d75956cd7646a1cc7383bb5d361a6d6e7b699bbb748543acd3cc6853122f03a0c
+Description: Document parser library.
+ This package contains the shared libraries.
+
+Package: libdocparser
 Architecture: arm64
 Version: 1.0.4
 Priority: optional
@@ -12853,6 +12871,25 @@ SHA256: 5484eef4ff2c89c0bad0c5091a92f0443852c44838f61e48ffc007c769ce360b
 SHA512: 5a7eed21467ba5f2db682fc200473d44a08a80a5fab4ccff25e3a980316cceee2b17abe981e6a5852227fc3c5388df65a320970ae1d7bd833d032bdc6a64e03a
 Homepage: http://www.deepin.org
 Description: The minimal build of opencv library for the Android, IOS, and ARM Linux platforms.
+
+Package: libdocparser-dev
+Architecture: riscv64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 16
+Depends: libdocparser
+Filename: ./l/libdocparser-dev/libdocparser-dev_1.0.4_riscv64.deb
+Size: 2452
+MD5sum: 36d07548a141047786caf143fbb86504
+SHA1: f03dd1a0725d80369a3da5d693a067c192db2b3c
+SHA256: e9adc36131994e1d0edad3f96a9ffc8a18a65f288c17fcabd794e3c1ffdd7d73
+SHA512: 121a85eeae3cca500739692384e71e73400402265e5d620ace01d89d9277956ac4c543c4ab69679292cef2a02b2fd9837af2bc9f8559b98555a7660e8f8b0282
+Description: Development files for libdocparser
+ This package contains the header files and static libraries
+ of libdocparser
 
 Package: libdocparser-dev
 Architecture: loong64

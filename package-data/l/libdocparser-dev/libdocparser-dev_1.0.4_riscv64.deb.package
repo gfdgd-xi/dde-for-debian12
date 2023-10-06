@@ -1,0 +1,19 @@
+Package: libdocparser-dev
+Architecture: riscv64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 16
+Depends: libdocparser
+Filename: ./l/libdocparser-dev/libdocparser-dev_1.0.4_riscv64.deb
+Size: 2452
+MD5sum: 36d07548a141047786caf143fbb86504
+SHA1: f03dd1a0725d80369a3da5d693a067c192db2b3c
+SHA256: e9adc36131994e1d0edad3f96a9ffc8a18a65f288c17fcabd794e3c1ffdd7d73
+SHA512: 121a85eeae3cca500739692384e71e73400402265e5d620ace01d89d9277956ac4c543c4ab69679292cef2a02b2fd9837af2bc9f8559b98555a7660e8f8b0282
+Description: Development files for libdocparser
+ This package contains the header files and static libraries
+ of libdocparser
+

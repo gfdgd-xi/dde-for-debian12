@@ -1,0 +1,18 @@
+Package: libdocparser
+Architecture: riscv64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 979
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.4), libpoppler-cpp0v5 (>= 22.12.0), libstdc++6 (>= 13.1)
+Filename: ./l/libdocparser/libdocparser_1.0.4_riscv64.deb
+Size: 388176
+MD5sum: 3b57462814186ad24a2be752f856593b
+SHA1: e74a441019225939f039c8825e115fd8b840e26d
+SHA256: b9e3991748a81550d86aed8291c469448ed7dc5398821a2aabb9cb72c178b431
+SHA512: 1468df8d391300cb4ea208c44124f4991d9c0cb847d3c7bfa8bfc7f5361dd64d75956cd7646a1cc7383bb5d361a6d6e7b699bbb748543acd3cc6853122f03a0c
+Description: Document parser library.
+ This package contains the shared libraries.
+

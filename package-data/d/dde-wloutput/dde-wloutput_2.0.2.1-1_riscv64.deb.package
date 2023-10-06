@@ -1,0 +1,18 @@
+Package: dde-wloutput
+Architecture: riscv64
+Version: 2.0.2.1-1
+Priority: optional
+Section: devel
+Maintainer: liuyong <liuyong@deepin.com>
+Installed-Size: 62
+Depends: libc6 (>= 2.34), libdwaylandclient5 (>= 5.25.0-kwayland.5.24.3), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 13.1)
+Filename: ./d/dde-wloutput/dde-wloutput_2.0.2.1-1_riscv64.deb
+Size: 21804
+MD5sum: 1602e96bff45f1a8ac9136b3bce99157
+SHA1: 5e16afa962f85fb8832eb59c0942c6b259c9d01f
+SHA256: a18dc763c8eae5420d55d554fd87e969ae3848ea929168a775e6ef6f2fad0fd9
+SHA512: 9a5eb8cdf660c5663ddba80fad0e4c71a49bead39d9025478b5f69199dcf02394de484d9eec966e3e982da051d4b5f3bc48a86a6a15bc79d3bad8a876d5906a3
+Homepage: https://github.com/linuxdeepin/dde-wloutput
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

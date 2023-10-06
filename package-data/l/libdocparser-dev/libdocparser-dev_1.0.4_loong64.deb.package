@@ -1,0 +1,19 @@
+Package: libdocparser-dev
+Architecture: loong64
+Version: 1.0.4
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 16
+Depends: libdocparser
+Filename: ./l/libdocparser-dev/libdocparser-dev_1.0.4_loong64.deb
+Size: 2456
+MD5sum: 685f624243b94fd895f5f6fbb2e9de3d
+SHA1: 592595e1ae3f9a776f8ed96632b46605e578b13b
+SHA256: e2cb71cbfdcedc5062820c3945bacc0b36ea04fb60d32e7b359d13c916c068df
+SHA512: 83eec097ffd92023b32cc4654cb0b5511d6bc8004fd29a1ca4e0d6ffe1b50b6281d57de54099d1fbd63f6d5e512a924c86961e7ae889bf3801448e2ebd6d016b
+Description: Development files for libdocparser
+ This package contains the header files and static libraries
+ of libdocparser
+

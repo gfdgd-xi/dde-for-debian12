@@ -1,0 +1,19 @@
+Package: dde-file-manager-preview-plugins
+Architecture: loong64
+Version: 6.0.30
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 733
+Depends: libc6 (>= 2.37), libdde-file-manager, libdeepin-pdfium, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libicu72 (>= 72.1~rc-1~), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 13.1), libtag1v5 (>= 1.9.1-2.2~)
+Filename: ./d/dde-file-manager-preview-plugins/dde-file-manager-preview-plugins_6.0.30_loong64.deb
+Size: 146704
+MD5sum: 9f7beef64b89705e560ed89378f5195a
+SHA1: e480e236a85bc64825ba79020a6f3b148a2da556
+SHA256: 7ad9044b1df65f1456d25f8de15ce4f0a90a1f3a3313dc230f043d932c3007f9
+SHA512: dee9e68469e0f2eeacdee1e43c673eb6b06b1827438cf4fde59ae6775f28e44c9e1aae06ba9e05bb2b657916857ea7db6a5caca2787963b83242af1236bed056
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - filemanager preview plugins module
+ Deepin Desktop Environment (DDE) - filemanager preview edge plugins module.
+

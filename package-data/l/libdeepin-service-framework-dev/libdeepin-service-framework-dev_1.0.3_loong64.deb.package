@@ -1,0 +1,18 @@
+Package: libdeepin-service-framework-dev
+Architecture: loong64
+Version: 1.0.3
+Priority: optional
+Section: admin
+Source: deepin-service-manager
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 18
+Depends: libdeepin-service-framework (= 1.0.3)
+Filename: ./l/libdeepin-service-framework-dev/libdeepin-service-framework-dev_1.0.3_loong64.deb
+Size: 2804
+MD5sum: 249623ce5e4bc20223641c5643c951b6
+SHA1: cf9163eeb7e0bbf35aa37babce671724deab7c0b
+SHA256: 0bf499bd53f473ab1f680dad465c2a8ad114c4bf2f88b27d09c68b70a2c630ae
+SHA512: b6178cd9c1c0a8d15d1a5c10c83d68b9ee10f5c92cb1dde4b85131b7279383fa3b3a8882822d5cb6137e22b3c6d0d4b01dfd8b8e783a6cd22b22ab4f91adacbc
+Homepage: https://github.com/linuxdeepin
+Description: deepin desktop-environment - service frame for development
+

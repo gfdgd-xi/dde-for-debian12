@@ -1,0 +1,20 @@
+Package: libdde-file-manager
+Architecture: loong64
+Version: 6.0.30
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 8094
+Depends: libc6 (>= 2.37), libdfm-burn, libdfm-io, libdfm-mount, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.35.8), libgsettings-qt1 (>= 0.1+14.04.20140408), libkf5codecs5 (>= 4.96.0), libmount1 (>= 2.19.1), libpoppler-cpp0v5 (>= 22.12.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.6.0~beta), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 9), libx11-6, zlib1g (>= 1:1.1.4), dconf-gsettings-backend | gsettings-backend, gvfs-backends (>= 1.27.3), cryptsetup, libdfm-extension (= 6.0.30), dde-file-manager-common-plugins, dde-file-manager-preview-plugins
+Filename: ./l/libdde-file-manager/libdde-file-manager_6.0.30_loong64.deb
+Size: 1900256
+MD5sum: b63c0c706ea15b923267641df4c68230
+SHA1: ab85104f4aa49e5f04aedb11eae0c20585ac56b3
+SHA256: a61eba2ada33455ed9768d150f0ae5a4af960be02848fe4f2371cf6a03a63deb
+SHA512: 45965f78dc80b0512a5666bba71ee35364512442ca306215ab626a3906878385ad4cf599abe1ce6548a35b0147d8028ac68e71ccb8339dac85554396ed6a419c
+Homepage: http://www.deepin.org
+Description: DDE File Manager core librarys
+ This package contains the shared libraries.
+

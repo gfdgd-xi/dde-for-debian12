@@ -1,0 +1,19 @@
+Package: libdareader1
+Architecture: riscv64
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.27), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./l/libdareader1/libdareader1_2.0.0.0_riscv64.deb
+Size: 5640
+MD5sum: 9fa0300fedb4b1ced3a94681ff5dd498
+SHA1: f087387a2fb31e379a97c9b6b2235aefec796209
+SHA256: 1876e8404d9f659939873392619a14bfd2b470ee07439a3b4212f037c01316ad
+SHA512: 6d493c8e2129e2ee020f98431b2bb444b218f6635de97b539379db225da3b73c9ddd53f8f4cdfe3434048d0f8f3c520bb9f247727d9448ca77833b19dd4247e7
+Description: lib for read image/video data from deepin-authentication
+ this package is a lib for read image/video data from deepin-authentication.
+

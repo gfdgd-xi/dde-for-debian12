@@ -1,0 +1,19 @@
+Package: libdareader-dev
+Architecture: riscv64
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 17
+Depends: libdareader1 (= 2.0.0.0)
+Filename: ./l/libdareader-dev/libdareader-dev_2.0.0.0_riscv64.deb
+Size: 2640
+MD5sum: 055d5e265713278bb39e64dfd4c60e26
+SHA1: 09b15acdf049d0f1a818992eea1563eb676ab063
+SHA256: ba59220508fa7a942b5f8b9d776e48598c897afafb8473620a2df410ba2e005c
+SHA512: 42f6e92aca9185cb7ccfe1ff8445c9a2013405636519d16326e76c3c743924d12aed76854a623f8fcd93c6faf973cc89f60a8ff24b1bbb004ee35053de4b63e9
+Description: dev lib for read image/video data from deepin-authentication
+ this package is a dev lib for read image/video data from deepin-authentication.
+

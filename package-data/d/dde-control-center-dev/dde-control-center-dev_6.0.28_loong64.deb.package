@@ -1,0 +1,19 @@
+Package: dde-control-center-dev
+Architecture: loong64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 117
+Depends: dde-control-center (= 6.0.28)
+Filename: ./d/dde-control-center-dev/dde-control-center-dev_6.0.28_loong64.deb
+Size: 24260
+MD5sum: b95e8ddcd5fd423f7cc549065a334f03
+SHA1: d68567ca4bf8a9665687fa7a644093967baf8ee9
+SHA256: 911923db16303261bfa936dfb853b80c27c0d593278b69ad4f3b6aa32f15d9b0
+SHA512: 593c6291f9915ee4bc69b8e851c3df5fe31b5c25dae3d4c6d785f2f479bef3ace8c75cd325f7f1050af89cf5d1ac95f0cb7f7fc885bee587b9dc41e99a2681a2
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment - development files
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+

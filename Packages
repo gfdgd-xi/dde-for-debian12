@@ -1625,6 +1625,25 @@ Description: deepin desktop-environment - flow theme
  deepin theme flow.
 
 Package: dde-control-center-dev
+Architecture: loong64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 117
+Depends: dde-control-center (= 6.0.28)
+Filename: ./d/dde-control-center-dev/dde-control-center-dev_6.0.28_loong64.deb
+Size: 24260
+MD5sum: b95e8ddcd5fd423f7cc549065a334f03
+SHA1: d68567ca4bf8a9665687fa7a644093967baf8ee9
+SHA256: 911923db16303261bfa936dfb853b80c27c0d593278b69ad4f3b6aa32f15d9b0
+SHA512: 593c6291f9915ee4bc69b8e851c3df5fe31b5c25dae3d4c6d785f2f479bef3ace8c75cd325f7f1050af89cf5d1ac95f0cb7f7fc885bee587b9dc41e99a2681a2
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment - development files
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+
+Package: dde-control-center-dev
 Architecture: amd64
 Version: 6.0.28
 Priority: optional
@@ -1658,6 +1677,25 @@ MD5sum: e349480dfb6228244b46147c29bb1666
 SHA1: 78ed12d04a61a8ca2ca3e25bafb16de1f0d50012
 SHA256: af3a59eb17c957cca4dbf3615ff48f9d3395995526efd1b1773161e278d2a3c9
 SHA512: 63af44ffa2192f176374e87f12c5f6bb742206d6c21928180952d3a44893dcc8f43f1f400483322ff615d5f10a42b4020b08d73a76f78927f322348ff429c298
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment - development files
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+
+Package: dde-control-center-dev
+Architecture: riscv64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 117
+Depends: dde-control-center (= 6.0.28)
+Filename: ./d/dde-control-center-dev/dde-control-center-dev_6.0.28_riscv64.deb
+Size: 24256
+MD5sum: 50f3b7640c6b98500fddeb0c65f4c135
+SHA1: 9271bd9dcbd6178222dfe6cda109a0bd488efdee
+SHA256: 70d5d9d3054305224b4279fc62f296eaee200febc13bf389382cb54171fdbd35
+SHA512: 884768e12d1ff66da6c1bbe73b5e9af2817fb7aad9a8187d844602ab5ba2b110b92d034015b0e1cb97e748f87f7a1716efab8ac25b86b7c643f041cf87f5c17c
 Homepage: https://github.com/linuxdeepin/dde-control-center
 Description: New control center for Deepin Desktop Environment - development files
  DDE Control Center is the control panel of Deepin Desktop Environment.
@@ -2779,6 +2817,24 @@ Description: anything library
  anything library package
 
 Package: dde-control-center-doc
+Architecture: loong64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1293
+Filename: ./d/dde-control-center-doc/dde-control-center-doc_6.0.28_loong64.deb
+Size: 888520
+MD5sum: 5094cb130147af12748d01496314988f
+SHA1: c28554ff4c3d595a36408055ff7808ce82fcad1d
+SHA256: 00307382c50eb9b6ab098a2ff0487a7b8a6d96c79f81a43cc37cd26b1084d10c
+SHA512: cd675d4c5257ee6a0914aa3eae6a8e2d40a32b518d616e3a2dd87fd009e1af35f9636d260ff614a986d267a26dc466c43224fb8ea80e5fa888597706e3d31305
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: dde-control-center (document)
+ This package contains the doc files of dde-control-center
+
+Package: dde-control-center-doc
 Architecture: amd64
 Version: 6.0.28
 Priority: optional
@@ -2810,6 +2866,24 @@ MD5sum: 664332da1d87a1964ea2934f3162706d
 SHA1: b297a00d9d1ff07e12a8797092832d6503ccff27
 SHA256: 2d1d62938e62e115bd4b97b11c0eac279b0d17441049abae40d101ae3ab221b4
 SHA512: 958954d299b8e3a3ea1faab0e5bcde9507cb32d5e1b47c95c391e1db1f748662d1c52e43309bc7ba598089c1da91ef84764e546f8ca703c718d29b96ee683b5d
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: dde-control-center (document)
+ This package contains the doc files of dde-control-center
+
+Package: dde-control-center-doc
+Architecture: riscv64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Source: dde-control-center
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1393
+Filename: ./d/dde-control-center-doc/dde-control-center-doc_6.0.28_riscv64.deb
+Size: 956864
+MD5sum: 346537a6026becc03f877e7ce1c8fcaf
+SHA1: 0861a037dda701490c6165f217b18ffe988657aa
+SHA256: 707dd0d0e926c8b940bc6d603518a36e2b584b9c30ffc1b7eba912e5965eac22
+SHA512: b5e1c9f69e41c4c220eb98eff089a92999e68bf7a1b77697c000fb38e015077fce351efc51b1f30dc699c85b5d066e1534b792766f11b460f94fe704b3141e08
 Homepage: https://github.com/linuxdeepin/dde-control-center
 Description: dde-control-center (document)
  This package contains the doc files of dde-control-center
@@ -4905,6 +4979,56 @@ MD5sum: 20064fca3b73ef95cf8617bfbfc2547d
 SHA1: c0e107024e5e3c7f426caed54994399ffc7735f1
 SHA256: 2a7d3da5cf662b456be0fca521fc9196763175dabda910b77e614b3f1427e79c
 SHA512: 4707546dee1aa4de872d091b673f0f9cd6e691746f46da4d35c8f33cd249badb3d89c2bb3b5727aa9b725c6457a37d49e3db9a28f47d7e1734d11816f4814a84
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment,
+ Integrated control center with rich functions,Besides providing rich
+ system setting items, the function level is simple, the logic is clear,
+ the user can easily set the system, and the learning cost is low,
+ Provide users with automatic update system and developer mode to meet
+ the various needs of users for the operating system.
+ abrecovery -restore system, Determine whether the system is restored
+ reboot-reminder-dialog -Update restart, Confirm whether to restart the system
+ after the completion of the update.
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+
+Package: dde-control-center
+Architecture: riscv64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 15256
+Filename: ./d/dde-control-center/dde-control-center_6.0.28_riscv64.deb
+Size: 4203524
+MD5sum: bd04b8d7880a4b8abad007558dec1fce
+SHA1: 92998a121246fad0eac2c388f7ace2e9bb46a760
+SHA256: 16f39b874490c0e5c5773756e789ad0a36acac2f4112fe87fd0e9a88740477d8
+SHA512: 03f4dbc05664e4df8f0e947a3232073fca441d839c79e19725d0bc7bbfefaac9b7632804cedf3718199f3bf6885796fe64468b713cf35b2bfb533174b8b39bd7
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment,
+ Integrated control center with rich functions,Besides providing rich
+ system setting items, the function level is simple, the logic is clear,
+ the user can easily set the system, and the learning cost is low,
+ Provide users with automatic update system and developer mode to meet
+ the various needs of users for the operating system.
+ abrecovery -restore system, Determine whether the system is restored
+ reboot-reminder-dialog -Update restart, Confirm whether to restart the system
+ after the completion of the update.
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+
+Package: dde-control-center
+Architecture: loong64
+Version: 6.0.28
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 16689
+Filename: ./d/dde-control-center/dde-control-center_6.0.28_loong64.deb
+Size: 4148960
+MD5sum: 0fafbef99559171e90cbd8cfb4bbe822
+SHA1: adcf0170b43001a826567c629d0875273703e0bb
+SHA256: e4dd52f00d01e862a8ad8a4e7ac6c77335134919bed86be28aa9fe8291d81bb9
+SHA512: e2024ce9d71778571ed5c560a344e5da33e4d0246d0a0d35ebc80041b040a53796a7946ef7120858ede30eac90043d256b17d6e007d6e2ee7b91af915c579a59
 Homepage: https://github.com/linuxdeepin/dde-control-center
 Description: New control center for Deepin Desktop Environment,
  Integrated control center with rich functions,Besides providing rich
@@ -7871,6 +7995,25 @@ Description: dev lib for read image/video data from deepin-authentication
  this package is a dev lib for read image/video data from deepin-authentication.
 
 Package: libdareader-dev
+Architecture: riscv64
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 17
+Depends: libdareader1 (= 2.0.0.0)
+Filename: ./l/libdareader-dev/libdareader-dev_2.0.0.0_riscv64.deb
+Size: 2640
+MD5sum: 055d5e265713278bb39e64dfd4c60e26
+SHA1: 09b15acdf049d0f1a818992eea1563eb676ab063
+SHA256: ba59220508fa7a942b5f8b9d776e48598c897afafb8473620a2df410ba2e005c
+SHA512: 42f6e92aca9185cb7ccfe1ff8445c9a2013405636519d16326e76c3c743924d12aed76854a623f8fcd93c6faf973cc89f60a8ff24b1bbb004ee35053de4b63e9
+Description: dev lib for read image/video data from deepin-authentication
+ this package is a dev lib for read image/video data from deepin-authentication.
+
+Package: libdareader-dev
 Architecture: amd64
 Version: 2.0.0.0
 Multi-Arch: same
@@ -10154,6 +10297,25 @@ Homepage: http://www.rarlabs.com/
 Description: Unarchiver for .rar files (non-free version) - development files
  This package contains the static library and header files for the
  libunrar library.
+
+Package: libdareader1
+Architecture: riscv64
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.27), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./l/libdareader1/libdareader1_2.0.0.0_riscv64.deb
+Size: 5640
+MD5sum: 9fa0300fedb4b1ced3a94681ff5dd498
+SHA1: f087387a2fb31e379a97c9b6b2235aefec796209
+SHA256: 1876e8404d9f659939873392619a14bfd2b470ee07439a3b4212f037c01316ad
+SHA512: 6d493c8e2129e2ee020f98431b2bb444b218f6635de97b539379db225da3b73c9ddd53f8f4cdfe3434048d0f8f3c520bb9f247727d9448ca77833b19dd4247e7
+Description: lib for read image/video data from deepin-authentication
+ this package is a lib for read image/video data from deepin-authentication.
 
 Package: libdareader1
 Architecture: amd64

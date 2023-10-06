@@ -1,0 +1,28 @@
+Package: deepin-kwin-wayland-backend-drm
+Architecture: riscv64
+Version: 4:5.25.11-kwin.5.24.3
+Priority: optional
+Section: libs
+Source: deepin-kwin
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 361
+Provides: kwin-wayland-backend
+Depends: deepin-kwin-common (= 4:5.25.11-kwin.5.24.3), libc6 (>= 2.33), libdeepin-kwinglutils13 (= 4:5.25.11-kwin.5.24.3), libdrm2 (>= 2.4.99), libdwaylandserver5 (>= 5.25.0-kwayland.5.24.3), libepoxy0 (>= 1.3), libgbm1 (>= 21.1.0), libgcc-s1 (>= 3.4), libkf5configcore5 (>= 5.89~), libkf5i18n5 (>= 5.89~), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5)
+Filename: ./d/deepin-kwin-wayland-backend-drm/deepin-kwin-wayland-backend-drm_5.25.11-kwin.5.24.3_riscv64.deb
+Size: 141536
+MD5sum: 2b015c39c7ff7430594dea62b1bec652
+SHA1: e1bb9d0c110baadc8a10c8d43be6219af8718dcb
+SHA256: 87e8dc171ebd1f43d1412b1faa18bda7375a2e99b2731e856f6e3411e4cd8a18
+SHA512: ac352269f4b211a04b9a54664c839a23271dd6ca81e1de81f8bacdf1bb89785c4dc857fb145e7bf0709c3eeb8e08b053e252d3ab6d9b16a6a501d9691e96ea4c
+Homepage: https://projects.kde.org/projects/kde/workspace/kwin
+Description: KDE window manager drm plugin
+ KWin (pronounced as one syllable "deepin-kwin") is the window
+ manager for the KDE Plasma Desktop. It gives you complete
+ control over your windows, making sure they're not in the way
+ but aid you in your task. It paints the window decoration,
+ the bar on top of every window with (configurable) buttons
+ like close, maximize and minimize. It also handles placing
+ of windows and switching between them.
+ .
+ This package is part of the KDE base workspace module
+

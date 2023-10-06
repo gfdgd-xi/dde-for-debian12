@@ -1,0 +1,29 @@
+Package: libdeepin-kwineffects13
+Architecture: riscv64
+Version: 4:5.25.11-kwin.5.24.3
+Priority: optional
+Section: libs
+Source: deepin-kwin
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 335
+Depends: libc6 (>= 2.27), libdeepin-kwinglutils13 (= 4:5.25.11-kwin.5.24.3), libepoxy0 (>= 1.0), libkf5configcore5 (>= 5.89~), libkf5coreaddons5 (>= 5.89~), libkf5declarative5 (>= 5.89~), libqt5core5a (>= 5.15.0~), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libqt5qml5 (>= 5.15.0~), libqt5quick5 (>= 5.15.0~) | libqt5quick5-gles (>= 5.15.0~), libstdc++6 (>= 5)
+Breaks: libdeepin-kwin4-effect-builtins1, libdeepin-kwineffects12
+Replaces: libkwin4-effect-builtins1, libkwineffects12
+Filename: ./l/libdeepin-kwineffects13/libdeepin-kwineffects13_5.25.11-kwin.5.24.3_riscv64.deb
+Size: 99052
+MD5sum: 7b41ebf5662f5fa90d1f637a73012b03
+SHA1: d1ab67dc200c79a3a1c4434bed7435b2db4df952
+SHA256: d68ea56eddd7a4fc0cff91894a89077f70c02ebb094b60561268f6386519818d
+SHA512: 585334649053f5e7ae7dbdb4defb3c908cbcbc2c6472504c67a02b407070292ee9a66baa24a9128210227775f09c205d9d05e5b6c8d3a78bf53c3efae8b16057
+Homepage: https://projects.kde.org/projects/kde/workspace/kwin
+Description: KDE window manager effects library
+ KWin (pronounced as one syllable "deepin-kwin") is the window
+ manager for the KDE Plasma Desktop. It gives you complete
+ control over your windows, making sure they're not in the way
+ but aid you in your task. It paints the window decoration,
+ the bar on top of every window with (configurable) buttons
+ like close, maximize and minimize. It also handles placing
+ of windows and switching between them.
+ .
+ This package is part of the KDE base workspace module.
+

@@ -1,0 +1,26 @@
+Package: debian-dde-desktop-environment-ll
+Architecture: amd64
+Version: 2023.10.13
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-ll
+Pre-Depends: linglong-bin, base-files
+Conflicts: deepin-desktop-environment-ll
+Breaks: deepin-desktop-environment-ll
+Filename: ./d/debian-dde-desktop-environment-ll/debian-dde-desktop-environment-ll_2023.10.13_amd64.deb
+Size: 3328
+MD5sum: d4c1b432be589beb4dcb1ad9329ff51d
+SHA1: bc540deafabf776ad9972c96ce1d90420f42e9d2
+SHA256: fc5a8f3781bf8e7e5b0c2d326da4a6577c605deb2748f3768721cfa7e8a3759d
+SHA512: b0b02448df5083f6ebd60ad247f3dcea5c5b428c2c90e56f17e0c8a1652ab69d9b89d03f3487f9587bcc7fadf248766daede3b433c5ce2a4862dfb834c559c5c
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a ll package depends Deepin New Desktop Envrionment.
+ .
+ This package installs the standard set of applications that are
+ part of the official deepin release.
+ You can safety remove it after installed.
+

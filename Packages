@@ -370,6 +370,27 @@ Homepage: https://www.deepin.org/
 Description: dde wallpapers
  Default wallpapers for debian-dde
 
+Package: debian-dde-wallpapers
+Architecture: all
+Version: 1.7.18
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 28084
+Provides: deepin-wallpapers
+Conflicts: deepin-wallpapers
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Replaces: deepin-wallpapers
+Filename: ./d/debian-dde-wallpapers/debian-dde-wallpapers_1.7.18_all.deb
+Size: 25606376
+MD5sum: 7c9a87e97f098c375c3c19dea5b4034a
+SHA1: f791ab8647cce057438a13f6f97378d96ad635dd
+SHA256: 98b1817d0f2c57bcf2463df77a407a185bc106ae513fa8aaf4987e0c6621cb31
+SHA512: 41105c6d46a86df89e5e13eae76c2bdb38888482a6ab8a2d88ca97b5fbe3a11acf707d554623a70d41664e13c661e5008b1923830cb1f0205832c364040818d0
+Homepage: https://www.deepin.org/
+Description: dde wallpapers
+ Default wallpapers for debian-dde
+
 Package: dde-polkit-agent-dev
 Architecture: arm64
 Version: 6.0.5
@@ -534,6 +555,28 @@ SHA512: 957e1491ee2ac19b15a57c9cf949b1cfa40553c0be5b68da9dd4b26f73d74797d391322f
 Homepage: http://www.deepin.org
 Description: deepin desktop-environment - flow theme
  deepin theme flow.
+
+Package: deepin-desktop-schemas
+Architecture: loong64
+Version: 6.0.5
+Priority: optional
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 346
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: deepin-default-gsettings
+Breaks: dde-daemon (<< 2.92.2), deepin-default-gsettings, deepin-wm (<< 0.2.1), startdde (<< 2.91.0)
+Replaces: deepin-default-gsettings
+Filename: ./d/deepin-desktop-schemas/deepin-desktop-schemas_6.0.5_loong64.deb
+Size: 42616
+MD5sum: a6d58f05fd9d8e23ec7101160e797264
+SHA1: aadb43e3702771415276dcfb82c824e57dc86881
+SHA256: 23770070bb54dad3aca4fe68831406f7aedea4e608cc9337b9042d1e00b28702
+SHA512: 3817138b69eb965ac0d5a11f7a3fc8642ffbfa621bd2192cb991bccb4c29704ca8c54ae425e91b874c003ffe7de0d98abf3353546979a5b43d313c48d52b9a97
+Homepage: http://www.deepin.org/
+Description: GSettings deepin desktop-wide schemas
+ deepin-desktop-schemas contains a collection of GSettings schemas for
+ settings shared by various components of a desktop.
 
 Package: deepin-desktop-schemas
 Architecture: amd64
@@ -5685,6 +5728,23 @@ MD5sum: c20bf310e6e50eb5e77c2aa0521d3106
 SHA1: 925287e90849c3d7f1bd99ba021f56403d7c7214
 SHA256: 15b0d2dff21181b670f664bce48c95d4da72bd6613b3eb54b6bf8fa13b260306
 SHA512: b326110b80ce5c1add3715074b6e4ea951f8dcebc32d0140c3060b80ad32fc54a74ea39902f056e4a88a0e1380358a8e712f7623e7ce6467def522148a7eba33
+Description: report crash information to deepin for debugging
+ this is customer feedback honor
+
+Package: deepin-feedback
+Architecture: loong64
+Version: 5.3.0-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 4555
+Depends: libc6 (>= 2.37), rfkill, lshw, wireless-tools, gzip, boot-info-script, jq, dde-polkit-agent
+Filename: ./d/deepin-feedback/deepin-feedback_5.3.0-1_loong64.deb
+Size: 1366616
+MD5sum: 428c925ca9f3d45c67f02d32f29e7b05
+SHA1: bc70cb92da4f1a5cb61677a51dd20edeacd78b69
+SHA256: 46e3770c077abffcc2f7d7008874cd6fa8088c5c6ee29419080ea84a063996d6
+SHA512: f155a47762d1d464a1d9cb25e6361911fee49ad8adbeba84e75cbb1813f285fd4d47fa6a83235c509f9a84e8c2506532fedead08c68b1b7a920739de6c2f90bb
 Description: report crash information to deepin for debugging
  this is customer feedback honor
 

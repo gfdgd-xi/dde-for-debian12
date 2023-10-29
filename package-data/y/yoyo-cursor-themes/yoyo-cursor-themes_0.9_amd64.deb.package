@@ -1,0 +1,16 @@
+Package: yoyo-cursor-themes
+Architecture: amd64
+Version: 0.9
+Priority: optional
+Section: kde
+Maintainer: Reion Wong <reion@yoyoos.com>
+Installed-Size: 83437
+Filename: ./y/yoyo-cursor-themes/yoyo-cursor-themes_0.9_amd64.deb
+Size: 4224224
+MD5sum: a9f0d22c63ccc53c3b51af6e0b2b18fa
+SHA1: c8f0314ceeec4ac915c439f91a16b3758c52bb35
+SHA256: 4067171eea6122c153ea42b928581deb603652fed62ec6cc4ebff489e2878cf1
+SHA512: ea307b0f28184a2fb311c9e7c5138c2f08035dcd0555458ba2ca239710af1a846ae4fbc7b950fc5c1e0976361b1b7777304dfa9d474c4f5ff2c6bd0fc5242276
+Homepage: https://yoyoos.com
+Description: YoyoOS Cursor Theme
+

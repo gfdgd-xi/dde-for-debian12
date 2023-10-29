@@ -1,0 +1,17 @@
+Package: albius
+Architecture: all
+Version: 0.2.11
+Priority: extra
+Section: devel
+Maintainer: Mateus Melchiades <matbme@duck.com>
+Installed-Size: 66868
+Depends: golang-go, parted
+Filename: ./a/albius/albius_0.2.11_all.deb
+Size: 17557912
+MD5sum: 6ee4635eabeb172d49915f2b486c53dd
+SHA1: 30832894bec70606e3e30d10243a613f3ed84e11
+SHA256: 0b2732477c558c2371c06932c672823a74dd1e8265d5c60068a5e93c87bba1eb
+SHA512: 5f2e12bee4f576a3000e1bbbab10fd7d2d7a139f7e4e80307cab2f234d134fe77dc5ec14c3158beee0a8a647e1f75eee0021d9486c14b04663a39b0cdcf0beec
+Homepage: https://github.com/vanilla-os/Albius
+Description: Linux installer backend with support for SquashFS and OCI installations.
+

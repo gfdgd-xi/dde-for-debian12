@@ -1,0 +1,16 @@
+Package: yoyo-icons
+Architecture: all
+Version: 0.8-1
+Priority: optional
+Section: x11
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 42027
+Filename: ./y/yoyo-icons/yoyo-icons_0.8-1_all.deb
+Size: 2935240
+MD5sum: c3e0bdef90a02435df5b733f6cc73938
+SHA1: c6f1f35e3410d5d1c7e8bfea56703017b42b020a
+SHA256: a831b583fb571bb75ff59012bc36905763a1eda75e3e214331739f58233ff88d
+SHA512: 3de059b5a24668cef83c1ba6ed6ccf7cc7880836ad1dc9216fa49e4ad4a5e3f2fa3e6c72dee55c1ee5b323d4873ec6506a086bb49114a75a574d508ebccf98f1
+Homepage: https://yoyoos.com
+Description: YoyoOS Icons
+

@@ -1,0 +1,17 @@
+Package: yoyo-installer
+Architecture: amd64
+Version: 1.3.0
+Priority: optional
+Section: utils
+Maintainer: Uniartisan <lizhiyuan@uniartisan.com>
+Installed-Size: 6298
+Depends: python3, python3-tz, python3-requests, python3-gi, libadwaita-1-0, libgnome-desktop-4-2, libgweather-4-0, gir1.2-gtk-4.0, gir1.2-adw-1, gir1.2-gnomedesktop-4.0, gir1.2-gweather-4.0, gir1.2-vte-3.91, gparted, openssl
+Filename: ./y/yoyo-installer/yoyo-installer_1.3.0_amd64.deb
+Size: 4157464
+MD5sum: 3faccfb6cce62a2984cde1dd82be53ed
+SHA1: 6fd63880d19ce4b0b03ac6d0553082aa8e6ecbd7
+SHA256: 1ae0fd443ba300cb7b210f6ba621b9edbba0580350a24b6b488504e194ed3380
+SHA512: f7e4b165681b42130e0c61ede0aeaea1b9fc3798a1aa6e2302d9247238648d10efd04a878619617a3b080a753dd4c159111870f0a0c76aa56aebd3ca3c838397
+Homepage: https://github.com/Yoyo-OS/yoyo-installer
+Description: This utility is meant to be used in Ubuntu Yoyo GNOME as a first-setup wizard.
+

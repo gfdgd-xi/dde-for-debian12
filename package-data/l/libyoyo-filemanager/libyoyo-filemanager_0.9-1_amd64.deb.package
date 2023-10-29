@@ -1,0 +1,18 @@
+Package: libyoyo-filemanager
+Architecture: amd64
+Version: 0.9-1
+Priority: optional
+Section: devel
+Source: yoyo-filemanager
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 663
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtgraphicaleffects, kio, libc6 (>= 2.32), libgcc-s1 (>= 3.0), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.97.0), libkf5kiocore5 (>= 5.93.0), libkf5kiowidgets5 (>= 5.69.0), libkf5solid5 (>= 5.74.0), libkf5xmlgui5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.9.0~beta) | libqt5gui5-gles (>= 5.9.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./l/libyoyo-filemanager/libyoyo-filemanager_0.9-1_amd64.deb
+Size: 171244
+MD5sum: 3b4fbd0a87fa58cedabd5d8b5870b018
+SHA1: 50ba0fa7b83b6302b41e1758275797ac23305ab4
+SHA256: b7b7011d962ad36b01a9de5ff097e6eb366f062f1f2a0b31c3ba98ec2724d005
+SHA512: 9866eeb5273c5856c173689a2f3f44b81c0246e0e261a572d594595e4e481f23bc285d15b58e2c3c1932d5c8f24399500e671c2f1f91e661466414c4afc90aff
+Homepage: https://yoyoos.com
+Description: YoyoOS File Manager Lib
+

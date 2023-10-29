@@ -1,0 +1,17 @@
+Package: findfish-stockball
+Architecture: amd64
+Version: 0.0-1
+Priority: optional
+Section: utils
+Maintainer: kirigaya <kirigaya@mkacg.com>
+Installed-Size: 396
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11)
+Filename: ./f/findfish-stockball/findfish-stockball_0.0-1_amd64.deb
+Size: 116648
+MD5sum: 84f0783546e7a6e110e31674c5a90713
+SHA1: caa5ce396fee5f01802258bb43c93abf1bc2a9c4
+SHA256: a58ed6346d56696eeee2ee955b65593cd768f64863de8eaa1cbab6d1e3bc9a41
+SHA512: 7def99949f5d6849d8f04a64a9eebb553042f091180d3a95ead8b368e881829c2d5a9a0eb0343ea64bf22fcba5e4fc65f1d4a09b2d24354938cdd0dbff71fa01
+Homepage: http://blog.mkacg.com
+Description: find fish stockball.
+

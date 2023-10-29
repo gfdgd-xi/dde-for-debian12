@@ -1,0 +1,17 @@
+Package: yoyo-core
+Architecture: amd64
+Version: 0.9-2
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 1681
+Depends: accountsservice, python3-dbus, python3-pillow, python3-regex, qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, appmenu-gtk2-module, appmenu-gtk3-module, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5coreaddons5 (>= 4.97.0), libkf5idletime5 (>= 4.96.0), libkf5windowsystem5 (>= 5.25.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6 (>= 2:1.2.99.901), libx11-xcb1 (>= 2:1.8.4), libxcb-composite0, libxcb-damage0, libxcb-dpms0, libxcb-image0 (>= 0.2), libxcb-record0, libxcb-shape0, libxcb-util1 (>= 0.4.0), libxcb1 (>= 1.6), libxcursor1 (>> 1.1.2), libxi6 (>= 2:1.2.99.4), libxtst6
+Filename: ./y/yoyo-core/yoyo-core_0.9-2_amd64.deb
+Size: 368080
+MD5sum: 954e6638139f368483d9fb77ad658a56
+SHA1: 27c1998560bc3c78dac9d2699e389e6f9b45e1cf
+SHA256: 196bcd8213d24a6d88648c8a5a96092ae8e9bcea697d2eda02fb63ab597327b1
+SHA512: 8cc92ff5ec33fe07530a62e99b5d7c775e27994d456892ed036a5e7b5b5bd28f1a9c12132c270f89b1f59d54a4049b84abcf48c65255cecba9a5f9773bd57f1b
+Homepage: https://github.com/yoyoos/core
+Description: YoyoOS System Components
+

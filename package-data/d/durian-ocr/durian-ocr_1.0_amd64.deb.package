@@ -1,0 +1,18 @@
+Package: durian-ocr
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Section: utils
+Maintainer: Liuminghang
+Installed-Size: 32087
+Depends: libc6 (>= 2.35), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 11)
+Filename: ./d/durian-ocr/durian-ocr_1.0_amd64.deb
+Size: 19843924
+MD5sum: 1bb46492faddae92a28b944cd1cc4a66
+SHA1: 6d835e66a29ce052ad9efe64761cd3d8e3bbc7b7
+SHA256: f89ae3e41a62d87cc8cacf4cd3f66ad77329cacbc425ac4e1b593a51ea1a099c
+SHA512: 274562ab84d7244134df15688378d9d92f14c842dd18f69f01c23a77dff60b211d1d0d27a54d07ca4fb68e3bca03c6990235c25c492167fff9bad97f00245fdf
+Homepage: http://www.deepin.org/
+Description: Ocr for no dtk
+ Ocr is a text recognition software.
+

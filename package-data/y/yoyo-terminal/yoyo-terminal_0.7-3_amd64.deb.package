@@ -1,0 +1,17 @@
+Package: yoyo-terminal
+Architecture: amd64
+Version: 0.7-3
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 962
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libyoyo, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./y/yoyo-terminal/yoyo-terminal_0.7-3_amd64.deb
+Size: 248676
+MD5sum: bc16c48567a81021f60960ae0732eda2
+SHA1: d66bff632321eb6ff95f318dc4bd6117cc8cedad
+SHA256: 8f6080761b8dfd18d5ef4df1c63c3257d0f8fcb3b6e4c2aea7e60f92a0e804a1
+SHA512: 9d0ab2c98fa759d534a9d2f40357250dc75011823be82bd298679d0134fd93ea0fc4b4138f11cca5a930fa3503a80108f490af53b22b00f5426e24b4dd38e420
+Homepage: https://yoyoos.com
+Description: YoyoOS Terminal
+

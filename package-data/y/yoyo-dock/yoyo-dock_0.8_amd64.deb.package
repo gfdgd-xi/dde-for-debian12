@@ -1,0 +1,17 @@
+Package: yoyo-dock
+Architecture: amd64
+Version: 0.8
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 3523
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtgraphicaleffects, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5windowsystem5 (>= 5.35.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libxcb1
+Filename: ./y/yoyo-dock/yoyo-dock_0.8_amd64.deb
+Size: 2798380
+MD5sum: 5924c0ce6c88869101acec7ff07b9f79
+SHA1: 728e36bce7f6c91bff1961113b405fe100e7d2ad
+SHA256: a66853b448ad930707a6a751c6697bf791273e1d5024f54052ba739af2b1b63b
+SHA512: 76e39db10fb2d5512d3ce34d1e50f4b8d5af37955ea12a96a4ec0123cd0863c9dce55f47c91b0d8235635c2dabd716b8888c482f7fe77576332746ed812a69b6
+Homepage: https://yoyoos.com
+Description: YoyoOS Dock
+

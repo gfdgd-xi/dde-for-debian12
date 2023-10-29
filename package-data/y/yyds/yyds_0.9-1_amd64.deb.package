@@ -1,0 +1,18 @@
+Package: yyds
+Architecture: amd64
+Version: 0.9-1
+Priority: extra
+Section: metapackages
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 11
+Depends: yoyo-calculator, yoyo-core, yoyo-dock, yoyo-filemanager, yoyo-desktop, yoyo-launcher, yoyo-kwin-plugins, yoyo-qt-plugins, yoyo-screenlocker, yoyo-wallpapers, yoyo-settings, yoyo-icons, yoyo-gtk-themes, yoyo-sddm-theme, yoyo-cursor-themes, yoyo-plymouth-theme, appmotor, yoyo-daemon, yoyo-updator, fishui, libyoyo, fonts-noto, fonts-noto-mono, desktop-file-utils
+Recommends: yoyo-screenshot, yoyo-videoplayer, yoyo-debinstaller, yoyo-terminal, yoyo-texteditor, pppoe, smbclient, wireless-tools, pulseaudio-module-bluetooth, yoyo-ocr
+Filename: ./y/yyds/yyds_0.9-1_amd64.deb
+Size: 1564
+MD5sum: e6c441980eb637d7080d08ff7ab11e9d
+SHA1: 005aea728a4cc595dc25b494b5193bedebd6d654
+SHA256: a269033c942ad7ce4502a2f0521693dedebf43777b5e7faada05a18182afb077
+SHA512: bbf96d5f19c07cca5c1abdf13f03799948dfdfbbe2827a58daf523a2d2a0b48772620f4d47916b17ef3864203b6e845044128b9769db6adbd8b4f875b889cb35
+Homepage: https://yoyoos.com
+Description: YoyoOS Meta Packages.
+

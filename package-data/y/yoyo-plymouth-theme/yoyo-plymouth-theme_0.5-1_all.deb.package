@@ -1,0 +1,15 @@
+Package: yoyo-plymouth-theme
+Architecture: all
+Version: 0.5-1
+Priority: optional
+Section: misc
+Maintainer: Reion Wong <reion@yoyoos.com>
+Installed-Size: 36
+Filename: ./y/yoyo-plymouth-theme/yoyo-plymouth-theme_0.5-1_all.deb
+Size: 12856
+MD5sum: 6520cf6e6e194ecc997538b2c3860440
+SHA1: ee9536b4a6c2d53ffd5521053530058e3e5cbc5c
+SHA256: fc310322d43368ab22b9fcb2d4afee28d61c7e36c9211ec6139977e3faea0f11
+SHA512: b357b910ad8b39eaf72b74e274cf3ce3b232b6db4185b4bfc33cac0a38499455bdf84d13033e5bab318e41e69dc0ad2e0859013003a0ed9317f0c7afaea6f344
+Description: Plymouth theme for YoyoOS.
+

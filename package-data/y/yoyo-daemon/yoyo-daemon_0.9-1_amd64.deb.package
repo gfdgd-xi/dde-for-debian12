@@ -1,0 +1,17 @@
+Package: yoyo-daemon
+Architecture: amd64
+Version: 0.9-1
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 58
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, python3-pyinotify, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./y/yoyo-daemon/yoyo-daemon_0.9-1_amd64.deb
+Size: 13232
+MD5sum: b1fe8d7909a239e0da6ac1b3f6a64a74
+SHA1: fd530cbe1bba492db98c682ddb4f2ce8959d82b9
+SHA256: d70ce95fc0f1735b4ee1093fdc86be0e01cf9486152ad25d8207ee5c3f75b2af
+SHA512: e867bceebc94149f0a1a0761f84a58b1d3bbd93e626cd0eff2ca9dc72c0a07cc1cd32e561b13f0e18fe7f97a9e1a826cc1033512c0268d38900ebcd344ad4385
+Homepage: http://yoyoos.com
+Description: YoyoOS Daemon.
+

@@ -1,0 +1,17 @@
+Package: yoyo-screenlocker
+Architecture: amd64
+Version: 0.6-1
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 161
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libx11-6
+Filename: ./y/yoyo-screenlocker/yoyo-screenlocker_0.6-1_amd64.deb
+Size: 35400
+MD5sum: f260d769fdf5daaf14c77ea860d4f5a3
+SHA1: 2b87e4cc62683db1c255fb9a043e2e493b5e12ee
+SHA256: 59948cfad1cf1677c1710b3c1a5c5f35884f435319cbebc4a086e594a2b3ae24
+SHA512: e40fad81a349a88537c3740fb3d210c6072a25dbd1867893510e6eb277d5e97701b1190b4ab310b1a4ac873692b5cd15f499c8b9b22ba5bd258166687af6f92b
+Homepage: https://yoyoos.com
+Description: YoyoOS Screen Locker
+

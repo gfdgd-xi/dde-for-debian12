@@ -1,0 +1,16 @@
+Package: yoyo-gtk-themes
+Architecture: amd64
+Version: 0.7
+Priority: optional
+Section: gnome
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 2557
+Filename: ./y/yoyo-gtk-themes/yoyo-gtk-themes_0.7_amd64.deb
+Size: 93092
+MD5sum: 3bd7d853294641c4d8e273af28b35f72
+SHA1: e479aa32a7dd0d97ba736105b0eb26dcbc921656
+SHA256: 00fe6cf4a81a2efa0455c1281cc6773ec57229b445d31a37b87cc72dc434e99d
+SHA512: b5593c6af45acf570b4e10fb501492811b71cf6dfba117b3913f122659f146009360a1cfd2bc1991c8643cffecef4b3d37d375bbb0e0e8aeeaa792adebf2a6a0
+Homepage: https://yoyoos.com
+Description: YoyoOS GTK Themes
+

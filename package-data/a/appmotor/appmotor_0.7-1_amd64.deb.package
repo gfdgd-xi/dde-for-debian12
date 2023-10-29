@@ -1,0 +1,17 @@
+Package: appmotor
+Architecture: amd64
+Version: 0.7-1
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 234
+Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libsystemd0
+Filename: ./a/appmotor/appmotor_0.7-1_amd64.deb
+Size: 58908
+MD5sum: 7a964223511f17b227efe89b768fb3b2
+SHA1: db44c8d32039eba4fa569ec8ded44fd3dfac5453
+SHA256: a8a486b9fa0d3066846f21659d866b3ed9385e98950b524fea959a892253969e
+SHA512: d4308adb818b0ca16cee5118d8906cfc7e9bebafd9f58ef88717791c5258b307c57bfd986fb8232834f350efe3a8040861328ce8428f5bd274d281d7c4bb6da0
+Homepage: https://github.com/yoyoos/appmotor
+Description: YoyoOS Appmotor
+

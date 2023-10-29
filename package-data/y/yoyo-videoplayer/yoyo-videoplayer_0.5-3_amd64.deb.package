@@ -1,0 +1,17 @@
+Package: yoyo-videoplayer
+Architecture: amd64
+Version: 0.5-3
+Priority: optional
+Section: video
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 282
+Depends: qml-module-qtquick-controls2, qml-module-qtquick2, qml-module-qtquick-layouts, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtqml, qml-module-qtquick-window2, qml-module-qtquick-shapes, qml-module-qtquick-dialogs, qml-module-qtquick-particles2, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), qtdeclarative-abi-5-15-8
+Filename: ./y/yoyo-videoplayer/yoyo-videoplayer_0.5-3_amd64.deb
+Size: 82120
+MD5sum: cb15e4855876bffba397c6bf0912e3fd
+SHA1: 0e86fc3c66d2ca64fa7e36d50b8f944afb0aa702
+SHA256: 3ed32ac183e5783ca7fd8fcf4e9d3e82ceff629fa7028e3ac5983338d2c76b92
+SHA512: 46a50275f7884cc31ef96437a3d0c795825286365c99902ab64b98ff15ad15ce9c13d9b76c6812d76c4a4ddea7e9e497be999e6651b2219f2966ddb522746b5b
+Homepage: https://yoyoos.com
+Description: An open source video player built with Qt/QML and libmpv
+

@@ -1,0 +1,17 @@
+Package: libyoyo
+Architecture: amd64
+Version: 0.9-1
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <support@yoyoos.com>
+Installed-Size: 2144
+Depends: libc6 (>= 2.34), libcanberra0 (>= 0.16), libgcc-s1 (>= 3.0), libkf5bluezqt6 (>= 5.77.0), libkf5coreaddons5 (>= 4.97.0), libkf5networkmanagerqt6 (>= 5.99.0), libkf5screen-bin (>= 4:5.17.5~), libkf5screen8 (>= 4:5.24.1), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.7.0) | libqt5quick5-gles (>= 5.7.0), libqt5sensors5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 5)
+Filename: ./l/libyoyo/libyoyo_0.9-1_amd64.deb
+Size: 480996
+MD5sum: 05ddf02cdf537ab5ee13b00d0f8a4b3d
+SHA1: f0895bc507387861f4bc53ece4dfd5fb312eecee
+SHA256: 15cdf77c366b868c1daab272ca73e821b3eb26e9b998c56a322b7a8d0d29b47a
+SHA512: 85d4e5f5bb73dbcec4918094ef2becb322ae65af4aa2ca3239457b2d7b01476209128077eec221d7b648531b050ffca479138fe3d1c0bf3b7c8ff2d6a85f92d7
+Homepage: https://yoyoos.com
+Description: YoyoOS Library
+

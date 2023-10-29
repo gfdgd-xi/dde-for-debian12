@@ -1,0 +1,17 @@
+Package: qtwuziqi
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Installed-Size: 102
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./q/qtwuziqi/qtwuziqi_1.0.0_amd64.deb
+Size: 39568
+MD5sum: 4831b1a4eb149ab165803d5eb6d428a4
+SHA1: d46d25f7cf89ce750b5396fa09317b48e5d07005
+SHA256: 65b2e1c727936fb64f0d547097fdbf48df7a8dd5cbf1d8c97d3a80917c5c05ce
+SHA512: d6a8bd6e8c3591810e6e0ad0f0788318b64e359a31499dab1520e672893a6b33e75094997fe2b11e60d004f3612840e35e90828420e9ab952defb8b103a18960
+Homepage: qtwuziqi
+Description: QtWuziqi.
+

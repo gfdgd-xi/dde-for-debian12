@@ -1,0 +1,17 @@
+Package: game2048
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Installed-Size: 102
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 4.1.1)
+Filename: ./g/game2048/game2048_1.0.0_amd64.deb
+Size: 33624
+MD5sum: b20ee7be90f2c46a1ad4ad35287840b0
+SHA1: 50b792725a588d910db463323ef8713259f796ab
+SHA256: c3d268738d012d62c26b685e3f6399527b2548f6c761075e081a8c12cf2ad1a6
+SHA512: 4d13f0cdb7616799171a1c0bf7d5375bcbd5a1fdcd981ac9c25c950ecaeae3efb0877d3f5b519e5c7e79f71ae87a7b2771ff3b6d12fcc7a880ba750cec2143ab
+Homepage: game2048
+Description: game2048.
+

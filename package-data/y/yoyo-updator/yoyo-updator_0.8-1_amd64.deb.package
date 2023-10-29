@@ -1,0 +1,17 @@
+Package: yoyo-updator
+Architecture: amd64
+Version: 0.8-1
+Priority: optional
+Section: devel
+Maintainer: YoyoOS <yoyoos@foxmail.com>
+Installed-Size: 346
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 4.1.1)
+Filename: ./y/yoyo-updator/yoyo-updator_0.8-1_amd64.deb
+Size: 285468
+MD5sum: 5c0321f1b1ed72a46236f3e0b625c921
+SHA1: 7291a4517f8be0b1dffa26429711494b69d2ccbc
+SHA256: 773736ef17444d17c4ed753f9dddd732597939a102d6c0b2aff34a6f77138a70
+SHA512: 9d09cde64228e535dec9d8a658c8508934d37e34ac7aaf874caae89ce6a3f82d0179e1ebb1c697ed240d0270de5cd0af6690438fce1c8e6a69815f3f2b1f9285
+Homepage: https://yoyoos.com
+Description: YoyoOS Updator.
+

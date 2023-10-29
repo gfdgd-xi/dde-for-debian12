@@ -1,0 +1,18 @@
+Package: openqtmovie
+Architecture: amd64
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 281
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 4.1.1)
+Recommends: libqt5libqgtk2, kimageformat-plugins
+Filename: ./o/openqtmovie/openqtmovie_1.0.0-1_amd64.deb
+Size: 161652
+MD5sum: 606f8dd73f6be6c2482d19989890e29b
+SHA1: 0435f0d3c11dd9ef20a49b6b5c0d71ab1d29076f
+SHA256: dcd40d6036b001832950739968ce00ff1f937f9ed1a6d21a2ea61cdb78285740
+SHA512: 947575ab4b15c2a3e29d1031f829a602dd72442e513a0ac9b73d2cb4b955518dc83e4498a961e8086906538f8faf338e5863b0cda00e073c2d8abdca7fe14369
+Homepage: http://www.deepin.org
+Description: openqtmovie.
+

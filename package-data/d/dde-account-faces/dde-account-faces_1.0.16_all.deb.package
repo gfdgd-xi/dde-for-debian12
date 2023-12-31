@@ -1,0 +1,19 @@
+Package: dde-account-faces
+Architecture: all
+Version: 1.0.16
+Priority: optional
+Section: deepin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 1689
+Depends: accountsservice
+Conflicts: deepin-system-settings-module-account
+Filename: ./d/dde-account-faces/dde-account-faces_1.0.16_all.deb
+Size: 1653984
+MD5sum: 09e56afafb1df6aeecb8950194faed41
+SHA1: 8271f22fbbca3e1b9f2d72329441e3c89e4ee282
+SHA256: 501ab4ec2f394ddafe21d0acc556a5048ba36cd0baaff3603ca738279cee10b1
+SHA512: 4f5f43d9ecdbd733f1c2162d4460fd3598553c30638c8c58253eaeb92ae95f27fd91946ddd2d206d23227b0f6144a34d751c1b2178aa2081bf048eb3a6e77ef9
+Description: When users are ready to set their own account avatars,
+ Deepin Account avatars provide many beautiful avatars for users to choose from.
+ It is part of Deepin software and DDE (Deepin Desktop Environment).
+

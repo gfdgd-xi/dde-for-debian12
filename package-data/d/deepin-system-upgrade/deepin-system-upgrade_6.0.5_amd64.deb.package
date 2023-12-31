@@ -1,0 +1,18 @@
+Package: deepin-system-upgrade
+Architecture: amd64
+Version: 6.0.5
+Priority: optional
+Section: utils
+Maintainer: LinuxDeepin <linuxdeepin@deepin.org>
+Installed-Size: 6151
+Depends: deepin-upgrade-manager, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.70.0), libgtk-3-0 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5), plymouth-label, fuseiso, dpkg-repack, squashfs-tools
+Filename: ./d/deepin-system-upgrade/deepin-system-upgrade_6.0.5_amd64.deb
+Size: 2262056
+MD5sum: f74df3ea2c81c5d84f4ef1615bfba75d
+SHA1: 22225bf51deaf8a8958a0df8285b6059bc25b914
+SHA256: 2a4e232b6a52b80c6b68de4da9a03456535222cd1efac72eb33bb0afdd7259c0
+SHA512: fa222b5828dfca75bef85816ccf0a85309fa00786fe822ac862f5a26be05604e6728345974b0f0ab3a1dc2a74837ad5e19e8e75ba144ac66c1f21c015e86084a
+Homepage: http://www.deepin.org
+Description: system upgrade tool
+ deepin system upgrade tool in Linux
+

@@ -1,0 +1,19 @@
+Package: dde-file-manager-server-plugins
+Architecture: amd64
+Version: 6.0.37
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 477
+Depends: libc6 (>= 2.14), libdde-file-manager, libdfm-io, libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libsecret-1-0 (>= 0.7), libstdc++6 (>= 5.2)
+Filename: ./d/dde-file-manager-server-plugins/dde-file-manager-server-plugins_6.0.37_amd64.deb
+Size: 111952
+MD5sum: 20d2c876ffb5814c58eeffc947c3ddf3
+SHA1: 02babea0136b8111d0027b6194f267b12695aba3
+SHA256: 82be232b026bc678e85b0d00809b7872874bbca4c72824026095abc10dca35e7
+SHA512: cf44390571f2130132054b81bbf5a8be8a21862f7bed35f368faeb4cb0cd2a26f805868b620e69fb2b38d70d6956eac049e6111c7204fed94fe8f3a6ff872b51
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - server edge plugins module
+ Deepin Desktop Environment (DDE) - server edge plugins module.
+

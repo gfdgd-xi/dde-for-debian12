@@ -1,0 +1,19 @@
+Package: dcc-deepinid-plugin
+Architecture: amd64
+Version: 2.0.4
+Priority: optional
+Section: lib
+Source: deepin-deepinid-plugin
+Maintainer: duanhongyu <duanhongyu@uniontech.com>
+Installed-Size: 23499
+Depends: libc6 (>= 2.32), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libssl3 (>= 3.0.0), libstdc++6 (>= 5.2)
+Filename: ./d/dcc-deepinid-plugin/dcc-deepinid-plugin_2.0.4_amd64.deb
+Size: 6079716
+MD5sum: d9007c78f1029dd10844ca486e4736d2
+SHA1: 67b2b98119364831688249a5b87b5b900619ca89
+SHA256: ec3318a6f4ae0cb17de3f0702e31657689a52f8bbb39dafdfc225aeddca6cac2
+SHA512: ce3b4ee0c7e020e2be071b3d6b227160a06e39efcba1089562647376c82df7c9f64a15550896c911568a406bca5a25a05a815454140ae6afaa377d5b6df2d795
+Homepage: https://gerrit.uniontech.com/admin/repos/deepin-deepinid-plugin
+Description: the plugin of deepinid for dde control center
+ deepin-deepinid-plugin module
+

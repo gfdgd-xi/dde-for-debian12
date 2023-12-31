@@ -10,11 +10,11 @@ Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc+
 Conflicts: org.deepin.downloader (<= 5.3.15)
 Replaces: org.deepin.downloader (<= 5.3.15)
 Filename: ./l/libdlmlog/libdlmlog_5.3.70_amd64.deb
-Size: 19340
-MD5sum: 56a664ab79ba0c1b4b621faa5e3c90bc
-SHA1: 80c8b131e9b7bff8ab7e462b19d5a80a0c487d26
-SHA256: ccc698f7cce3e26a7b2b9b4320d507489805fe84553fd35fe2be0214951859fa
-SHA512: e6754922e31fe5bbe4208d1a5ec40793808671a8be62917d405b7cc7379c089847edeb6beef4442e49889c947afdb8d1dd2feda08e6441f4508382a941497ebc
+Size: 19328
+MD5sum: 24035d633ee3df25bb66bb3a4c8f4b73
+SHA1: b285c5703c19bdec51fe2e5f7d0408f0105b04bb
+SHA256: 8208a04155833d0df3aeefb1c1875e13f47da1927fc6ae82f4a9ee4a237d4850
+SHA512: 24953e543288f1955956e144f895e2213aa5720af1952e7c590eab1a8f508815a91dc5584f646ec81eba1f30e02164e5702bd8ad394bbf8ebc36fcd001c628f4
 Homepage: https://www.deepin.org/
 Description: download manager dlmlog lib.
  downloader for deepin desktop environment.

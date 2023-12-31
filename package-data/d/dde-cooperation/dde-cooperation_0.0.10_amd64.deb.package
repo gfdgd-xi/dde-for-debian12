@@ -7,11 +7,11 @@ Maintainer: planc <hubenchang0515@outlook.com>
 Installed-Size: 1300
 Depends: adb, qml-module-qtmultimedia (>= 5.15.2~), qml-module-qtquick-controls (>= 5.15.2~), qml-module-qtquick2 (>= 5.15.2~), init-system-helpers (>= 1.52), libavcodec59 (>= 7:5.0), libavformat59 (>= 7:5.0), libavutil57 (>= 7:5.0), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libevdev2 (>= 0.9.1), libfmt9 (>= 9.1.0+ds1), libfuse3-3 (>= 3.2.3), libgcc-s1 (>= 3.0), libprotobuf32 (>= 3.21.12), libqrcodegencpp1 (>= 1.2.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5qml5 (>= 5.1.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libswscale6 (>= 7:5.0), libuuid1 (>= 2.36), libxcb-randr0, libxcb-xfixes0, libxcb-xinput0 (>= 1.15), libxcb1
 Filename: ./d/dde-cooperation/dde-cooperation_0.0.10_amd64.deb
-Size: 330428
-MD5sum: 40eabcd107994af02933cab210b15b04
-SHA1: 0ea76ff388e4ffd35014d5339b6a059ea0682716
-SHA256: 64a4fec4c90dc4c43f1582e432b20d2d68166b9a73b81949496e90e3d62f40fc
-SHA512: 11e3f0c4f3ca0dbdc9625f9d1c6108203a677c1a2186379767fcb879fb2571d627759b86e829d5654c16ae3609e6a454a98317f4bd12a23548814ad27f941562
+Size: 329736
+MD5sum: d0e97b0b75669f6dad203e00ba098ff5
+SHA1: ce284bc9020b40d17233f57916a877c6f1795b14
+SHA256: 5942eb1e8f9861895976d4321a055a613d69995b138a64274b5eb74925c04cdf
+SHA512: 8f0eabee8ed0fd89d2904e9cb9bd436a41b6b148d29377982902edb6a093b0e5a2531bd3ddd9e951168b48cf9fc51b217f45712b03d3aa2ca45416bc21f9021e
 Homepage: https://www.deepin.org
 Description: cross-device collaboration by deepin
  dde-cooperation is a cross-device collaboration.

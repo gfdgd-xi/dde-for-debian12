@@ -8,11 +8,11 @@ Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 3695
 Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5webchannel5 (>= 5.6.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 4.1.1), libdlmaria2, libdlmcontrolui, libdlmdatabase, libdlmlog, libglib2.0-bin, dde-application-manager
 Filename: ./o/org.deepin.downloader/org.deepin.downloader_5.3.70_amd64.deb
-Size: 2941520
-MD5sum: 40e7833786e8a5b121e2158346ac3b8a
-SHA1: 89e695490efb3ab8942aab03da6fb0d22011fb21
-SHA256: 22dd203521b60916a5e70a1e1eacf2b8ae215309656fbebe50e9f09810f75733
-SHA512: dbe2eeccb53087657673532f23b86dbce87a3fa7a16d3fd7435b8b549e0f6ce427c16c8771cdb342991e0b3a678c1cc8f2ae124a2646b8b21489cd8263dffa09
+Size: 2941480
+MD5sum: faa18f95f12ae265e8ce8a47c46504b8
+SHA1: 4ceafdc3c45a1d906148632992fe11b5ae9d46ab
+SHA256: 44d6d4f9daadbfb9fa2e138d85966ba432a3b97b1b40f07fc33237f93d8bce59
+SHA512: 9dfdd1e9f2af6ddaa0c24a34899765342a9193b1a12eba82bb1052bce7368a10b30fa9ff9955915f00b7e3f16a7a3aef99b058d4a9b26b770c089464c840192e
 Homepage: https://www.deepin.org/
 Description: it's a user-friendly download manager, supporting URLs and torrent files.
  downloader for deepin desktop environment.

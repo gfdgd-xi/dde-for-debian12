@@ -1,0 +1,18 @@
+Package: deepin-prime
+Architecture: amd64
+Version: 1.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: admin
+Maintainer: nizhen <nizhen@uniontech.com>
+Installed-Size: 48
+Filename: ./d/deepin-prime/deepin-prime_1.0.1_amd64.deb
+Size: 9316
+MD5sum: d28b3bea9da9e0157fbfd6b6f6bf29f5
+SHA1: 271b1e2a9b8db92c9c9993bc36e086d1c6027df1
+SHA256: 41dfa844dbfed01101f47826fea402632dbd3a892679ab6b2ac64f177331a395
+SHA512: 44f2df9372eb8b439c23fa559212efb49651727b3bb14ebdad42a66fdf56b43158587c3588c838655c218ad8c48b2f9f746db8424217570b91bb163926e1b93c
+Description: Tools to enable NVIDIA's Prime
+ This is a tool which will enable NVIDIA's
+ Prime on MUXless systems.
+

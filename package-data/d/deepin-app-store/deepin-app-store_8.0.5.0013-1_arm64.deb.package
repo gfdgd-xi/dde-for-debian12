@@ -1,0 +1,19 @@
+Package: deepin-app-store
+Architecture: arm64
+Version: 8.0.5.0013-1
+Priority: optional
+Section: admin
+Maintainer: Zhang Tianyi <zhangtianyi@uniontech.com>
+Installed-Size: 66682
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), dconf-gsettings-backend | gsettings-backend, deepin-home-appstore-daemon (>= 8.0.5.0001), deepin-sync-daemon, deepin-deepinid-client, libqt5gui5, libqt5concurrent5, libqt5sql5, libqt5sql5-sqlite
+Conflicts: deepin-app-store-data
+Filename: ./d/deepin-app-store/deepin-app-store_8.0.5.0013-1_arm64.deb
+Size: 45668848
+MD5sum: 0205d73490c5c7cdde6826afceb08b1d
+SHA1: b136899229cfde71601f2085c39cf68ee04b0529
+SHA256: 63d0ade7df4f386f1aaf6f4199c4508fa0a8069c5099831896fdecdb5c1c8193
+SHA512: 9b1e2af5bccc75e055cbb5008b6c6cb99fc7b9359324f64880275c6e0e8b15ab42fc9cd2c04d3f19badf1d51926d6dfc2e9e95b324501a2bef04cc3bd1550657
+Homepage: https://www.deepin.com
+Description: Deepin App Store Home
+ Deepin App Store Client Home.
+

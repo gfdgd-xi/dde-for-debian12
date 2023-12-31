@@ -1,0 +1,17 @@
+Package: deepin-home
+Architecture: amd64
+Version: 1.5.3
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 5502
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkdeclarative5 (>= 5.6.17), libdtkgui5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.9.0~beta), libqt5qml5 (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libssl3 (>= 3.0.0), libstdc++6 (>= 5.2), qml-module-qtquick-dialogs, inxi
+Filename: ./d/deepin-home/deepin-home_1.5.3_amd64.deb
+Size: 1200340
+MD5sum: cb57d818afe6515b3f4b4206b21182cb
+SHA1: de456ef08f0ec1407b46859060e896e276930736
+SHA256: 88eff7b74122ec7993b7313d74767ee0145ce1e60938470ff9401f135e773795
+SHA512: a5ba3d913e93ed30b9c659f8d0b6a81180d32a963fa9ecdc0e7e712c0977d3ae78442b0e725604a612edd0f9936743072d8092fff37b6b178405ec48ed72ba8e
+Description: deepin home
+ quick login bbs, bug report.
+

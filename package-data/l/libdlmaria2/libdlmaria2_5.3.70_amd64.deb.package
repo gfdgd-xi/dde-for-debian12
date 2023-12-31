@@ -10,11 +10,11 @@ Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc+
 Conflicts: org.deepin.downloader (<= 5.3.15)
 Replaces: org.deepin.downloader (<= 5.3.15)
 Filename: ./l/libdlmaria2/libdlmaria2_5.3.70_amd64.deb
-Size: 42124
-MD5sum: bd5875d2046451edcf140ae919c1d285
-SHA1: eb8e6f8e8eba1420544a9055226f2acbd47d2f4e
-SHA256: 1676bd004a1a58d4bf450ff4d17e877f70a87c97b626c7149ebe810ad42bb51c
-SHA512: 71c95fb14184e2df5a6087d0e3286021735ddbc0ace3d81558825ca3155c51f09fe2afc829f2718e24c27df540fb69eb9d18b9e0b751389d315294219613679c
+Size: 41944
+MD5sum: dea75f15a2acf9bc8c6e9acbdcc08ac1
+SHA1: a9a59aa333fbaf4d4d60d7dcbe4f26d80afeedf6
+SHA256: 633464af69c00027058a8016712a68fd2ff0c1e0c80f6e265b9f0a56fedb944f
+SHA512: c5c83610fd1f6d66a4935d8a7c623041c597daa3e5aca2f00cdf6f91e57c95abab96b07f03f89ce8145cb6131bfdb06cb57419e6e4757005ae1cd43840ee6145
 Homepage: https://www.deepin.org/
 Description: download manager dlmaria2 lib.
  downloader for deepin desktop environment.

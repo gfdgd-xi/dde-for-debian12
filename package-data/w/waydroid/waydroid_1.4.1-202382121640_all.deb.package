@@ -1,0 +1,19 @@
+Package: waydroid
+Architecture: all
+Version: 1.4.1-202382121640
+Priority: optional
+Section: misc
+Maintainer: Erfan Abdi <erfangplus@gmail.com>, gfdgd xi<3025613752@qq.com>
+Installed-Size: 437
+Depends: python3:any, lxc, python3-gbinder, python3-gi, gir1.2-gtk-3.0, python3-dbus, dbus, policykit-1, waydroid-android-image-gapps | waydroid-android-image-vanilla, iptables
+Recommends: sway | weston, sway-launcher-icon | weston-launcher-icon
+Filename: ./w/waydroid/waydroid_1.4.1-202382121640_all.deb
+Size: 220492
+MD5sum: a5682692f96a4d5d81a6f0dca13b299b
+SHA1: 94413ec191b9a64ab9d9a34a4838367bad0947e4
+SHA256: 7130bfb6f9d139a221547548d5f4cdf3a6d8cc790403381ab0773eb2c37d8992
+SHA512: 97c1c7403056808af9dd90ad893489dc41e26df497e1d4541efd0d6b9bf50169448d3773f1b6fb8fdab2ad5aae54a2d8f1d588dc877d8083a02911db7193f43b
+Description: Android™ application support
+ waydroid allows running a separate Android™ environment
+ confined to a LXC container.
+

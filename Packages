@@ -14137,6 +14137,22 @@ Description: libjpeg-turbo JPEG runtime library
  .
  This package contains the shared runtime library.
 
+Package: libglibutil
+Architecture: amd64
+Version: 1.0.66
+Priority: optional
+Section: libs
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 81
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.37.3)
+Filename: ./l/libglibutil/libglibutil_1.0.66_amd64.deb
+Size: 24744
+MD5sum: 7755c07e13be5e2709a0d1c5b5020931
+SHA1: 72187d21949cfaf89e0db7e32e2ea948e092f317
+SHA256: 1e8a65f08b48b3490c9d7a546bd57e746b12d20dc3ff9456fa3ad5a0de3f88e2
+SHA512: d129618b99ad2e5a80de834162b47a0e0e5fc3480cdb226ea39425caaaf702870d34b928b905f65a0ea18c21ab421537cc04c17911f550c6baccdaa0f1985b8d
+Description: Library of glib utilities
+
 Package: libgio-qt
 Architecture: all
 Version: 1.0.0
@@ -17842,6 +17858,22 @@ Description: Development package for libdfm-extension
  This package contains the header files and pkgconfig
  of libdfm-extension
 
+Package: libgbinder
+Architecture: amd64
+Version: 1.1.25
+Priority: optional
+Section: libs
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 163
+Depends: libglibutil (>= 1.0.52), libc6 (>= 2.17), libglib2.0-0 (>= 2.37.3)
+Filename: ./l/libgbinder/libgbinder_1.1.25_amd64.deb
+Size: 53988
+MD5sum: 847f654c4803533daeb9673d218b5624
+SHA1: 2702a8d6813684d6fdf41fbe861ba534146a4cd3
+SHA256: ebe0bac354fe16ad06122fdd75d4952c9f7baea29fb2340af84124c1e011c591
+SHA512: 1e395f7e3e0791753c41d97ea526e79d3fd0c0a57b6e96b50fe83eded9c34bc0e2535b712e4e8144409dd1f0bc35bb2c917606223775d5222e0ca90d9168b8cf
+Description: Binder client library
+
 Package: libopencv-mobile-dev
 Architecture: amd64
 Version: 1:4.5.4+14
@@ -20322,6 +20354,24 @@ Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
 Description: Waydroid 运行器
 
 Package: spark-waydroid-runner
+Architecture: amd64
+Version: 1.2.0.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 3644
+Depends: python3,python3-pip, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pip, deepin-elf-verify (>= 1.1.10-1)
+Recommends: aapt
+Filename: ./s/spark-waydroid-runner/spark-waydroid-runner_1.2.0.1_amd64.deb
+Size: 1241398
+MD5sum: dffb1ed1fc9eb953dfab87ba3c9806df
+SHA1: 2e3d81eb21c710f7c91693f8f6cea1e1d4773cc9
+SHA256: 59fd09f44aae2670c2680befbbb30ed6822a46681addd8c64fdd276506592812
+SHA512: 5e9f15f7cbf1ed1cdc26fe42502ced6b3913199f3c64592534bf25bc8ea687eb3d31855d99c02d206a1069f758c4ecca60c9079718fcf243d2d6b1d539be28bd
+Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
+Description: Waydroid 运行器
+
+Package: spark-waydroid-runner
 Architecture: all
 Version: 1.1.0.1
 Priority: optional
@@ -20338,6 +20388,25 @@ SHA256: 29ad83a8a02f5d664d9faa47cd3e0bea632c8461bbd41116168928f796712526
 SHA512: 139653af6b7825ef618b85d8f3c52cbb2c42cbd9779bafe9e682a5fb5207db3da4d01fc29ca7d6ab191a3b415d9fe9e4a756a99cba3a4b175e673c01d83da1eb
 Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
 Description: Waydroid 运行器
+
+Package: waydroid
+Architecture: all
+Version: 1.4.1-202382121640
+Priority: optional
+Section: misc
+Maintainer: Erfan Abdi <erfangplus@gmail.com>, gfdgd xi<3025613752@qq.com>
+Installed-Size: 437
+Depends: python3:any, lxc, python3-gbinder, python3-gi, gir1.2-gtk-3.0, python3-dbus, dbus, policykit-1, waydroid-android-image-gapps | waydroid-android-image-vanilla, iptables
+Recommends: sway | weston, sway-launcher-icon | weston-launcher-icon
+Filename: ./w/waydroid/waydroid_1.4.1-202382121640_all.deb
+Size: 220492
+MD5sum: a5682692f96a4d5d81a6f0dca13b299b
+SHA1: 94413ec191b9a64ab9d9a34a4838367bad0947e4
+SHA256: 7130bfb6f9d139a221547548d5f4cdf3a6d8cc790403381ab0773eb2c37d8992
+SHA512: 97c1c7403056808af9dd90ad893489dc41e26df497e1d4541efd0d6b9bf50169448d3773f1b6fb8fdab2ad5aae54a2d8f1d588dc877d8083a02911db7193f43b
+Description: Android™ application support
+ waydroid allows running a separate Android™ environment
+ confined to a LXC container.
 
 Package: org.deepin.downloader
 Architecture: amd64

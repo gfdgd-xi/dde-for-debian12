@@ -1,0 +1,16 @@
+Package: libglibutil
+Architecture: amd64
+Version: 1.0.66
+Priority: optional
+Section: libs
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 81
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.37.3)
+Filename: ./l/libglibutil/libglibutil_1.0.66_amd64.deb
+Size: 24744
+MD5sum: 7755c07e13be5e2709a0d1c5b5020931
+SHA1: 72187d21949cfaf89e0db7e32e2ea948e092f317
+SHA256: 1e8a65f08b48b3490c9d7a546bd57e746b12d20dc3ff9456fa3ad5a0de3f88e2
+SHA512: d129618b99ad2e5a80de834162b47a0e0e5fc3480cdb226ea39425caaaf702870d34b928b905f65a0ea18c21ab421537cc04c17911f550c6baccdaa0f1985b8d
+Description: Library of glib utilities
+

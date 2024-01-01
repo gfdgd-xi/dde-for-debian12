@@ -1,0 +1,16 @@
+Package: libgbinder
+Architecture: amd64
+Version: 1.1.25
+Priority: optional
+Section: libs
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 163
+Depends: libglibutil (>= 1.0.52), libc6 (>= 2.17), libglib2.0-0 (>= 2.37.3)
+Filename: ./l/libgbinder/libgbinder_1.1.25_amd64.deb
+Size: 53988
+MD5sum: 847f654c4803533daeb9673d218b5624
+SHA1: 2702a8d6813684d6fdf41fbe861ba534146a4cd3
+SHA256: ebe0bac354fe16ad06122fdd75d4952c9f7baea29fb2340af84124c1e011c591
+SHA512: 1e395f7e3e0791753c41d97ea526e79d3fd0c0a57b6e96b50fe83eded9c34bc0e2535b712e4e8144409dd1f0bc35bb2c917606223775d5222e0ca90d9168b8cf
+Description: Binder client library
+

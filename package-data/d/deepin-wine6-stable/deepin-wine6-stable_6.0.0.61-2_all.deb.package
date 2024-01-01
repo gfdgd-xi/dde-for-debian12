@@ -1,0 +1,19 @@
+Package: deepin-wine6-stable
+Architecture: all
+Version: 6.0.0.61-2
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1282856
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: com.deepin-wine6-stable.deepin,spark-box86
+Filename: ./d/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb
+Size: 1200
+MD5sum: 253f331550cd5fdaa6d83b58e4940a33
+SHA1: da1e97075bc9d09e481bd4d69331d606196827aa
+SHA256: c433f92e4cb814bcdd035d9fc4a4822fdc1396b09efff5873ea3c66b12e5b718
+SHA512: e90a76eddd08b7acddf48f0380ca7142299e0b69a3df19f27af67293d7832e8bc5be481b12abb2f7ec6a51b3ea806ea266d4140a3f0ee41aa61aa3549c759c50
+Description: wine6
+

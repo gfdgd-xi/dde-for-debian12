@@ -1,0 +1,18 @@
+Package: deepin-fcitx5configtool-plugin
+Architecture: amd64
+Version: 5.0.18
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 795
+Depends: dde-control-center (>= 6.0.36), libc6 (>= 2.32), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfcitx5-qt1 (>= 5.0.16), libfcitx5utils2 (>= 5.0.21), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.5.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libxkbcommon0 (>= 0.5.0), fcitx5-module-xorg
+Filename: ./d/deepin-fcitx5configtool-plugin/deepin-fcitx5configtool-plugin_5.0.18_amd64.deb
+Size: 181824
+MD5sum: b5b281a5928a540af696a3e14b451f3c
+SHA1: d173c0d92269737ee6551310370650e43d589033
+SHA256: 1a039b878407c297ccda96a2537324a908c42864fa62ccd8d4d9c56139018e31
+SHA512: 3cd8f9b17f41752e76bad1d86abdfae85dfd7b264f481193acbe80e7987f0e9a0d2e40a5ea8f45966660e1e4be20aa821e3d1b73cc162573cc719b54bc743807
+Homepage: https://www.deepin.org/
+Description: New Fcitx Configtool for Deepin Desktop Environment - development files
+ Deepin Fcitxconfigtool Plugin is DDE Control Center plugin for Config Fcitx.
+

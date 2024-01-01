@@ -7,11 +7,11 @@ Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Installed-Size: 291
 Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libudisks2-qt5-0 (>= 5.0.6), libx11-6
 Filename: ./d/dde-device-formatter/dde-device-formatter_0.0.1.15_arm64.deb
-Size: 53648
-MD5sum: 819e6fc096bf993f041fbc814b0bde50
-SHA1: 58e5113892b62b9309315918156d4c9cc4c94517
-SHA256: c42676b43552ce9e8cfc858d5c7555b8a90474562eb5b4c335cec254f3aad725
-SHA512: 72d0f1a17ecbb6928b0506d175653b38bd17960b9e69f556288e70c6e0e6d70fa887ead740f19711029f6673b10f74b1089b71d78a5711a785031b23a58af9de
+Size: 53608
+MD5sum: 777ab36b287987c4c674d94cfec955ac
+SHA1: 39921d4e4f5b1fa6efddb0533a23dff23c2e2ecc
+SHA256: c2bf70cdd5fed5c935420a6a727291b41a28ec153867640dc5cbd3d0f418d000
+SHA512: 67ce891e5c36825f28279fa00f05b797ac9546e95c31f690e80d98f8e44a381a4e00fd5549b383c20adf205b4938970d4ab191ee8d3e6e5c166679b4299228f3
 Homepage: http://www.deepin.org
 Description: Device formatter
  A simple graphical interface for creating file system in a block device.

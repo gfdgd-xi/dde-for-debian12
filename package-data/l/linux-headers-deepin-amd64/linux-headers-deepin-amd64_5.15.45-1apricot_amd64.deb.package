@@ -1,0 +1,20 @@
+Package: linux-headers-deepin-amd64
+Architecture: amd64
+Version: 5.15.45-1apricot
+Priority: standard
+Section: metapackages
+Source: linux-deepin-latest
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: linux-headers-5.15.45-amd64-desktop
+Filename: ./l/linux-headers-deepin-amd64/linux-headers-deepin-amd64_5.15.45-1apricot_amd64.deb
+Size: 2400
+MD5sum: 1b90b590b33fb15296d280e9e8087cc7
+SHA1: a5d549e5ccc555d76bede991eaee124508ae71fc
+SHA256: 2ff661d1119eded78abb34306cf14e2f9d24fed90b7ec196b833d6248ea7d944
+SHA512: d913ccb89081a76007d4d19a85dcc8aae96da6caabc6af5d0b00d0ff16be857bb59a5c0085bcb64fcb142fd764a3990abd7702a3906003919c96746a7f8fcc10
+Homepage: http://www.deepin.com
+Description: Header files for Linux amd64 configuration (meta-package)
+ This package depends on the architecture-specific header files for the
+ latest Linux kernel amd64 configuration.
+

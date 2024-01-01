@@ -1,0 +1,30 @@
+Package: libunique-doc
+Architecture: all
+Version: 1.1.6-6+u001
+Priority: optional
+Section: doc
+Source: libunique
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 183
+Recommends: libunique-1.0-0
+Suggests: devhelp
+Filename: ./l/libunique-doc/libunique-doc_1.1.6-6+u001_all.deb
+Size: 40976
+MD5sum: 75b67cbfd07a223fc16d0b099133fb8f
+SHA1: 383ca2a0d1878a1c2a7d8328ccc0e25d32666cca
+SHA256: 99dbb3e7bd1ceaf3a09170195a31142c2332de45f72ce3452a945b574152b998
+SHA512: 45ab1d82d4ff5ef171f82343d57a96fb8470bba03f3ad1ab8687f3bc1dbc984fc955da060f9e2413bf305de3e7177be5e4fbedd0628472ae1405a5303c74131d
+Homepage: https://wiki.gnome.org/Attic/LibUnique
+Description: Library for writing single instance applications - documentation
+ Unique is a library for writing single instance application.
+ If you launch a single instance application twice, the second
+ instance will either just quit or will send a message to the
+ running instance.
+ .
+ Unique makes it easy to write this kind of applications, by
+ providing a base class, taking care of all the IPC machinery
+ needed to send messages to a running instance, and also handling
+ the startup notification side.
+ .
+ This package contains the HTML documentation for the Unique library
+

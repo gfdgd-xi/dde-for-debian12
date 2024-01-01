@@ -1,0 +1,23 @@
+Package: libldap-2.4-2
+Architecture: arm64
+Version: 2.4.47+dfsg.5-1+deepin
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: openldap
+Maintainer: Debian OpenLDAP Maintainers <pkg-openldap-devel@lists.alioth.debian.org>
+Installed-Size: 521
+Depends: libc6 (>= 2.28), libgnutls30 (>= 3.6.6), libsasl2-2 (>= 2.1.27.1), libldap-common
+Conflicts: ldap-utils (<= 2.1.23-1)
+Replaces: libldap-2.3-0, libldap2
+Filename: ./l/libldap-2.4-2/libldap-2.4-2_2.4.47_plus_dfsg.5-1_plus_deepin_arm64.deb
+Size: 216552
+MD5sum: 6288f3bf155f0e435784f60bc7bccf69
+SHA1: cab268cf4ca026e4a581546ca04eb433f6cb5ec1
+SHA256: 30f9b44e922a2f815aa66e0a7ff3fabb94fea7ec35742e5ea1ac755ad332f95b
+SHA512: bff8e0ed384ab2f9f62f5dca5886a0ccd54d6ceba0174ddcd52e2a02aa7735623fcba8950f2d472ac6b1c08273267c606f7d2a5cabb9056e42ccd467778543ac
+Homepage: http://www.openldap.org/
+Description: OpenLDAP libraries
+ These are the run-time libraries for the OpenLDAP (Lightweight Directory
+ Access Protocol) servers and clients.
+

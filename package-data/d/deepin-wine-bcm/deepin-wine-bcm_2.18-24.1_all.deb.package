@@ -1,0 +1,20 @@
+Package: deepin-wine-bcm
+Architecture: all
+Version:  2.18-24.1
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 10
+Provides: deepin-wine(=2.18-24)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: deepin-wine
+Replaces: deepin-wine
+Filename: ./d/deepin-wine-bcm/deepin-wine-bcm_2.18-24.1_all.deb
+Size: 1708
+MD5sum: 124212b675d628590815e34b216dcede
+SHA1: 89775f22602e5235cf08d7024810b3e4586cffed
+SHA256: 8cf10a78a2badd14513f862b3459aa12852e5396ca3f69e5bd00ae9316ef8c34
+SHA512: ec6f09224cb4ae64c3e6ac4cf3bcca0dcb79f04518ddc804c41265b7bf1de0784fe98b3931e3e9891075a309a6c9ed3b9e06f43a8c65614623c97c5012286034
+Homepage: https://shenmo7192.gitee.io/
+Description: deepin-wine bcm test package
+

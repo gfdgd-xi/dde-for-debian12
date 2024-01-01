@@ -1,0 +1,19 @@
+Package: deepin-exagear-tool
+Architecture: arm64
+Version: 5.2.29-1
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Source: deepin-wine-helper
+Maintainer: Cui Jiajin <cuijiajin@uniontech.com>
+Installed-Size: 31
+Depends: exagear-utils (>= 2870), exagear-integration (>= 2870), exagear-core-x64a64 (>= 2870.1), exagear-core-x32a64 (>= 2870.1), deepin-wine-runtime (>= 0.1.6), deepin-elf-verify (>= 1.1.10-1)
+Filename: ./d/deepin-exagear-tool/deepin-exagear-tool_5.2.29-1_arm64.deb
+Size: 23976
+MD5sum: 9c56c46d2cc56edb1d71ffe37a63814b
+SHA1: 07f01ec83a553badff73abb76293c6fdba857a83
+SHA256: 4a73b16cc87254a1cfb3d61a56c215a9afa930c5f0fb94ac986baaae0c5d2cf8
+SHA512: 7a004d770e8720a366903a9fd78683fdf2c282c35a05f8baa2afaa4041499a33092627f7e2a2acfa16fe49a2a5d8edafb0bc8d027e74ec09a5bc29034c55ffae
+Homepage: http://www.linuxdeepin.com/
+Description: Deepin Wine exagear tools
+

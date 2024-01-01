@@ -1,0 +1,19 @@
+Package: dde-file-manager-plugins
+Architecture: arm64
+Version: 6.0.37
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 4228
+Depends: libc6 (>= 2.34), libdde-file-manager, libdfm-io, libdfm-mount, libdocparser, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.39.4), liblucene++-contrib0v5 (>= 3.0.8), liblucene++0v5 (>= 3.0.8), libpcre3, libpolkit-qt5-1-1 (>= 0.112.0), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.3.0), libsecret-1-0 (>= 0.7), libssl3 (>= 3.0.0), libstdc++6 (>= 6), cryfs
+Filename: ./d/dde-file-manager-plugins/dde-file-manager-plugins_6.0.37_arm64.deb
+Size: 854748
+MD5sum: a6358397df1c3bb037a050f53d503ece
+SHA1: 21ed99519aa09d9e9e8d18d995177a31fd3de984
+SHA256: 21f7919c8d83c5833aa532aa193abd48a3149dae891cde52f92eb7803db63406
+SHA512: 8a97a9dbe36ffec7786e4c3e994df5d0f85b1694e00db5e10e70098ff901a9b857bdd91b781905943fbe28324ab982be4c95a0cdec91cff3194726c9660496fc
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - filemanager edge plugins module
+ Deepin Desktop Environment (DDE) - filemanager edge plugins module.
+

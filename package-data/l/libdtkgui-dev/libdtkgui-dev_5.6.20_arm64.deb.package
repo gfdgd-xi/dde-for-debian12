@@ -1,0 +1,20 @@
+Package: libdtkgui-dev
+Architecture: arm64
+Version: 5.6.20
+Priority: optional
+Section: libdevel
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 133
+Depends: libdtkgui5 (= 5.6.20), libdtkcommon-dev (>= 5.6.16)
+Filename: ./l/libdtkgui-dev/libdtkgui-dev_5.6.20_arm64.deb
+Size: 21060
+MD5sum: d09d6513e20796016eab1fae5f5a1b22
+SHA1: 00776a7cdec202581c598e4e910a9108bca2bc78
+SHA256: 8fce65535b0f25ead45c5b1e615587110e8224f6f144b95d372bcce14327b806
+SHA512: 1d1b1f05dfc06b5cb78620f29a6f173ee03a12121abf259979b3ba9a271b8347d05a99d65ffc415e7af4aaf8a5ad6700a5d0c0f980a0f9f3f059e019b7aa991d
+Description: Deepin Tool Kit Gui Devel library
+ DtkGui is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries of DtkGui
+

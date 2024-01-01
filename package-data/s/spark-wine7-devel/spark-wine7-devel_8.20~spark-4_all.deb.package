@@ -1,0 +1,22 @@
+Package: spark-wine7-devel
+Architecture: all
+Version: 8.20~spark-4
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 24
+Provides: spark-winehq7-devel (= 8.20~spark-4), spark-winehq7-devel:i386 (= 8.20~spark-4), spark-winehq7-devel:amd64 (= 8.20~spark-4), spark-winehq7-devel:arm64 (= 8.20~spark-4)
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: spark-wine8 (>= 8.13~spark-3.2) | spark-wine8-bcm | spark-wine8-dcm, bash
+Conflicts: spark-winehq7-devel (<< 8.13~spark-3.2)
+Replaces: spark-winehq7-devel (<< 8.20~spark-4)
+Filename: ./s/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb
+Size: 1124
+MD5sum: 26fc1ee9d2135c1bf2c5903fcda3abe8
+SHA1: 843e0fdf1205736e019a3751e71af671e261f954
+SHA256: e9c4053b7324f001512eae64e1538f84a512becf9f9378118af023724d1ede5c
+SHA512: 84b2cdb7f18c5be660a83ad1cd70b01dfcf99fd84fe2463be93f213195d875b229d49c4b65db1c9b8ab2fd94a6e02801cf58a334849ee654dd8fa0443d090d99
+Description: wine7 is wine8
+

@@ -1,0 +1,20 @@
+Package: linux-headers-deepin-stable-amd64
+Architecture: amd64
+Version: 5.15.1-2
+Priority: extra
+Section: metapackages
+Source: linux-deepin-stable
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: linux-headers-5.15.1-amd64-desktop
+Filename: ./l/linux-headers-deepin-stable-amd64/linux-headers-deepin-stable-amd64_5.15.1-2_amd64.deb
+Size: 2140
+MD5sum: 6a443a751486f6a1ac799765f537e926
+SHA1: 68e36a8227c0aa81d6cc089589811facc6c4e635
+SHA256: 2de03a41e7654335db27b53a8b11e7a9cf67b33549fd2d34a8d1eed3021ada51
+SHA512: fd69968ae4a9beda7163c0990f03141749be0d93181838afe12e867f09ed48e40a785d331642143065ea2f32d70f6c17b78e8e845724682ab764ece55c241cfe
+Homepage: http://www.deepin.com
+Description: Header files for Linux amd64 configuration (meta-package)
+ This package depends on the architecture-specific header files for the
+ latest Linux kernel amd64 configuration.
+

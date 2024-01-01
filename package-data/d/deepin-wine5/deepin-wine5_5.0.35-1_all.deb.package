@@ -1,0 +1,27 @@
+Package: deepin-wine5
+Architecture: all
+Version: 5.0.35-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Maintainer: Wei Xie <xiewei@uniontech.com>, Zhipeng Zhao <zhaozhipeng@uniontech.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 5649
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-wine5-stable:amd64, deepin-wine5-stable-amd64:amd64, deepin-wine5-stable-i386:i386
+Conflicts: deepin-wine5i386 (<< 5.0.34-1), deepin-wine5-i386:i386 (<< 5.0.34-1)
+Replaces: deepin-wine5:i386 (<< 5.0.34-1)
+Filename: ./d/deepin-wine5/deepin-wine5_5.0.35-1_all.deb
+Size: 1292
+MD5sum: a6ba50960106a96730c2ca40c6cd642a
+SHA1: 09263a4f029ae008a5e7e9df0bdaef12c02df7d2
+SHA256: d9aaa376cfec5eadea23cde3081ef681fbb7604f679007768f8cbbb5de801c4c
+SHA512: c0db0248494d2b86320b0882849a417dbd0f3e2c903766e184fd0e68cd5b8cf416091f10bacbd5a5f5cfc03b2a5aec70ea287a1413ac4d974edc74b5ef3d3829
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+

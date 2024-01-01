@@ -1,0 +1,22 @@
+Package: libtiff5
+Architecture: amd64
+Version: 4.1.0+git191117-2~deb10u8
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: tiff
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 646
+Depends: libc6 (>= 2.14), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblzma5 (>= 5.1.1alpha+20120614), libwebp6 (>= 0.5.1), libzstd1 (>= 1.3.2), zlib1g (>= 1:1.1.4)
+Filename: ./l/libtiff5/libtiff5_4.1.0_plus_git191117-2~deb10u8_amd64.deb
+Size: 273164
+MD5sum: dd249dc9994c387f3005871f9c27811b
+SHA1: c72cef78ad8c5e65176519eac48696d21b46dcdf
+SHA256: 22fd173e4b641efebcc740487aaa745e79cca354e97b6279f4c79a581aaebc67
+SHA512: 43eabdecff1572e810a83f55d6387da13f4617a6c626f267bdc214c82dd57d290d85b061f4bf9839a947ae6e11b1a06e55de35632f67b7cdd940f15566ee611c
+Homepage: https://libtiff.gitlab.io/libtiff/
+Description: Tag Image File Format (TIFF) library
+ libtiff is a library providing support for the Tag Image File Format
+ (TIFF), a widely used format for storing image data.  This package
+ includes the shared library.
+

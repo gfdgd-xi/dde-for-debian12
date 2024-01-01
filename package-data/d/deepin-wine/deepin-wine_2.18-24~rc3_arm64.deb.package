@@ -1,0 +1,22 @@
+Package: deepin-wine
+Architecture: arm64
+Version: 2.18-24~rc3
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Maintainer: Debian Wine Party <pkg-wine-party@lists.alioth.debian.org>
+Installed-Size: 132
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper, spark-box86 | box86, spark-box64 | box64, gir1.2-gtk-3.0, gir1.2-gnomedesktop-3.0, gir1.2-webkit2-4.0, gir1.2-notify-0.7, psmisc, cabextract, x11-xserver-utils, gvfs-backends, com.deepin-wine-runtime.deepin, libgl1-mesa-dri, mesa-vulkan-drivers, libvulkan1, vulkan-utils | vulkan-tools, mesa-utils, libgnutls30, deepin-emu-tool,libncurses5
+Filename: ./d/deepin-wine/deepin-wine_2.18-24~rc3_arm64.deb
+Size: 42539308
+MD5sum: d75a0d6e3294b307c0657a4292f3900b
+SHA1: 3ed26550afad54e5b59a327e0cf7f58a559561e7
+SHA256: 6370a3273fc20b2a07aac1f8cb2f6084d07e6769630a4c6815198d2b678d93d0
+SHA512: 5482eee74edd1f7ed2f051ea657ab2386c44441abe7566cc9f4d812ea4d99531cd62818270f986f686c4e5399f51cb241c934b20d31b3623c048d2aca3edd6ed
+Homepage: http://www.winehq.org/
+Description: Windows API implementation - standard suite
+ Wine is a free MS-Windows API implementation.
+ This is still a work in progress and many applications may still not work.
+ .
+ This package provides convenience tools for the standard Wine components.
+

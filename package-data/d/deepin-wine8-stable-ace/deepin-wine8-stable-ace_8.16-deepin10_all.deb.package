@@ -1,0 +1,20 @@
+Package: deepin-wine8-stable-ace
+Architecture: all
+Version: 8.16-deepin10
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 36
+Provides: deepin-wine8-stable(=8.16-deepin10)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: deepin-wine8-stable
+Replaces: deepin-wine8-stable
+Filename: ./d/deepin-wine8-stable-ace/deepin-wine8-stable-ace_8.16-deepin10_all.deb
+Size: 1848
+MD5sum: d832af59226706327d6771d11c3a5b76
+SHA1: ea15d7d17db2d29323131d2d553f27f3d3c0b8ce
+SHA256: 427837925e64eac35a0f32e16c1c2e7d32bd07d81a373dbb65d2b7a207177c57
+SHA512: 69e2c2ba67d8902a8e4dce17b4ada31aeb4afb5d6c7d80dfd0b9ca78a0af674b4313546e18fd2e921b068305fa2236199ca88be26bb2b06d71ed68197550e968
+Homepage: https://shenmo7192.gitee.io/
+Description: deepin-wine8-stable ACE
+

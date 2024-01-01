@@ -1,0 +1,19 @@
+Package: linux-image-5.10.0-amd64-desktop
+Architecture: amd64
+Version: 23.00.00.04-alpha
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-amd64-desktop
+Maintainer: uos <uos@x86-compile-PC>
+Installed-Size: 308419
+Filename: ./l/linux-image-5.10.0-amd64-desktop/linux-image-5.10.0-amd64-desktop_23.00.00.04-alpha_amd64.deb
+Size: 68255368
+MD5sum: b959182d935a2082fc5604c05d906c1e
+SHA1: 25614786dad30827cb94ee3c98f0f05252d86b8b
+SHA256: 3e7e111762c91847b1ebfa7fb99380fd658088599e02b6e5cf94852895fe2983
+SHA512: 966b6cf1227ce2bde737ce12367de83ce701bd4ec4bf5b0f971e4851ba9911947eb2a6c53d9b44eb7eec2a8870143383da5e99df71fa09843527db5524679076
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.0-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.0-amd64-desktop.
+

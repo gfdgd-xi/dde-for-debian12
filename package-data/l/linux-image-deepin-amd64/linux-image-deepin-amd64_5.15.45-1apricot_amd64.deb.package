@@ -1,0 +1,23 @@
+Package: linux-image-deepin-amd64
+Architecture: amd64
+Version: 5.15.45-1apricot
+Priority: standard
+Section: metapackages
+Source: linux-deepin-latest
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: linux-image-5.15.45-amd64-desktop
+Filename: ./l/linux-image-deepin-amd64/linux-image-deepin-amd64_5.15.45-1apricot_amd64.deb
+Size: 2500
+MD5sum: 18e1be3809a84ec78f56b7c371f5ce3f
+SHA1: a5ca24843e95972dfa35a8d53b05b9a869a24430
+SHA256: e1709a47c8522d869674095268cbdd37efd4951ed53492220e8e3b3d4eb0d627
+SHA512: 79aad800abaca0593a4cba8cc28e51ab085745bd1bb8ea4480ae91a29f1e9d57f751b15e3889b03af4b79216e8f2a06e7a0e3f85b9b274cd2f66e8689b2b5ba9
+Homepage: http://www.deepin.com
+Description: Linux for 64-bit PCs (meta-package)
+ This package depends on the latest Linux kernel and modules for use on PCs
+ with AMD64, Intel 64 or VIA Nano processors.
+ .
+ This kernel also runs on a Xen hypervisor.  It supports both privileged
+ (dom0) and unprivileged (domU) operation.
+

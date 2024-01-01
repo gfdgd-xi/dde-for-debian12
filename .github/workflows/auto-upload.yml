@@ -12,6 +12,7 @@ jobs:
           SOURCEFORGEGUESS: ${{ secrets.SOURCEFORGEGUESS }}
           SOURCEFORGEPASSWORD: ${{ secrets.SOURCEFORGEPASSWORD }}
         run: |
+          exit
           # 配置环境
           sudo apt update
           sudo apt install git rsync sshpass -y

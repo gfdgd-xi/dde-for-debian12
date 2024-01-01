@@ -10,11 +10,11 @@ Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.5.0), libqt5sql
 Conflicts: org.deepin.downloader (<= 5.3.15)
 Replaces: org.deepin.downloader (<= 5.3.15)
 Filename: ./l/libdlmdatabase/libdlmdatabase_5.3.70_arm64.deb
-Size: 29592
-MD5sum: fddf3dfa9d0a3e2fc83bbeea6df9b6d9
-SHA1: 1fbf1f8064d41cb047ba8fb147cc3fe582fec6f7
-SHA256: 2c50876047d7258e9f503d55c03a3240dcaf8f59dcb261595e6ff443a18da4ca
-SHA512: ffef8d747f7aa9c488d17e70b45bd00fc01bd9203fc56a9d356749b2a861c6b49099ce34bf1c1f0af58d2e8a56cafcaa21fad18d66f89b4f72a1795d0d933a56
+Size: 29588
+MD5sum: 00b22a1359c66af9a77f69f571d025d2
+SHA1: d8b56a473cbd14bbffa3e29d5334dcd01c98629f
+SHA256: ed669c5bd3d8e9c82224ff2338885f05600270677a9f6ff47760c08bcb726c6b
+SHA512: 34262f5c57a0ce5ec0ae2391467037860d8ad36017d9ee6c1f1cce921330b1cc522af33b9c94169c16811cf9416bd429c667e296cf4cbe337b9de01d9cbd7d6c
 Homepage: https://www.deepin.org/
 Description: download manager dlmdatabase lib.
  downloader for deepin desktop environment.

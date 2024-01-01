@@ -1,0 +1,19 @@
+Package: dde-desktop-plugins
+Architecture: arm64
+Version: 6.0.37
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 2606
+Depends: libc6 (>= 2.34), libdde-file-manager, libdfm-io, libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libxcb1
+Filename: ./d/dde-desktop-plugins/dde-desktop-plugins_6.0.37_arm64.deb
+Size: 566108
+MD5sum: c9eee646d6778c069739cd20e06c60eb
+SHA1: b4b01a79df8c48288b6e4eb3d63e6ed8957f3b6a
+SHA256: 55ee5c4ff65980c9d20838f28b7add4545e0de028c02cb735dc925a7c13f2e3d
+SHA512: 211825d2067527abe6419349d2d55c7dfa7b9f79764c2b6397c2df5080fbb3ef475c9e30eb524a6020eb7b4bed3bcd50ad1585ae935f5bacaec123e0542ba31f
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop edge plugins module
+ Deepin Desktop Environment (DDE) - desktop edge plugins module.
+

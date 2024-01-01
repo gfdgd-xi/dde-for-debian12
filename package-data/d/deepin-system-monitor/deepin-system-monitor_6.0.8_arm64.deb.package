@@ -9,11 +9,11 @@ Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidge
 Recommends: uos-reporter, deepin-event-log
 Replaces: deepin-system-monitor-plugin
 Filename: ./d/deepin-system-monitor/deepin-system-monitor_6.0.8_arm64.deb
-Size: 10899488
-MD5sum: 3632911e3e2066972b4de652a62ea186
-SHA1: 23420cbf70306e3e95d03b744d10085a350acc75
-SHA256: f94829841eca93fcc959428e6ee6f99a32745a0b2bfb53a0db6654bdd23478c6
-SHA512: f7d0bc7590cbaae7ace13aad0d12402cd090ed75f02d7efc2ee4682b7a618504377e9337381191946f5059514aacd09059c64bb59e3f0a834416f9a3a584e663
+Size: 10900000
+MD5sum: 7fcfe7e3c639aa3c6dbbfe58d7b833a1
+SHA1: 48fbfbba4f9350bce0796834eea9ebee202f9886
+SHA256: e738f80d2721141c52d5a78c4f83a19edb35b3e87da3d546202330ffac628902
+SHA512: f105c58e1774d08be5cd7d64ab0f1867bd0c57d2517c12900b369395c5c58f6e3ce4160daffeba5c03e97fd17e28184fbf4ffa6993f25bb30beaf999625c7dc8
 Homepage: https://github.com/linuxdeepin/deepin-system-monitor
 Description: A system monitor tool.
  System Monitor is a system tool monitoring and managing hardware load, program running and system services. It's capable to real-time monitor CPU status, memory footprint, and upload/download speed, manage system and application processes, search and force end processes as well.

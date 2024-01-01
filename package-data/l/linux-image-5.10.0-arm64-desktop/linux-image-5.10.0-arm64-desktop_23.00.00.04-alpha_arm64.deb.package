@@ -1,0 +1,19 @@
+Package: linux-image-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.04-alpha
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: uosserver <uosserver@uosserver-PC>
+Installed-Size: 217598
+Filename: ./l/linux-image-5.10.0-arm64-desktop/linux-image-5.10.0-arm64-desktop_23.00.00.04-alpha_arm64.deb
+Size: 45646128
+MD5sum: 829906b70fd8f413c4c392fc7fc2d449
+SHA1: b865d680ea81b58978acdc9221e878822a11d4d8
+SHA256: d93627cc608b62f3eab4b69f90e59b344910f24ed9ec1e78767eb49f62cda724
+SHA512: 27df8382b0970857a8e8c41b1cf3579ac756c64065055f9093ba8de7ffad3da50ab759333433d03ce165ee82c036701c0d4b21a560042f8b32b31faa87851de9
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.0-arm64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.0-arm64-desktop.
+

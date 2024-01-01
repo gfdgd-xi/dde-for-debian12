@@ -1,0 +1,26 @@
+Package: dde-session-shell
+Architecture: arm64
+Version: 6.0.14
+Priority: optional
+Section: devel
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 6629
+Provides: lightdm-greeter
+Depends: libc6 (>= 2.34), libdeepin-pw-check, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), liblightdm-qt5-3-0 (>= 1.18.3), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.2.99.901), libxcb1, libxcursor1 (>> 1.1.2), libxfixes3, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxtst6, dconf-gsettings-backend | gsettings-backend, deepin-desktop-schemas (>= 5.9.14), dde-daemon (>= 5.13.12), startdde (>= 5.8.9), x11-xserver-utils, deepin-authenticate (>= 1.2.27), libssl3, libxcb-util0 | libxcb-util1, xsettingsd
+Recommends: onboard, dss-network-plugin, dde-network-dialog
+Conflicts: dde-preload, dde-session-ui (<< 5.0.0), dde-workspace, deepin-notifications
+Breaks: dde-workspace
+Replaces: deepin-notifications
+Filename: ./d/dde-session-shell/dde-session-shell_6.0.14_arm64.deb
+Size: 1018440
+MD5sum: b01be085338ead1de7f2684f959df3be
+SHA1: b70432c38fcb648401cd11339d7f9cdbe43520bf
+SHA256: 0733a79fa33a5e3b34efcdfc658fb7b73bfc771b7a4d1ea6ee216a16d133a6fd
+SHA512: ad86482e1b008f0f0435b32a1e85003582a9dfdf2e6e931646199b886d2e9e167b9ab364ff57f1125b412adfbf0d083cd7818d186493a2766ec4040a1e8240f4
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-session-shell module
+ Deepin desktop environment 2015 - dde-session-shell module.
+ lightdm-deepin-greeter - login，the entry to the desktop
+ dde-lock - lock screen, to protect privacy
+ deepin-greeter - actual call the lightdm-deepin-greeter
+

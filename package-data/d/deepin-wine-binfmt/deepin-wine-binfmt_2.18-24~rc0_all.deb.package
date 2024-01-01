@@ -1,0 +1,22 @@
+Package: deepin-wine-binfmt
+Architecture: all
+Version: 2.18-24~rc0
+Priority: optional
+Section: otherosfs
+Source: deepin-wine
+Maintainer: Debian Wine Party <pkg-wine-party@lists.alioth.debian.org>
+Installed-Size: 77
+Depends: deepin-wine, binfmt-support
+Filename: ./d/deepin-wine-binfmt/deepin-wine-binfmt_2.18-24~rc0_all.deb
+Size: 67390
+MD5sum: a6ce3eccb0845294766b297d33b280a1
+SHA1: a534ebf1c3eaf842af07fc02aac7f109317595f1
+SHA256: fed99922139857aef8441bdb7405cca4ebdaf40a090a8acde5570e16b85f19f4
+SHA512: 56ba4fe6cd857e91703384cb9bc8d7eb1f43e6c7efa88ea6c799d7fecc10ec8d94f5ed5c72367c62c1cef9026be5403da4172ac93c0b3e5d400be7495906208c
+Homepage: http://www.winehq.org/
+Description: Windows API implementation - binfmt support
+ Wine is a free MS-Windows API implementation.
+ This is still a work in progress and many applications may still not work.
+ .
+ This package provides support for launching windows executables directly.
+

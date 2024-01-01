@@ -1,0 +1,19 @@
+Package: com.deepin-box86.deepin
+Architecture: arm64
+Version: 0.2.6deepin16
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: deepin-wine team
+Provides: com.box86.deepin
+Depends: deepin-wine-runtime (>= 0.1.5), com.deepin-wine-runtime.deepin (>= 1.1deepin2), deepin-elf-verify (>= 1.1.10-1)
+Conflicts: com.box86.deepin
+Replaces: com.box86.deepin
+Filename: ./c/com.deepin-box86.deepin/com.deepin-box86.deepin_0.2.6deepin16_arm64.deb
+Size: 1609736
+MD5sum: cc252446e60d4f0e4dc7273554d3625f
+SHA1: 5947484ec49ef2bdf504915ccd4df650211f5a08
+SHA256: f81d684d89b3cb37a1694e64f4e2543bd5c551c4ff69fe53bd9c4215fa8d7c1b
+SHA512: 0116471b8b04238dc77529d690bc1e57073ce70b3a5265cdc74a9afa75b820006c26cca09fa072667737955d847c4082d91910e4e731da85c55b84151258cc1e
+Description: based on box86
+

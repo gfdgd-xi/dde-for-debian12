@@ -1,0 +1,19 @@
+Package: libdeepin-keyring-whitebox-dev
+Architecture: arm64
+Version: 1.0.3.2-1
+Priority: optional
+Section: devel
+Source: deepin-keyring-whitebox
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 15
+Depends: deepin-keyring-whitebox
+Filename: ./l/libdeepin-keyring-whitebox-dev/libdeepin-keyring-whitebox-dev_1.0.3.2-1_arm64.deb
+Size: 2620
+MD5sum: e09146b3bf3536c80a2abae5dfdcbcfd
+SHA1: 71d76b1cdcfb8fe122424f515edb3ab0d3c78a95
+SHA256: 75e1e1180fd87e387846e9e8318af066795838418a2f89f88a81dc3008e67d86
+SHA512: 9be2a34d0934338fc61729610c99e0839f0de4fce516d85182c02c20eca65deb681d270b2632ee7e583e5610388d8636665495e25f19d175873157849c29fb18
+Homepage: https://www.deepin.org
+Description: deepin whitebox extension development Library.
+ The project encapsulates the details of the white box solution to avoid external involvement.
+

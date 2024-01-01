@@ -1,0 +1,17 @@
+Package: exagear-utils
+Architecture: all
+Version: 2870
+Multi-Arch: foreign
+Priority: extra
+Section: misc
+Maintainer: Huawei_Moscow_Compiler_Lab
+Installed-Size: 29
+Depends: findutils, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./e/exagear-utils/exagear-utils_2870_all.deb
+Size: 23320
+MD5sum: 661e39a02a2884c3a28afb826933ef95
+SHA1: 9fb5f1db81d2c8ae77b57849dac12c8ea1016e74
+SHA256: 572e718b69d91213c67fe9f14b7f21ef1ae5a7e36f1fe6006f0d2e1cd7600046
+SHA512: 2dae1d38278d080cf4d2ad92b473aaad2e05d29efcfebff061e31d501c6dd3f42187c16a69ca6fca8b06350af2b45e87cdb9c9508004ce07329663df6e5ab911
+Description: ExaGear binary translation system. This package contains utility and interface scripts for running exagear.
+

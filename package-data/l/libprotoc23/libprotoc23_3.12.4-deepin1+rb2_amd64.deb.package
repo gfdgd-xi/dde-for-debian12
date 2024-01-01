@@ -1,0 +1,32 @@
+Package: libprotoc23
+Architecture: amd64
+Version: 3.12.4-deepin1+rb2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: protobuf
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 2865
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libprotobuf23 (>= 3.12.4), libstdc++6 (>= 11)
+Filename: ./l/libprotoc23/libprotoc23_3.12.4-deepin1+rb2_amd64.deb
+Size: 778992
+MD5sum: 1b876a9dc6b0e23dd33378f64278030d
+SHA1: 55f4e1eb13fe4ea356b4212498223b0e53ff4af5
+SHA256: dd41712407ff4a1870256466b5e8cc1f945b4fe02929919281e6741ac8226c6f
+SHA512: 60f8fba0b1c98ba409dba225455c2a996bba40b82080fe2773a8edf012fba4e79d1cac69e94fcdcdc0d09effec2d1f3838a5de26822a9dc12db1ff2e66924d5c
+Homepage: https://github.com/google/protobuf/
+Description: protocol buffers compiler library
+ Protocol buffers are a flexible, efficient, automated mechanism for
+ serializing structured data - similar to XML, but smaller, faster, and
+ simpler. You define how you want your data to be structured once, then you can
+ use special generated source code to easily write and read your structured
+ data to and from a variety of data streams and using a variety of languages.
+ You can even update your data structure without breaking deployed programs
+ that are compiled against the "old" format.
+ .
+ Google uses Protocol Buffers for almost all of its internal RPC protocols and
+ file formats.
+ .
+ This package contains the runtime library needed for the protocol buffer
+ compiler.
+

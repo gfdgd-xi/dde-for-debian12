@@ -7,11 +7,11 @@ Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 323
 Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkocr (>= 1.0.5), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 11)
 Filename: ./d/deepin-ocr/deepin-ocr_1.1.2_arm64.deb
-Size: 68324
-MD5sum: 0298fbcc2c2dfd40e1d6bccc7c2d23bd
-SHA1: a042345027c791d4a540dab645986c179ed06f00
-SHA256: b5fc08e0ceb9329afb98b217fa8dffdea4c67902e40df6bbaf3a5a0971274f19
-SHA512: b4a747694e7dcec9e0d51134959ba91677981883a7a4793f6218377fd53e0ce3ef3f783594ffc48b670cc870c02baf2afcb7f5616c9fc367340f5cc52720d436
+Size: 68308
+MD5sum: 952463e763d773783662d9ecf9bcea02
+SHA1: 283b5ce8b740f06ee002bbef7bdae0717bccb323
+SHA256: 465ab05cc41a0b46c70426abaa3e857e022799c748d9ce8ed93a790577b0f2a6
+SHA512: 0745dcb81086c4fbcd1cef89eacd09f53256aa94b19b95164d59971a9c5c6ddcb99686f0b67fc2eb52be5a0b98b834cad4e5dfa00f5e898d49d1fa2cf0b30c60
 Homepage: http://www.deepin.org/
 Description: Ocr for UOS
  Ocr is a text recognition software.

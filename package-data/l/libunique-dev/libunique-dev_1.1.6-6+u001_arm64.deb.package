@@ -1,0 +1,31 @@
+Package: libunique-dev
+Architecture: arm64
+Version: 1.1.6-6+u001
+Priority: optional
+Section: libdevel
+Source: libunique
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 165
+Depends: libunique-1.0-0 (= 1.1.6-6+u001), libglib2.0-dev (>= 2.12.0), libgtk2.0-dev (>= 2.11.0)
+Suggests: libunique-doc
+Filename: ./l/libunique-dev/libunique-dev_1.1.6-6+u001_arm64.deb
+Size: 47476
+MD5sum: 253dd5496706b794ab4a105909189147
+SHA1: 8df86651c872cd0d1e7af0b808b6de8898f6e64b
+SHA256: 611d69690d1ecea01651f9c9fba01a87ef19ea897a5b55916038680162587555
+SHA512: 0afce99aae1c814cbdc6fbc46debb93c4bfecf666ec4d6a629c34e9c53d9ec450099efa363d155a9999f5c5253003c712295ec2696644ef5c1facc9e35196aef
+Homepage: https://wiki.gnome.org/Attic/LibUnique
+Description: Library for writing single instance applications - development files
+ Unique is a library for writing single instance application.
+ If you launch a single instance application twice, the second
+ instance will either just quit or will send a message to the
+ running instance.
+ .
+ Unique makes it easy to write this kind of applications, by
+ providing a base class, taking care of all the IPC machinery
+ needed to send messages to a running instance, and also handling
+ the startup notification side.
+ .
+ This package contains the headers and development libraries needed to
+ build applications using the Unique library
+

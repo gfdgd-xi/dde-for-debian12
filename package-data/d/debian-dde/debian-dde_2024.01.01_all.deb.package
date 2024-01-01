@@ -1,0 +1,21 @@
+Package: debian-dde
+Architecture: all
+Version: 2024.01.01
+Priority: standard
+Section: metapackages
+Maintainer: gfdgd-xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 16
+Depends: debian-dde-desktop-environment-base, debian-dde-desktop-environment-cli, debian-dde-desktop-environment-core, debian-dde-desktop-environment-extras, debian-dde-desktop-environment-ll
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, uos-remote-assistance, gvfs-fuse, smbclient, python-smbc, deepin-mail, deepin-manual, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, spark-store, linuxqq, com.qq.weixin.spark, org.deepin.browser, org.deepin.chineseime, deepin-defender, spark-deepin-wine-runner, spark-waydroid-runner, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, xfce4-pulseaudio-plugin, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor, deepin-compatibility-mode
+Filename: ./d/debian-dde/debian-dde_2024.01.01_all.deb
+Size: 3644
+MD5sum: d3c503f0fd1fa8e4ad88656a8dd4badf
+SHA1: ed515d8473c6558ae460b0562f009b269bc8e4bc
+SHA256: 377e9790a6eb7a45ab5a587318b7f2bc239e340df1d4d6ab745646d0b2374bf7
+SHA512: dd8374cf8e760011c3b01df10691154dc8116a763178723742b109f99c1edd658f316b1975e055590e9b3eb570de6763b39088e2d4ec42b75eb1b2521c622932
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

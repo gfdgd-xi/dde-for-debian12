@@ -1,0 +1,21 @@
+Package: linux-libc-dev
+Architecture: arm64
+Version: 23.00.00.04-alpha
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: uosserver <uosserver@uosserver-PC>
+Installed-Size: 5791
+Provides: linux-kernel-headers
+Filename: ./l/linux-libc-dev/linux-libc-dev_23.00.00.04-alpha_arm64.deb
+Size: 1116704
+MD5sum: d4d868b2d5239f058c518e5d8e16a9d2
+SHA1: 27a953d0ecfe56f7c91557b59f464cc12224bfe6
+SHA256: e2874b66059482ea6f3ef43de79152c9692fd69fd8c85775922476301ee86052
+SHA512: 515329adbf4915d06266d491faa3378d14df5a9eb4930f7286022ff53aecf2c39cd6d666968ae829a5e544dcf13eb04892f0ac87977ff6dfbfdbdef7ea5fb933
+Homepage: https://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+

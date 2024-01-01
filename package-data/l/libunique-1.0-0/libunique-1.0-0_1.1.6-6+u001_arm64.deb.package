@@ -1,0 +1,29 @@
+Package: libunique-1.0-0
+Architecture: arm64
+Version: 1.1.6-6+u001
+Priority: optional
+Section: oldlibs
+Source: libunique
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 108
+Depends: libc6 (>= 2.33), libdbus-glib-1-2 (>= 0.88), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.0), libx11-6, default-dbus-session-bus | dbus-session-bus
+Filename: ./l/libunique-1.0-0/libunique-1.0-0_1.1.6-6+u001_arm64.deb
+Size: 41940
+MD5sum: c8e06e9fcccb334dc04b1f90e77bc105
+SHA1: a299c55ae585e1958c804a7965871310d4c03027
+SHA256: 5ab1caff03b84ec5c49dadf6715c7beed8bc9264dbb372f493676a7287fb70fc
+SHA512: c60b42731193b7e3ccff3f7b89165eea1af473adfb68ae882e336b8dd424928c8c932c71be33e8b3fd69bd69d2f3b1f9acf64d9c47cd1bcb456363eed9472845
+Homepage: https://wiki.gnome.org/Attic/LibUnique
+Description: Library for writing single instance applications - shared libraries
+ Unique is a library for writing single instance application.
+ If you launch a single instance application twice, the second
+ instance will either just quit or will send a message to the
+ running instance.
+ .
+ Unique makes it easy to write this kind of applications, by
+ providing a base class, taking care of all the IPC machinery
+ needed to send messages to a running instance, and also handling
+ the startup notification side.
+ .
+ This package contains the shared libraries.
+

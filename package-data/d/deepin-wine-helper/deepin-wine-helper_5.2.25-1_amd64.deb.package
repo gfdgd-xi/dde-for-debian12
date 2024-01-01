@@ -1,0 +1,18 @@
+Package: deepin-wine-helper
+Architecture: amd64
+Version: 5.2.25-1
+Multi-Arch: foreign
+Priority: extra
+Section: non-free/otherosfs
+Maintainer: Cui Jiajin <cuijiajin@uniontech.com>
+Installed-Size: 2578
+Depends: zenity, p7zip-full, fonts-noto-cjk, python3-dbus, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./d/deepin-wine-helper/deepin-wine-helper_5.2.25-1_amd64.deb
+Size: 695128
+MD5sum: a2649882c6fcdb3d44ae8e65fdbdcdcd
+SHA1: 825ff1089c6615f0dc6ad8f1d3bafe06b2210360
+SHA256: 91e8a70e6a4776ab0b432c483dc930f98c5179d306394a881108324d1b8e18bf
+SHA512: 5f44c772bbd4446d183c77fa53249aab2f40675767a7ada3d0531dd8cfb1bebed14bca02e734626b867d37abe822b77c8e8b67fb3f0ffc9bf13de9910723b200
+Homepage: http://www.linuxdeepin.com/
+Description: Deepin Wine Helper
+

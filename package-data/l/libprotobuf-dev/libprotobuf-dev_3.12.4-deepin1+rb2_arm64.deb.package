@@ -1,0 +1,34 @@
+Package: libprotobuf-dev
+Architecture: arm64
+Version: 3.12.4-deepin1+rb2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: protobuf
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 11005
+Provides: protobuf-api-23-0
+Depends: zlib1g-dev, libprotobuf23 (= 3.12.4-deepin1+rb2), libprotobuf-lite23 (= 3.12.4-deepin1+rb2)
+Breaks: protobuf-compiler (>> 3.12.4-deepin1+rb2), protobuf-compiler (<< 3.12.4-deepin1+rb2)
+Filename: ./l/libprotobuf-dev/libprotobuf-dev_3.12.4-deepin1+rb2_arm64.deb
+Size: 1158104
+MD5sum: 8cdcdb37fa54849a2b744a60ec1162b6
+SHA1: caa68a1789d9fc18fb595143f2661863a0034aa4
+SHA256: e47177429bab1dea9daebee099108d6b3008b5e07483ee73cdab52bf548367b9
+SHA512: 020cecd4178b87d9b7bddf901ff0a55d2304921bd5bd0ff50ad087ea8016d185faacaa71e07cef3281cece2fc77f6cd01fef23a6e88610a18b4c76ecc50d5ccc
+Homepage: https://github.com/google/protobuf/
+Description: protocol buffers C++ library (development files) and proto files
+ Protocol buffers are a flexible, efficient, automated mechanism for
+ serializing structured data - similar to XML, but smaller, faster, and
+ simpler. You define how you want your data to be structured once, then you can
+ use special generated source code to easily write and read your structured
+ data to and from a variety of data streams and using a variety of languages.
+ You can even update your data structure without breaking deployed programs
+ that are compiled against the "old" format.
+ .
+ Google uses Protocol Buffers for almost all of its internal RPC protocols and
+ file formats.
+ .
+ This package contains the development headers and static libraries needed for
+ writing C++ applications. Includes well known proto type files.
+

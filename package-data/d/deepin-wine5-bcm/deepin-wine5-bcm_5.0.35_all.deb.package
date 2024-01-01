@@ -1,0 +1,20 @@
+Package: deepin-wine5-bcm
+Architecture: all
+Version:  5.0.35
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 10
+Provides: deepin-wine5(=5.0.35)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: deepin-wine5
+Replaces: deepin-wine5
+Filename: ./d/deepin-wine5-bcm/deepin-wine5-bcm_5.0.35_all.deb
+Size: 1712
+MD5sum: 5a484e14db264d9e937ea09ae18e8562
+SHA1: 4e27dad4bb7028db452bbf6fae55968d00b25768
+SHA256: bacd7111aa8eaf07ce453d6dc00a1834e7526c11fbc47da9c8ea14461d2693a9
+SHA512: ac729e9c7dae5a5cc009b0acc2cb06073b241739a93d5bee1c6e89857ca6be8ebaca362df1c468bdf6ad67b81af9bee831e191e8a5e31de4c91c8e82c383a250
+Homepage: https://shenmo7192.gitee.io/
+Description: deepin-wine5 bcm test package
+

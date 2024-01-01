@@ -1,0 +1,20 @@
+Package: linux-headers-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.04-alpha
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: uosserver <uosserver@uosserver-PC>
+Installed-Size: 47551
+Filename: ./l/linux-headers-5.10.0-arm64-desktop/linux-headers-5.10.0-arm64-desktop_23.00.00.04-alpha_arm64.deb
+Size: 7647020
+MD5sum: f2cf856b183a2a3468f2605ddfa4a0de
+SHA1: c08369ca801fe86f3c720effb83e99f79084002f
+SHA256: f338ce009d9623ccc577cdf0237da51c39d46e5eedf329a2dac0643fa91dbdbb
+SHA512: 813555bc54352dcf67be46278fc4be9b45009734835ae17fba2eedef083978bc286bc79372627b2d5e3debadc88be62ec8c0c470bd2ad2ce603b9d67848c606d
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.0-arm64-desktop on arm64
+ This package provides kernel header files for 5.10.0-arm64-desktop on arm64
+ .
+ This is useful for people who need to build external modules
+

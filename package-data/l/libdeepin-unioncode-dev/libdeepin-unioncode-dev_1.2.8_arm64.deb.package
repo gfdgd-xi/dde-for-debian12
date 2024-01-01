@@ -1,0 +1,18 @@
+Package: libdeepin-unioncode-dev
+Architecture: arm64
+Version: 1.2.8
+Priority: optional
+Section: libdevel
+Source: deepin-unioncode
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 79
+Filename: ./l/libdeepin-unioncode-dev/libdeepin-unioncode-dev_1.2.8_arm64.deb
+Size: 13008
+MD5sum: dc1cff9e11281b6075b28a8c8716e4f2
+SHA1: 349f9d61cf3dc656a3a15e857ed96cf0929d6e0e
+SHA256: d026df464f23a49bca57bec3b64e423b0a5c5833cbcaedab092d0e08732bf272
+SHA512: 9d9781cabacfedcdcd273642d8d99744c8999915ad3555ac69356b8381bd1721debce1c64e1c556ac45eaef0f2ef5c57ecad0f17473871132bce56df406a9c2e
+Homepage: http://www.deepin.org
+Description: IDE 'Union Code' devel library
+ IDE 'Union Code' development can be carried out through this library
+

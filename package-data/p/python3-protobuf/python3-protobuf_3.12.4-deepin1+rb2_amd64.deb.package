@@ -1,0 +1,33 @@
+Package: python3-protobuf
+Architecture: amd64
+Version: 3.12.4-deepin1+rb2
+Priority: optional
+Section: python
+Source: protobuf
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 3744
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libprotobuf23 (>= 3.12.4), libstdc++6 (>= 11), python3 (<< 3.11), python3 (>= 3.9~), python3-pkg-resources, python3-six (>= 1.9), python3:any
+Filename: ./p/python3-protobuf/python3-protobuf_3.12.4-deepin1+rb2_amd64.deb
+Size: 396620
+MD5sum: f06d583efbe4c5ff7a697d08ddbb53ac
+SHA1: fb02a0d4479976efd4929481cce63f60cc7c91ff
+SHA256: 66ce317064cae77b27e5248f7b6a8a706d4497939a7069ae71e3c5079924c6cf
+SHA512: 6f3200ab7b6bb1ff1a40f39b898c283f2c1f146d264b8bf75c4494b2f0954634ae3b3896110513cfb271f99dac097e0f5d629e7b62e89cf25e032022fe9d3106
+Homepage: https://github.com/google/protobuf/
+Description: Python 3 bindings for protocol buffers
+ Protocol buffers are a flexible, efficient, automated mechanism for
+ serializing structured data - similar to XML, but smaller, faster, and
+ simpler. You define how you want your data to be structured once, then you can
+ use special generated source code to easily write and read your structured
+ data to and from a variety of data streams and using a variety of languages.
+ You can even update your data structure without breaking deployed programs
+ that are compiled against the "old" format.
+ .
+ Google uses Protocol Buffers for almost all of its internal RPC protocols and
+ file formats.
+ .
+ This package contains the Python 3 bindings for the protocol buffers. You will
+ need the protoc tool (in the protobuf-compiler package) to compile your
+ definition to Python classes, and then the modules in this package will allow
+ you to use those classes in your programs.
+

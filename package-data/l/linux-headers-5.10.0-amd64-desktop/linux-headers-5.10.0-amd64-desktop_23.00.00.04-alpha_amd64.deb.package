@@ -1,0 +1,20 @@
+Package: linux-headers-5.10.0-amd64-desktop
+Architecture: amd64
+Version: 23.00.00.04-alpha
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-amd64-desktop
+Maintainer: uos <uos@x86-compile-PC>
+Installed-Size: 51111
+Filename: ./l/linux-headers-5.10.0-amd64-desktop/linux-headers-5.10.0-amd64-desktop_23.00.00.04-alpha_amd64.deb
+Size: 8170948
+MD5sum: a0ac6879b04911d88b6c5865d250d9de
+SHA1: fb566e4abb8a32283c408f3c651670ef6fc5300b
+SHA256: cc02037e61bb7ca5c0878a388bc1479475fd4bc7d968b419624dad30f5ff70f9
+SHA512: 699aa64b9349c6a8a3578493adaaa3b042af5708d243c0531cff028992936b0e9f341ac4735e68107acbe8cb2edbdd763d5d5b98628acbefa8b65422449cd8f4
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.0-amd64-desktop on amd64
+ This package provides kernel header files for 5.10.0-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+

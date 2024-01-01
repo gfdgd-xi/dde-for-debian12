@@ -1,0 +1,17 @@
+Package: exagear-core-x32a64
+Architecture: arm64
+Version: 2870.1
+Priority: extra
+Section: misc
+Maintainer: Huawei_Moscow_Compiler_Lab
+Installed-Size: 5916
+Provides: exagear-core
+Depends: exagear-utils, systemd, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./e/exagear-core-x32a64/exagear-core-x32a64_2870.1_arm64.deb
+Size: 842936
+MD5sum: d885882d085adf5c8017a5d1466d72b6
+SHA1: b444216bba20cc20989c8e58c528918295dd5520
+SHA256: 99014cf745f8f20c7ff8f0bcdd45b62a6840a3b10fb3821cd0ca9d36c6c05b8a
+SHA512: e3d45b2eb2cc556a5f5261cb3830acd56bbc8a479fc70d165854993429acceb346a8faa4397b2ab37801c4a3cd4bff640a1da5978ad476469262c8e310aabc47
+Description: ExaGear binary translation system.
+

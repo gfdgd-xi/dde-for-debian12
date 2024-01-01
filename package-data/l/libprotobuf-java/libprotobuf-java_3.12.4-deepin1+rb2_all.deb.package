@@ -1,0 +1,33 @@
+Package: libprotobuf-java
+Architecture: all
+Version: 3.12.4-deepin1+rb2
+Multi-Arch: foreign
+Priority: optional
+Section: java
+Source: protobuf
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 2530
+Filename: ./l/libprotobuf-java/libprotobuf-java_3.12.4-deepin1+rb2_all.deb
+Size: 1219492
+MD5sum: a5f4ca6881be40c70ec1db9224572275
+SHA1: a6f073d0c767389081327dbfd2ed3d62bf6e23f0
+SHA256: c111b8864a1ed1493b1d53ffa43b1f93308c32f57b15530701d8ccefe5b2ec0c
+SHA512: 5659be1ecd8a09e7d6db938dd2521284a439949b1df729f003afd2b5865ae5070e4ea7ef8ed75f5c93d59bfaacf837a08ca24b13af596332b7d4883f0e493335
+Homepage: https://github.com/google/protobuf/
+Description: Java bindings for protocol buffers
+ Protocol buffers are a flexible, efficient, automated mechanism for
+ serializing structured data - similar to XML, but smaller, faster, and
+ simpler. You define how you want your data to be structured once, then you can
+ use special generated source code to easily write and read your structured
+ data to and from a variety of data streams and using a variety of languages.
+ You can even update your data structure without breaking deployed programs
+ that are compiled against the "old" format.
+ .
+ Google uses Protocol Buffers for almost all of its internal RPC protocols and
+ file formats.
+ .
+ This package contains the Java bindings for the protocol buffers. You will
+ need the protoc tool (in the protobuf-compiler package) to compile your
+ definition to Java classes, and then the modules in this package will allow
+ you to use those classes in your programs.
+

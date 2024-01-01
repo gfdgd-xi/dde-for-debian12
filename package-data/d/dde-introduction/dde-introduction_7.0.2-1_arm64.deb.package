@@ -5,13 +5,13 @@ Priority: optional
 Section: utils
 Maintainer: Deepin Packages Builder <packages@deepin.org>
 Installed-Size: 77999
-Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
 Filename: ./d/dde-introduction/dde-introduction_7.0.2-1_arm64.deb
-Size: 70760884
-MD5sum: 45d10b20d4120847ae51951c5b83661f
-SHA1: 1774e8e1841650c3e5b630cb70876503da12a1f4
-SHA256: 2c204adc2c9805799da8b151aab748096eb0412c45d1681db7da3443ecd85634
-SHA512: 5c8444459b26f5844187140cedc24641b2f2619fa6a35826e5cb42ccbb8f47ce7b65c6d47d62b75e20399dd35f3f4396c71c07926971ca4f29fdc07f5eef5bd1
+Size: 70760392
+MD5sum: aadca5c70c6b868f8633e511d7fc5aaa
+SHA1: 794fc3a07fc70c00630c0db0daab75aa44ffcca9
+SHA256: 224064e92ae9677f2385e33b2f8b7db829f42fc1afd786e163fe55078b3ea121
+SHA512: 9f238bcb0254441bcae949d17ab0f7e72e8889bce3c3da88fb05457537a77527165dd93ba4592c5e25b8e7306cc1978ffd40d22db7ba2042209e178e0d61c81e
 Homepage: http://www.deepin.org
 Description: Introduction for UOS
  When you log into the system for the first time, a welcome program will automatically start.

@@ -1,0 +1,16 @@
+Package: com.deepin-wine6-stable.deepin
+Architecture: arm64
+Version: 6.0.0.64
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: deepin-wine team
+Depends: deepin-emu-tool (>= 5.2.29-1), deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/com.deepin-wine6-stable.deepin/com.deepin-wine6-stable.deepin_6.0.0.64_arm64.deb
+Size: 52687618
+MD5sum: 7738bce3292002b6b9d2b3e1404012b6
+SHA1: b24fe01bb050f3570f133e4e1a1a149f31ea621b
+SHA256: 7bbf20a2a611cd1831ce80b028bee842b156c1466316fdc5470945a1e015016a
+SHA512: fa4e784b76eed0fc7ced3e6f5384733d69476105a484d5ca2754b6f568c330d8b32a7c1531f6d7d3a9ce91b03ac4f83591a222b3470019c02bcab5d6cee7831b
+Description: deepin-wine6-stable on arm
+

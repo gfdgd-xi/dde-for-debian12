@@ -1,0 +1,25 @@
+Package: deepin-wine5-stable-i386
+Architecture: i386
+Version: 5.0.35-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: deepin-wine5-stable
+Maintainer: Wei Xie <xiewei@uniontech.com>, Zhipeng Zhao <zhaozhipeng@uniontech.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 227580
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-wine-runtime (>= 0.0.3)
+Filename: ./d/deepin-wine5-stable-i386/deepin-wine5-stable-i386_5.0.35-1_i386.deb
+Size: 24682044
+MD5sum: ae2f0e537ecacd5324a255818ab999da
+SHA1: 0a0aaa047cd67c66ce6f08b399fba7af05294389
+SHA256: 5f91506c5bedf3cd49a51a96c7f421f7455f7962196098e7879075c577682a7c
+SHA512: 155f4550ba08738e561b0966fae48ea3063d0683fc391311098c1da2c81f3335fef9cecbf9c57789aa9831fbfb1dc1068015ca367f902d0a0e3f0aa55a41ee5e
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 32-bit Windows
+ programs.
+

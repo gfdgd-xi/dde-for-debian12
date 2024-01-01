@@ -1,0 +1,18 @@
+Package: dde-crypto
+Architecture: arm64
+Version: 1.0.3-1
+Priority: optional
+Section: non-free/libs
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 77
+Depends: openssl, libc6 (>= 2.17), libssl3 (>= 3.0.0)
+Filename: ./d/dde-crypto/dde-crypto_1.0.3-1_arm64.deb
+Size: 15404
+MD5sum: cd80ea5624057d5d263527eca3fdc405
+SHA1: be4db8a35a054ae431b029508024fbc1e64541aa
+SHA256: fa40f7b3a1c8d6d30b534b803236f61167661964b2dd7a09524dd6521ed58d5c
+SHA512: 04ba3001b53392977e4ac6c1d1e110611afa367db2e3c2c50ef08be14a1a02b1e73dab9d5705143d7c9af8893e3934a07cc7ea02c7625ac2923854ccf111fbcc
+Homepage: https://www.deepin.org
+Description: Archiver for keyring/* files
+ DDE crypto provides encrypt or decrypt functions
+

@@ -1,0 +1,16 @@
+Package: uos-ai
+Architecture: arm64
+Version: 1.1.3-1
+Priority: optional
+Section: non-free/copilot
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 7609
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libkf5globalaccel-bin, libkf5globalaccel5 (>= 4.96.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.15.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.9.0~beta), libssl3 (>= 3.0.0), libstdc++6 (>= 5.2)
+Filename: ./u/uos-ai/uos-ai_1.1.3-1_arm64.deb
+Size: 5467072
+MD5sum: 08d32d6280ca168c9ab2e6ff4e998f40
+SHA1: 22d66d934902dd7f4a8218730f71472cd9550a77
+SHA256: 382e40a2ada2969bf9563d149cca45bf0a9f6b3b843847c4b4853ac0e36d204c
+SHA512: 7c116d1dd3800d74bceee5febe09b0d4ab812daeac3cfa3620f39d8336d089e0e6459897989af7109a16f1b9566f22748ecadd17b322049e397077d0a850c5ac
+Description: As a useful and efficient assistant, an AI-powered assistant simplifies our office efficiency and provides valuable support in a wide range of domains.
+

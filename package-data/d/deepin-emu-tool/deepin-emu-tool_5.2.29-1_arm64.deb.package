@@ -1,0 +1,19 @@
+Package: deepin-emu-tool
+Architecture: arm64
+Version: 5.2.29-1
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Source: deepin-wine-helper
+Maintainer: Cui Jiajin <cuijiajin@uniontech.com>
+Installed-Size: 24
+Depends: libc6 (>= 2.17), com.deepin-box86.deepin (>= 0.2.6deepin15), deepin-exagear-tool (>= 5.2.29-1), com.deepin-wine-runtime.deepin (>= 1.1deepin3), deepin-elf-verify (>= 1.1.10-1)
+Filename: ./d/deepin-emu-tool/deepin-emu-tool_5.2.29-1_arm64.deb
+Size: 35476
+MD5sum: 3ec454316f83bafee018b3090a007146
+SHA1: 2ca310bb4417784dcabdcb15a0b9f160f2fd2d91
+SHA256: 73064b24701562d4812fada48265cfdc4b40e9d2e5abce44a0d44b56024f42cc
+SHA512: 01834b369688b43205fafc01bf5e402c07da134c569cdc7461cb60e2a6ed3e61fe57eb599d7b93859036077532411aac06df58fc1949c90091af7b3b140e883c
+Homepage: http://www.linuxdeepin.com/
+Description: Deepin Wine emu tools
+

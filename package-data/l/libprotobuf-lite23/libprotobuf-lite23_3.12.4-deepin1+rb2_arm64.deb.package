@@ -1,0 +1,32 @@
+Package: libprotobuf-lite23
+Architecture: arm64
+Version: 3.12.4-deepin1+rb2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: protobuf
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 768
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Filename: ./l/libprotobuf-lite23/libprotobuf-lite23_3.12.4-deepin1+rb2_arm64.deb
+Size: 211456
+MD5sum: 50635a0dec959eb0960f4f5cd41364f1
+SHA1: f805d488588b049d1ea401267c5dc3204b40a054
+SHA256: dda6f5bc811d701f2aafc9f1b0160be36ff06f524befff1248f527967a12efc4
+SHA512: c00c433ee295de612c7f08f1c57545f37b4e13b5ede90ee7a54d0729caf6339eddbc5850588718610967d9aabb3826ec4b24a016fb7d56372450bf9b6918531c
+Homepage: https://github.com/google/protobuf/
+Description: protocol buffers C++ library (lite version)
+ Protocol buffers are a flexible, efficient, automated mechanism for
+ serializing structured data - similar to XML, but smaller, faster, and
+ simpler. You define how you want your data to be structured once, then you can
+ use special generated source code to easily write and read your structured
+ data to and from a variety of data streams and using a variety of languages.
+ You can even update your data structure without breaking deployed programs
+ that are compiled against the "old" format.
+ .
+ Google uses Protocol Buffers for almost all of its internal RPC protocols and
+ file formats.
+ .
+ This package contains the runtime library needed for C++ applications whose
+ message definitions have the "lite runtime" optimization setting.
+

@@ -10,11 +10,11 @@ Depends: libc6 (>= 2.17), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidge
 Conflicts: org.deepin.downloader (<= 5.3.15)
 Replaces: org.deepin.downloader (<= 5.3.15)
 Filename: ./l/libdlmcontrolui/libdlmcontrolui_5.3.70_arm64.deb
-Size: 429544
-MD5sum: d2d39ecfabab18c04d40af6ad0b63b95
-SHA1: f53c88254e472e4c35775340dd6cbb82c2f65eb9
-SHA256: 4a875443271bbd3f3c459c6500957784c957fce6264145996aa4f5dc14b6a065
-SHA512: 6e2bdf651792bb4812311a634c80dc2a79fe99621a4b867708f78ed85f5de5dce69e699de691e11646e49e71ba8e32983db2832565226ab8a53776e8645c7f38
+Size: 429644
+MD5sum: 4474a0f14c709bd175469a79c0686ef1
+SHA1: f678831850b7163fc2cd7b0ed4e54810deea9bb0
+SHA256: 67535d10cdc39816b9a53bab26873af7d3bf559e54e73514554f853e4383c334
+SHA512: 995c9aa970192b63aa962bf4607b9c0311efb96f88f086f9822615a17ddb41d7ae11cd264ede04a42b08c1598e896eb77b38a3a29fcd749fb3396e0ced0bd02d
 Homepage: https://www.deepin.org/
 Description: download manager dlmcontrolui lib.
  downloader for deepin desktop environment.

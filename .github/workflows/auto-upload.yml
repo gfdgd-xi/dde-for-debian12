@@ -1,0 +1,25 @@
+name: Auto Upload Deb
+run-name: ${{ github.actor }} Auto Upload Deb 🚀
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Upload
+        env: 
+          SOURCEFORGEGUESS: ${{ secrets.SOURCEFORGEGUESS }}
+          SOURCEFORGEPASSWORD: ${{ secrets.SOURCEFORGEPASSWORD }}
+        run: |
+          # 配置环境
+          sudo apt update
+          sudo apt install git rsync sshpass -y
+          git clone https://github.com/gfdgd-xi/dde-for-debian12
+          cd dde-for-debian12
+          git remote set-url "https://git.code.sf.net/p/debiandde-for-debian12/code"
+          echo -e "$SOURCEFORGEGUESS\n$SOURCEFORGEPASSWORD" | git push
+          sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh . gfdgd-xi@frs.sourceforge.net:/home/frs/project/debiandde/deb
+          sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh . gfdgd-xi@frs.sourceforge.net:/home/frs/project/debiandde-for-debian12
+      
+    

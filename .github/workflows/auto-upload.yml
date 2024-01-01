@@ -19,6 +19,7 @@ jobs:
           cd dde-for-debian12
           git remote set-url origin "https://git.code.sf.net/p/debiandde-for-debian12/code"
           #echo -e "$SOURCEFORGEGUESS\n$SOURCEFORGEPASSWORD" | git push
+          ssh-keygen -R frs.sourceforge.net | true
           sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh . gfdgd-xi@frs.sourceforge.net:/home/frs/project/debiandde/deb
           sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh . gfdgd-xi@frs.sourceforge.net:/home/frs/project/debiandde-for-debian12
       

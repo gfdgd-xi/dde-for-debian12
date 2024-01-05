@@ -15817,6 +15817,42 @@ Homepage: http://www.deepin.org
 Description: DDE File Manager core librarys
  This package contains the shared libraries.
 
+Package: loongsonapplication
+Architecture: loongarch64
+Version: 2.0.0-1.lnd.10
+Priority: optional
+Section: utils
+Maintainer: loongson <loongson@loongson-pc>
+Installed-Size: 428324
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Filename: ./l/loongsonapplication/loongsonapplication_2.0.0-1.lnd.10_loongarch64.deb
+Size: 88610756
+MD5sum: 298f0c87b0f6e214864fbecf64716e9b
+SHA1: 8d7b1a7e1badf3fcb7d072bad90b39d8acb1552f
+SHA256: ba0bc8aa6b1d49c0a42435a0284de22b19879c841ed9114be48c74bf594450ae
+SHA512: e43eb3419f2d35904caf5f7a7ced8bac7c854537a260ee18450baa8448d7077780ffe05c5a8e7f6a7093ebaedc63bf929d16a8f83b03aa9d0d26b9d28b388ba6
+Homepage: http://app.loongapps.cn/
+Description: 龙芯应用合作社
+ 龙芯应用合作社
+
+Package: loongsonapplication
+Architecture: mips64el
+Version: 2.0.0-1.lnd.10
+Priority: optional
+Section: utils
+Maintainer: loongsong <loongsong@loongson-pc>
+Installed-Size: 431560
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Filename: ./l/loongsonapplication/loongsonapplication_2.0.0-1.lnd.10_mips64el.deb
+Size: 82245208
+MD5sum: e98956c64d403b3f2793f77374738b80
+SHA1: a86a80ec3c95ed8b34e1e414d8d0020aba71d6a4
+SHA256: 02fbab5962e256be991cc679fa91ca0b083016c77e2b1e2ea442d33e954bfaab
+SHA512: 5cc43b2b8445e86fbb53a5ed8a0bae0454db26dfb01961fc6ddf19fb01ba966f6f516d463de108facb14a5bfe022fd154a9c3dfd0117ef86af226b8d46a03101
+Homepage: http://app.loongapps.cn/
+Description: 龙芯应用合作社
+ 龙芯应用合作社
+
 Package: libdtkdeclarative-dev
 Architecture: amd64
 Version: 5.6.17

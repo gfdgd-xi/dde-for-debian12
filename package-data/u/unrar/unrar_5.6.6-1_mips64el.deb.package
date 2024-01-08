@@ -1,0 +1,21 @@
+Package: unrar
+Architecture: mips64el
+Version: 1:5.6.6-1
+Priority: optional
+Section: non-free/utils
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 637
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Conflicts: rar (<= 2.60-1)
+Filename: ./u/unrar/unrar_5.6.6-1_mips64el.deb
+Size: 119204
+MD5sum: 8e4513db3f3b67d9cb8ebd0a0fed77a1
+SHA1: b46804433a7718ec9217f9b7a18a113ff32a1e04
+SHA256: b67a82f833545bf47b834f8f77853c62022b6fd6556be4b8167abb8c4ae5054b
+SHA512: 4373980c46e26010d0c06ef2f646f84e5a3a85fdd720aea1f42a07320a1f6aa9f841f05b5f82c84f332ea6ee41022788ddc102af74a207e6fa11bc9b981ff298
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version)
+ Unrar can extract files from .rar archives. If you want to create .rar
+ archives, install package rar.
+

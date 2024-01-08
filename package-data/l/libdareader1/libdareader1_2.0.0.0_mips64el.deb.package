@@ -1,0 +1,19 @@
+Package: libdareader1
+Architecture: mips64el
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 80
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libstdc++6 (>= 6)
+Filename: ./l/libdareader1/libdareader1_2.0.0.0_mips64el.deb
+Size: 6012
+MD5sum: 08f1dc8410f2c12f385d36527ae418e2
+SHA1: cdb125999d4a5bff10726222a884f81a30d89486
+SHA256: 595e27f239d781b461c275d62e5a9108d7838489917f8a3d2e4a5032d1487f0d
+SHA512: 3bf873fc2cea3108abd6b4f101cfb7249df4204bd5afafd8bb8e7289a9cef9a80ad412b15f9e119dd61a39a119bfffff11e926f6e37b8c4a0ef0acd1791a1978
+Description: lib for read image/video data from deepin-authentication
+ this package is a lib for read image/video data from deepin-authentication.
+

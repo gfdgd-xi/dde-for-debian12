@@ -1,0 +1,21 @@
+Package: libdfm-burn
+Architecture: mips64el
+Version: 1.2.15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: util-dfm
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 152
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libisoburn1 (>= 1.5.4), libqt5core5a (>= 5.5.0), libstdc++6 (>= 5.2)
+Recommends: libudfburn
+Filename: ./l/libdfm-burn/libdfm-burn_1.2.15_mips64el.deb
+Size: 28972
+MD5sum: 2c0ac9a4ed2413df55a83901344f6a22
+SHA1: c5aaf2daab3a5e53a8bae374e08cb2e52a2548d6
+SHA256: abc055d21c3bb51a1ac7cbb754fbd9781cb7f2f7edee4f469a2de4cc4d637e1f
+SHA512: 14cd432d4974688b45b3b46d8df5c2e1b30ee4b5013b0c48be8acc0766555d980a71b0e0ccc472ca7f4e89fe3f44ea7fb38ed17cf460a42e027edf53ef2b4e0d
+Homepage: http://www.deepin.org
+Description: A libaray about burning CD.
+ A libaray that provides burning CD interface.
+

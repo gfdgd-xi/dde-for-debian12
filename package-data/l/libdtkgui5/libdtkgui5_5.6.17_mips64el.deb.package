@@ -1,0 +1,21 @@
+Package: libdtkgui5
+Architecture: mips64el
+Version: 5.6.17
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1419
+Depends: libc6 (>= 2.29), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5xdgiconloader3 (>= 3.10.0~), libstdc++6 (>= 5), qtbase-abi-5-15-8, libdtkdata, qt5-image-formats-plugins
+Filename: ./l/libdtkgui5/libdtkgui5_5.6.17_mips64el.deb
+Size: 280056
+MD5sum: b84c3b6f26fc019201f0cb64b2af8dbb
+SHA1: 8cd418c1c4c87af9d7ec3d7837130456f87a731c
+SHA256: 6dff054a28cab0cbe95ca848cf9b9170454320ed16851e5aa8011976431a186b
+SHA512: 594b2a2ea7ff0e93fc40acec7ef8d461fe53e43478619aa267747c88ac91862595e792666e509a2602d4f54f4dde95af8334223036567bf2a48a02430b892f57
+Description: Deepin Tool Kit Gui library
+ DtkGui is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

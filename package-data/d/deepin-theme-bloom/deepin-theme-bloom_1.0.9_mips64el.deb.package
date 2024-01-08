@@ -1,0 +1,19 @@
+Package: deepin-theme-bloom
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 230
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-bloom/deepin-theme-bloom_1.0.9_mips64el.deb
+Size: 226564
+MD5sum: b5b105a79ad4e882a0554984d7fe1ea0
+SHA1: 6cfedfaab76bba14ee611e51b703213a7ffb3c4c
+SHA256: a59d735f9794d2385e9fd288197fcf450ab7cde413574e8a27b4354bf8af95ad
+SHA512: eb962e64f1a86661bad122f74eff2d923fa9d41e9475c6c6b38d3a5d64f3bf02c07172f994c04ebc6d48d7b66275406d621e797a7f09c6fbe90341bc1ab5e0d7
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - bloom theme
+ deepin theme bloom.
+

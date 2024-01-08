@@ -1,0 +1,20 @@
+Package: libdfm-io
+Architecture: mips64el
+Version: 1.2.15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: util-dfm
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 553
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.55.2), libmediainfo0v5 (>= 0.7.56), libqt5core5a (>= 5.14.1), libstdc++6 (>= 11), libglibmm-2.4-1v5
+Filename: ./l/libdfm-io/libdfm-io_1.2.15_mips64el.deb
+Size: 102988
+MD5sum: c818db3d343127ce227f7f4ffb96098c
+SHA1: 44ca525e2f8a6be52d3e8b387aabe3881696adae
+SHA256: 0f4e788e3352ce877bba1f34d1ed95b5209b39ab9bb8b681ad09b612040f26b8
+SHA512: a6af0b79fb1c41ec76d000863bbde740bc30bd59807eb5d91caeaeefa950f8d2b55363bdd208f4ff78f8da6e5e14ae61b8a4ed844031fecc516e9a768bc7cb9f
+Homepage: http://www.deepin.org
+Description: A libaray about I/O.
+ A libaray that provides I/O interface.
+

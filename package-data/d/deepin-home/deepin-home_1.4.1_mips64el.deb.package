@@ -1,0 +1,17 @@
+Package: deepin-home
+Architecture: mips64el
+Version: 1.4.1
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 6737
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkdeclarative5 (>= 5.6.17), libdtkgui5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.9.0~beta), libqt5qml5 (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libssl3 (>= 3.0.0), libstdc++6 (>= 5.2), qml-module-qtquick-dialogs
+Filename: ./d/deepin-home/deepin-home_1.4.1_mips64el.deb
+Size: 1082576
+MD5sum: 868a39a3fd79c5c0fdd3cbdc7490b265
+SHA1: 7dbc6dec78c5eae78fc68e36af8c6cc07917e0c2
+SHA256: a9745987be3cdb0aa7298670e09a18e50e4e42e4db6d27e743f151100f1bacfb
+SHA512: 8459394a21c8fed616ea1c443dc386f9f2537691d1bbc95fe79a8722f0acc7bc2716074174c256caf3509df8606b472277b0e05d7a7656de535d189846bdc5c4
+Description: deepin home
+ quick login bbs, bug report.
+

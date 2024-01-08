@@ -1,0 +1,19 @@
+Package: libdtkcore-doc
+Architecture: mips64el
+Version: 5.6.20
+Priority: optional
+Section: libdevel
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 4284
+Filename: ./l/libdtkcore-doc/libdtkcore-doc_5.6.20_mips64el.deb
+Size: 3282904
+MD5sum: ea8e2cbf0c20e8be9c41247610049267
+SHA1: 9a82da3169db2a09bcf1fe4c4f4f697a4c08eaae
+SHA256: a60d06c173f3476a46c450ead38a6c8ff11b42bff6f8d15e65239e14614ccce2
+SHA512: 787cb8d972c02a33df5ec8d9d24cf54b6ff676bb24c94591e6834a6483ff20e188a64de0d87086d906fbb56d6941f099e58abed4f2be14a0385267900d8c7836
+Description: Deepin Tool Kit Core (document)
+ DtkCore is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the doc files of DtkCore
+

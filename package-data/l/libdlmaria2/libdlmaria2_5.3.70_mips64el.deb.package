@@ -1,0 +1,21 @@
+Package: libdlmaria2
+Architecture: mips64el
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 149
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libstdc++6 (>= 4.1.1), aria2, curl
+Conflicts: org.deepin.downloader (<= 5.3.15)
+Replaces: org.deepin.downloader (<= 5.3.15)
+Filename: ./l/libdlmaria2/libdlmaria2_5.3.70_mips64el.deb
+Size: 37540
+MD5sum: a534cc8734b40932f201be7ce938f88a
+SHA1: 85b73da7d6e74a09c3c2867c71d25d546d539b0d
+SHA256: c1aaf89e5662d1fff96d0a444db8ce34419617db9e1269d6c5671eaae3679979
+SHA512: e14c1834e87003bb045ef11c430a76ac5953b913238e6aefc6e8575aaa1753187b5910fb2860e09f3a760653af7b1a8e239c792b5e12cc42a5bcb62057e4863b
+Homepage: https://www.deepin.org/
+Description: download manager dlmaria2 lib.
+ downloader for deepin desktop environment.
+

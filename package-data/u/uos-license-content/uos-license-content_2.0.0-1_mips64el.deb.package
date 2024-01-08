@@ -1,0 +1,17 @@
+Package: uos-license-content
+Architecture: mips64el
+Version: 2.0.0-1
+Priority: optional
+Section: admin
+Maintainer: uos <uos@uniontech.com>
+Installed-Size: 1161
+Filename: ./u/uos-license-content/uos-license-content_2.0.0-1_mips64el.deb
+Size: 77516
+MD5sum: 136ad4ead12afd7d454d18b9740945eb
+SHA1: 35dc368ba59055fa319603ebd0675b98bce6a60c
+SHA256: 0ac33d5b5309fe6a50dffcde9e5817fa2f24907284a2384d081cc3c542adf742
+SHA512: b455e4f77d85541977bd7e9768376329dd803063cec342efe5b97c9a89df2160f859c7d564658f70884780025c8cbdb8cfa2717279d9b7e7e1212343703d5003
+Homepage: https://github.com/linuxdeepin/uos-license-content
+Description: protocol files
+ Deepin protocol files
+

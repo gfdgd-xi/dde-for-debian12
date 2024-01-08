@@ -1,0 +1,19 @@
+Package: org.deepin.downloader
+Architecture: mips64el
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3696
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5webchannel5 (>= 5.6.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.1.0), libstdc++6 (>= 4.1.1), libdlmaria2, libdlmcontrolui, libdlmdatabase, libdlmlog, libglib2.0-bin, dde-application-manager
+Filename: ./o/org.deepin.downloader/org.deepin.downloader_5.3.70_mips64el.deb
+Size: 2939748
+MD5sum: 8a508d665c9c74656b9f675bfd572401
+SHA1: eeaa4d13ae457f36b261b662a96f3a14bbab2246
+SHA256: d6e36dae70662a48f3fa8a76cccce9e8f7165ea3e5b9c1cab64d44fe52ce9786
+SHA512: a3668a39496cd2f5301b9253c23b344cb662f7ea1ccc64ec9f954ed1e6f0cbd908e14fb6dd4ab128fe9037d34183e4e3110645aeb9db3f8724221de9b8877aa1
+Homepage: https://www.deepin.org/
+Description: it's a user-friendly download manager, supporting URLs and torrent files.
+ downloader for deepin desktop environment.
+

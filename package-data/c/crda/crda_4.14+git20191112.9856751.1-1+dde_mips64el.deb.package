@@ -1,0 +1,24 @@
+Package: crda
+Architecture: mips64el
+Version: 4.14+git20191112.9856751.1-1+dde
+Multi-Arch: foreign
+Priority: optional
+Section: net
+Maintainer: Debian kernel team <debian-kernel@lists.debian.org>
+Installed-Size: 429
+Depends: libc6 (>= 2.34), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libssl3 (>= 3.0.0), wireless-regdb, iw (>= 3.2-1~)
+Filename: ./c/crda/crda_4.14+git20191112.9856751.1-1+dde_mips64el.deb
+Size: 63568
+MD5sum: a2a452449fde44c1f297330bb34ea795
+SHA1: 20d0385b6bbd58133f46c8773d2f9cdb51b07428
+SHA256: c0684c1faecf916f7abfe7e6ce1fde7a08e3d8c83016eff1a20d787e60e1a235
+SHA512: 240c1677b8a5e6cfe51def7f8bb4d5d5f6675b932ce89aed09d10957d1a414156de81d1462bca0ac8a4d86133be1efe1124541010358b97c895c80df25334982
+Homepage: https://wireless.wiki.kernel.org/en/developers/Regulatory/CRDA
+Description: wireless Central Regulatory Domain Agent
+ This package provides a Central Regulatory Domain Agent (CRDA) to be used by
+ the Linux kernel cfg80211 wireless subsystem to query and apply the regulatory
+ domain settings wireless devices may operate within for a given location.
+ .
+ CRDA queries operational frequency regulations stored within the regulatory
+ database provided by the wireless-regdb package.
+

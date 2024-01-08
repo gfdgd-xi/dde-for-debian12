@@ -1,0 +1,18 @@
+Package: deepin-desktop-theme
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 8
+Depends: deepin-theme-bloom, deepin-theme-vintage, deepin-theme-organic-glass, deepin-theme-hazy-color, deepin-theme-flow, deepin-theme-square, deepin-theme-macaron
+Filename: ./d/deepin-desktop-theme/deepin-desktop-theme_1.0.9_mips64el.deb
+Size: 2584
+MD5sum: 25bccbe0d141b322244c54632de10a64
+SHA1: dd81f78c01793d12a149bffe434ebe343354273d
+SHA256: 4be58775762886caa557aa4878a8eb5bf8e932889c5d9c1f13195647803eff6a
+SHA512: 441b8a894fca3ea2a73e29876acc66fcf0fe4c609a7bd2d237a8f4f8f7f432d573d91a05ae64cad87f023ef08cf7d0f7308013d923397f22eb7f09cae8f5b484
+Homepage: http://www.deepin.org
+Description: deepin desktop theme
+ This package is DeepinDesktopTheme
+

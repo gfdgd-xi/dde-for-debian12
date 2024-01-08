@@ -1,0 +1,20 @@
+Package: dde-dconfig-daemon
+Architecture: mips64el
+Version: 1.0.24
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 579
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5), systemd | systemd-standalone-sysusers | systemd-sysusers
+Conflicts: dconfig-daemon
+Replaces: dconfig-daemon
+Filename: ./d/dde-dconfig-daemon/dde-dconfig-daemon_1.0.24_mips64el.deb
+Size: 103220
+MD5sum: 3e6cd8c14175d18f8605898ddc004179
+SHA1: a45b68b65bd0b7f3bbfaf4f5847aec2f9364fcab
+SHA256: 3848300d4b3d51fcddeea07c80aedb1090c109b3b87c75526242175025cb34d2
+SHA512: 9215c4cdf520f2ead2dbede875866f278181d0c3bf67abf2dc1684d7dbd32b1a6a6a4353ca7ef40050e5a8c93c55e7472715225729f1c89daf5581ac08fce7b6
+Description: deepin desktop-environment - dde-dconfig-daemon module
+ dde-dconfig-daemon provids dbus service for reading and writing DSG configuration.
+

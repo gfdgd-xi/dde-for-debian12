@@ -1,0 +1,17 @@
+Package: deepin-feedback
+Architecture: mips64el
+Version: 5.3.0-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 5022
+Depends: libc6 (>= 2.34), rfkill, lshw, wireless-tools, gzip, boot-info-script, jq, dde-polkit-agent
+Filename: ./d/deepin-feedback/deepin-feedback_5.3.0-1_mips64el.deb
+Size: 1255232
+MD5sum: 4cf605596e59ccc95e8b6d14d7f2adc8
+SHA1: b343b16dadd5194f240f279042c92c13b3528625
+SHA256: b958b169c29a5a6ff747d5fa6076cfeef2c40cdbfe8e5e4c4d342a7ceecf57bd
+SHA512: 4d09837ce5fec90ae1ec09c68eb91cc429ad8ea3b9f5c4e1da55250b50c9f0d43335610d40e43ae869d5b8a50e20e18a538efa06dc813ee2ef5ca22bb99279fb
+Description: report crash information to deepin for debugging
+ this is customer feedback honor
+

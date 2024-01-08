@@ -1,0 +1,18 @@
+Package: deepin-upgrade-manager
+Architecture: mips64el
+Version: 1.0.22
+Priority: optional
+Section: utils
+Maintainer: LinuxDeepin <linuxdeepin@deepin.org>
+Installed-Size: 7877
+Depends: libc6 (>= 2.34), ostree, deepin-boot-kit
+Filename: ./d/deepin-upgrade-manager/deepin-upgrade-manager_1.0.22_mips64el.deb
+Size: 1398760
+MD5sum: 6ced300a02e6c60722044d8afde0087c
+SHA1: f51ffb7709f7daed9184bffcaf44941c663bd58a
+SHA256: 4b8c02c8f7e00a79564c73fa63b7789ebd951e3e1d8b474b686ff60dd2553015
+SHA512: 665ef598047d28d91d5d95dc7dd066d2d204f3a29dc254a0b540887129cf2f15df9575c262e76d64b2b918cdd96f17640bbe971a589dfc0ad8804b348b53d4de
+Homepage: https://www.deepin.org
+Description: uos backup and restore tool
+ uos system backup and restore tool in Linux.
+

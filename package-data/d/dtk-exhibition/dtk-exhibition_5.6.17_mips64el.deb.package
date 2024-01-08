@@ -1,0 +1,19 @@
+Package: dtk-exhibition
+Architecture: mips64el
+Version: 5.6.17
+Priority: optional
+Section: libs
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22035
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.9.0) | libqt5quick5-gles (>= 5.9.0), libqt5quickcontrols2-5 (>= 5.12.2), libstdc++6 (>= 4.1.1), libdtkdeclarative5 (= 5.6.17), qml-module-qtquick-controls2-styles-chameleon (= 5.6.17)
+Filename: ./d/dtk-exhibition/dtk-exhibition_5.6.17_mips64el.deb
+Size: 9850672
+MD5sum: 9876168ccc5f9525bab8d47a7d47ea59
+SHA1: 9d86134ad64281c36aeeeca4a647daeaf2438351
+SHA256: 4bcb3c2389ce5714260077907e963b85baabf622469efb4db6b3008c222c9ee2
+SHA512: a0f6c796914bb753668de6b65040883cb2915e0bde325fbfe1500a9d0bbeeb74a2b3a0779d428f1252c94605134d3355797908e4b84f93e2bb5cc77d1e56517e
+Homepage: http://www.deepin.org
+Description: Deepin Tool Kit QML Controls example.
+ This package contains a applicatioin.
+

@@ -1,0 +1,19 @@
+Package: deepin-boot-kit
+Architecture: mips64el
+Version: 1.0.22
+Priority: optional
+Section: utils
+Source: deepin-upgrade-manager
+Maintainer: LinuxDeepin <linuxdeepin@deepin.org>
+Installed-Size: 3231
+Depends: libc6 (>= 2.34)
+Filename: ./d/deepin-boot-kit/deepin-boot-kit_1.0.22_mips64el.deb
+Size: 818780
+MD5sum: 47e47d247514200f3f80a0e1008ad497
+SHA1: 74fdb2ded81eec818bb09db676ffc94fe379ebe7
+SHA256: e0dace666c0d4160e473c4b5ec938d92f31b3dbad88ef688fe244de10c34ee28
+SHA512: 52f164e6cc15de839ddaea31ceb56241672630453b8587f71dd3d021cff23b5206439c640544afbe593c209684ee2fe7df9e0001039a70c6fa89259bad3bf8a6
+Homepage: https://www.deepin.org
+Description: uos rollback the grub management tool
+ uos system manage rollback grub in Linux.
+

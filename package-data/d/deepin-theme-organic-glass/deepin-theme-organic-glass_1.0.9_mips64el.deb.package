@@ -1,0 +1,18 @@
+Package: deepin-theme-organic-glass
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 82938
+Filename: ./d/deepin-theme-organic-glass/deepin-theme-organic-glass_1.0.9_mips64el.deb
+Size: 76438180
+MD5sum: b8c7b008dab69695558d56d4f3c534d3
+SHA1: 04cfbf25da4622b64379d3eada01a708cc9c1ac4
+SHA256: 935eff45ecbc1b3eff79d92dc1ff984b60a8117d6d519e28ce2826bc944f4b8d
+SHA512: 350a633715dcf9332236e76d950d6362d4b5d25fd473cd0a453355b6a8cc1882f9c727d4a93dd39d2922b9aa16558e8e1daf7caac692143fe5a0b167c55290cc
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - organic glass theme
+ deepin theme organic glass.
+

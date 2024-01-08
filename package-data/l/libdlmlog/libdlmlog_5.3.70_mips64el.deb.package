@@ -1,0 +1,21 @@
+Package: libdlmlog
+Architecture: mips64el
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 84
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libstdc++6 (>= 5.2)
+Conflicts: org.deepin.downloader (<= 5.3.15)
+Replaces: org.deepin.downloader (<= 5.3.15)
+Filename: ./l/libdlmlog/libdlmlog_5.3.70_mips64el.deb
+Size: 19032
+MD5sum: 1da4c84ae457878d8019819729a0d34b
+SHA1: 141e4894595cd86065d9bee3e4f2320691a7d2b8
+SHA256: 9558eb318a7184aad4f8d3c7ba58c4732640e7e623288a242014a2ca139b0fd8
+SHA512: 8ac1776f90fd8817ff5359d4302b94a53a52ae2a66f592c0fc059c643ae172cb4633bf1935171ab91ee96ddcab545ba547e892aa86b56a125791a3a6dcd93cd9
+Homepage: https://www.deepin.org/
+Description: download manager dlmlog lib.
+ downloader for deepin desktop environment.
+

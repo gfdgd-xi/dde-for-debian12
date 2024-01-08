@@ -1,0 +1,19 @@
+Package: deepin-theme-vintage
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 270
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-vintage/deepin-theme-vintage_1.0.9_mips64el.deb
+Size: 266828
+MD5sum: f6a4ced7db6aa0d90f2358644cc7f2c4
+SHA1: 06da2d5d0c20601e861199777cfb21a953d71283
+SHA256: aa107cd3576df80c682110b5eca07fbb99d09792c1de1b4ae82dd06d3ddf2565
+SHA512: 95c6f451d1f9e50fd9b6acda166ee3984d4963dfb1cab4c2a43d4df32b53e19333c1e833a2332e7018a384bcb49896422610c6451378e73c020c9eba8769c987
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - Vintage theme
+ deepin theme Vintage icon.
+

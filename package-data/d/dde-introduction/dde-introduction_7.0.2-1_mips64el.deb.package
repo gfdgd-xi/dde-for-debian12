@@ -1,0 +1,20 @@
+Package: dde-introduction
+Architecture: mips64el
+Version: 7.0.2-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 78070
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Filename: ./d/dde-introduction/dde-introduction_7.0.2-1_mips64el.deb
+Size: 70759180
+MD5sum: 6faf187abc4830f767252dc6827ff47d
+SHA1: e5d9e4de2f4dbd5f9817f2abba88e9fc39b63f34
+SHA256: bec1afd66f722f04416dff3f1e66422763ba02a45ebce66dc1748937223388c1
+SHA512: 2c5b07a47366e5ebfd071baabf2e65c9f62f248e1acc246d7cb81b0b0e2c37e31984b114601f686c502dbaf6adb6477a9580071bff13cb0ada866c4912ae5b99
+Homepage: http://www.deepin.org
+Description: Introduction for UOS
+ When you log into the system for the first time, a welcome program will automatically start.
+ Watch the introduction video to get new features, customize your desktop, enable the window
+ effect and know more about UnionTech OS.
+

@@ -1,0 +1,19 @@
+Package: deepin-theme-square
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 37305
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-square/deepin-theme-square_1.0.9_mips64el.deb
+Size: 30447996
+MD5sum: 191ca14f444314b53d73b2669d7a202b
+SHA1: 7854a5f5d2fffe12f2c62565e51a5660ff3f89f2
+SHA256: cbc73ac5b8700bc78ca08292b22974665d6f4e27a645eb644d1b766f466b135f
+SHA512: 73c9c21d9422b52326ba8048c0f7073d3aedef3c06cf13945c446768d6f36277f53feb774d768bcb8eee7d1876eb73a6a72a14df21b98020c48032f6b8488f2e
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - square theme
+ deepin theme square.
+

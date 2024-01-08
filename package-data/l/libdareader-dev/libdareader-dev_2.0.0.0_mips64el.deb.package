@@ -1,0 +1,19 @@
+Package: libdareader-dev
+Architecture: mips64el
+Version: 2.0.0.0
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 17
+Depends: libdareader1 (= 2.0.0.0)
+Filename: ./l/libdareader-dev/libdareader-dev_2.0.0.0_mips64el.deb
+Size: 2644
+MD5sum: 757a0a746bc45a72702b4f5ae1bdb7cb
+SHA1: 272a5d682823ff7f0daff865db265fb828716bd4
+SHA256: 31e06749e08d8a96ba96ef3141db807c0ead88d11f3d298697f0b3625585935d
+SHA512: dab17e0efa4cb4b6cbd1113ab234579f9b2f1af21d2173df04adf0b332db76b35ab52b944cf315ce384cef8a11a53ac4d6c2f3386c86d4d48a58cd3e1050f939
+Description: dev lib for read image/video data from deepin-authentication
+ this package is a dev lib for read image/video data from deepin-authentication.
+

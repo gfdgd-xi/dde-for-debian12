@@ -1,0 +1,22 @@
+Package: libimageeditor
+Architecture: mips64el
+Version: 1.0.14+u001
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 12028
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreeimage3 (>= 3.18.0+ds2), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11)
+Recommends: libqt5libqgtk2, kimageformat-plugins, deepin-ocr
+Conflicts: libimage-viewer
+Replaces: libimage-viewer
+Filename: ./l/libimageeditor/libimageeditor_1.0.14+u001_mips64el.deb
+Size: 696596
+MD5sum: 36a2438fb19e6a4edc18bebfc3761581
+SHA1: a6f04fde9bb49138384224483d4dec9011735ebe
+SHA256: 1dff2c93d03466e9e3e1cb8b440c207671baf211b0ffb1ab689b5a38efe1fb52
+SHA512: 1ddba07162fb20146df19a9290444ec52d6ac01b6f40f06ed2d0de31cc07f0b7453f110335407bfd58a5c4f7835be2ce0d6da154a4734d3c3c7cf184ec703248
+Homepage: http://www.deepin.org
+Description: Image Viewer library.
+ Deepin Image Viewer library.
+

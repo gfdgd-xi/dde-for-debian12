@@ -1,0 +1,18 @@
+Package: deepin-theme-macaron
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 37334
+Filename: ./d/deepin-theme-macaron/deepin-theme-macaron_1.0.9_mips64el.deb
+Size: 30881268
+MD5sum: 30adfb85e54a3e8e5abb02feca4d1fe9
+SHA1: a17f42467870bc23976fbccfcded28bd7586b1cd
+SHA256: c872cfaffdbd8e908affda14e318be4b8c260edbc8127e092678ac4491f648b5
+SHA512: 0182154b16362baa42fb5fa9c232a6de2684527dbde7c5862bab683674ed198b5fc2ac96c0987d1f19d211579234a049e1e04074ef6314327b15c2306b972c95
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - macaron theme
+ deepin theme organic glass.
+

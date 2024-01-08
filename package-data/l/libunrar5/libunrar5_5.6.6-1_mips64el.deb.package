@@ -1,0 +1,20 @@
+Package: libunrar5
+Architecture: mips64el
+Version: 1:5.6.6-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/libs
+Source: unrar-nonfree
+Maintainer: Martin Meredith <mez@debian.org>
+Installed-Size: 569
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Filename: ./l/libunrar5/libunrar5_5.6.6-1_mips64el.deb
+Size: 103596
+MD5sum: 6d2e6cc9caee2176d3e605f85a85fce4
+SHA1: 9812c653623ff1dd0b3732cda4c585126c875e9b
+SHA256: 78fbabdf947ebb9c7eb0098462e4619671f87bd0ca4a16fbd61cd4b175eba2ef
+SHA512: d786ec36c623a71b54d3cf7566e6e590adacd1056f2cf3368f9504882978b6d31fc39804aac85b755fb8cd9ba1070cd862a2f9ed1740501c3b63ea4d270a9c1e
+Homepage: http://www.rarlabs.com/
+Description: Unarchiver for .rar files (non-free version) - shared library
+ library for unarchiving .rar files
+

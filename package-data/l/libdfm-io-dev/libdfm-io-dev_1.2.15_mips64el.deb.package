@@ -1,0 +1,20 @@
+Package: libdfm-io-dev
+Architecture: mips64el
+Version: 1.2.15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: util-dfm
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 67
+Depends: libdfm-io
+Filename: ./l/libdfm-io-dev/libdfm-io-dev_1.2.15_mips64el.deb
+Size: 11504
+MD5sum: 529b4b1348cae05b05723cdaf673e9e7
+SHA1: bd4d15c3e642cc2584e9884821c79462e469c928
+SHA256: 58c69bd0af53badb9cbfe55576e53fddbc6c258f9940cb9e02f261950890d263
+SHA512: fbc8280248d6c80a7a548aa9ef99a81d890d3897af6a08d0b005576e200f30da8edc858871acbc9d1639d8469bfb12fffaadbce8fe5ce2a05dc764bbd60f0eef
+Homepage: http://www.deepin.org
+Description: A libaray about I/O dev.
+ A libaray that provides I/O interface dev.
+

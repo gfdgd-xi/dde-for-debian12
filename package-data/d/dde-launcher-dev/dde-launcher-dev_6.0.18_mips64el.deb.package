@@ -1,0 +1,19 @@
+Package: dde-launcher-dev
+Architecture: mips64el
+Version: 6.0.18
+Priority: optional
+Section: x11
+Source: dde-launcher
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 23
+Depends: dde-launcher (= 6.0.18)
+Filename: ./d/dde-launcher-dev/dde-launcher-dev_6.0.18_mips64el.deb
+Size: 9156
+MD5sum: 364c89c614f136e4ab0a80932a6094a1
+SHA1: 1f793bb5b6ae23713b26c469608d517baed3f888
+SHA256: dd3ecbb35a28975d2c178858e38246a53f37878b58aedacd7b402256002f98f4
+SHA512: d550941ac3df24790ddd526021b6cbe06fe3cb9c8c8818201166cbfd44ef162805757176cff842c876331220327fe869d552f277cf1b953ed3cdfa5319a8273f
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - launcher module development files
+ Launcher module development files of deepin desktop-environment
+

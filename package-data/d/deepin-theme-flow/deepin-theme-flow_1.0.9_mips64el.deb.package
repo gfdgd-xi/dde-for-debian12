@@ -1,0 +1,19 @@
+Package: deepin-theme-flow
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 61569
+Depends: deepin-icon-theme
+Filename: ./d/deepin-theme-flow/deepin-theme-flow_1.0.9_mips64el.deb
+Size: 58817276
+MD5sum: d971c84239a709adddd55e347a231052
+SHA1: 057a861cb512991b230e3865bb9fc0effa5489fc
+SHA256: ddeafd9ec4b2fb2265e3f1037fe0c634265ce851d19f212fbbfd7c3e80e71198
+SHA512: f4eeff040adcd9fe947938f4b909f978b8d2a0ef3c2430de6027276656cd927f5eb1fa05d94356dea4c129dec4c4ef8b1de77a9a36376c69106cff00a695df3b
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - flow theme
+ deepin theme flow.
+

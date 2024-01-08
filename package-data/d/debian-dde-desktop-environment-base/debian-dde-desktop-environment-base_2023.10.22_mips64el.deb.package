@@ -1,0 +1,25 @@
+Package: debian-dde-desktop-environment-base
+Architecture: mips64el
+Version: 2023.10.22
+Priority: standard
+Section: metapackages
+Source: debian-dde-desktop-environment
+Maintainer: gfdgd xi<3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 9
+Provides: deepin-desktop-environment-base
+Depends: adduser, apt, apt-utils, base-files, base-passwd, bash, bsdutils, coreutils, dash, debconf, debianutils, deepin-keyring, diffutils, dpkg, e2fsprogs, fdisk, findutils, gcc, gcc-11, gcc-11-base, gpgv, grep, gzip, hostname, init, libacl1, libattr1, libaudit1, libbz2-1.0, libc-bin, libc6, libcap-ng0, libdebconfclient0, libgcrypt20, libgmp10, libgnutls30, libgpg-error0, libidn2-0, liblocale-gettext-perl, liblz4-1, liblzma5, libncurses6, libp11-kit0, libpam-runtime, libpcre3, libselinux1, libstdc++6, libunistring2, libzstd1, login, lsb-base, mawk, mount, ncurses-base, ncurses-bin, passwd, perl-base, sed, sensible-utils, systemd, tar, tzdata, udev, util-linux, zlib1g, libzip4, unrar, pciutils
+Recommends: libffi6, libsepol1, libsemanage1, libnettle6
+Conflicts: deepin-desktop-environment-base
+Breaks: deepin-desktop-environment-base
+Filename: ./d/debian-dde-desktop-environment-base/debian-dde-desktop-environment-base_2023.10.22_mips64el.deb
+Size: 3652
+MD5sum: f1f25fdb102a4682b3a2ccef9418306e
+SHA1: dbcd4be9514f12e85de8298bd9832aa9a1597f41
+SHA256: 2f6a2fd83d674b9db5d2ab5ad1ede11427947991e54d0992cfd400d56019043f
+SHA512: 1fbe4d2dd2027b3aad55b4adde0d5adf5916635078e58d0392dcb8bac3f926c4870c41f4f37a4f6c86974b6c0e4df03ded0dc99ef7561ecf25a7a64f6159d4b2
+Homepage: http://debiandde.gfdgdxi.top
+Description: Deepin New Desktop Environment - Next
+ This is a base meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

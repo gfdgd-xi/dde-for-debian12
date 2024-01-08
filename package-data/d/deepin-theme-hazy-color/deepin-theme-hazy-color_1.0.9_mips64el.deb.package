@@ -1,0 +1,18 @@
+Package: deepin-theme-hazy-color
+Architecture: mips64el
+Version: 1.0.9
+Priority: optional
+Section: devel
+Source: deepin-desktop-theme
+Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Installed-Size: 60733
+Filename: ./d/deepin-theme-hazy-color/deepin-theme-hazy-color_1.0.9_mips64el.deb
+Size: 49458272
+MD5sum: ac538fe080cff0f9748740aa612e37c4
+SHA1: 03329bf81b0772acb6dc549ac7145718032f6a08
+SHA256: 0d088d09ae9cee23208af042e199537916c3f4af6769ee7cd149d1587454fe78
+SHA512: 5099a068df010f726112b58b4fc36787895401fb20359d9c9e9526670a8e784a2354faa76f738bf2d4d4406c4b7f29153ce73218b7e57ca9b5e5bb90a23ac059
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - hazy color theme
+ deepin theme hazy color.
+
